@@ -1,125 +1,125 @@
 {
   "version": 1,
-  "lang": "en",
+  "lang": "nl",
   "list": [
     {
       "categoryId": 1,
-      "title": "Father",
+      "title": "Vader",
       "picture": "https://loremflickr.com/640/480/father",
       "voice": "",
-      "transcription": "[\u02c8f\u0251\u02d0\u00f0\u0259r]",
+      "transcription": "va\u02d0d\u025br",
       "id": 1
     },
     {
       "categoryId": 1,
-      "title": "Mother",
+      "title": "Moeder",
       "picture": "https://loremflickr.com/640/480/mother",
       "voice": "",
-      "transcription": "[\u02c8m\u028c\u00f0\u0259r]",
+      "transcription": "mu\u02d0\u025bd\u025br",
       "id": 2
     },
     {
       "categoryId": 1,
-      "title": "Brother",
+      "title": "Broer",
       "picture": "https://loremflickr.com/640/480/brother",
       "voice": "",
-      "transcription": "[\u02c8br\u028c\u00f0\u0259r]",
+      "transcription": "pru\u02d0r",
       "id": 3
     },
     {
       "categoryId": 1,
-      "title": "Sister",
+      "title": "Zus",
       "picture": "https://loremflickr.com/640/480/sister",
       "voice": "",
-      "transcription": "[\u02c8s\u026ast\u0259r]",
+      "transcription": "z\u028fs",
       "id": 4
     },
     {
       "categoryId": 1,
-      "title": "Child",
+      "title": "Kind",
       "picture": "https://loremflickr.com/640/480/child",
       "voice": "",
-      "transcription": "[t\u0283a\u026ald]",
+      "transcription": "k\u026ant",
       "id": 5
     },
     {
       "categoryId": 1,
-      "title": "Grandmother",
+      "title": "Grootmoeder",
       "picture": "https://loremflickr.com/640/480/grandmother",
       "voice": "",
-      "transcription": "[\u02c8\u0261r\u00e6nm\u028c\u00f0\u0259r]",
+      "transcription": "xro\u02d0tmu\u02d0\u025bd\u025br",
       "id": 6
     },
     {
       "categoryId": 1,
-      "title": "Grandfather",
+      "title": "Grootvader",
       "picture": "https://loremflickr.com/640/480/grandfather",
       "voice": "",
-      "transcription": "[\u02c8\u0261r\u00e6nf\u0251\u02d0\u00f0\u0259r]",
+      "transcription": "xro\u02d0tva\u02d0d\u025br",
       "id": 7
     },
     {
       "categoryId": 1,
-      "title": "Uncle",
+      "title": "Oom",
       "picture": "https://loremflickr.com/640/480/uncle",
       "voice": "",
-      "transcription": "[\u02c8\u028c\u014bkl]",
+      "transcription": "o\u02d0m",
       "id": 8
     },
     {
       "categoryId": 1,
-      "title": "Aunt",
+      "title": "Tante",
       "picture": "https://loremflickr.com/640/480/aunt",
       "voice": "",
-      "transcription": "[\u00e6nt]",
+      "transcription": "t\u0251nte\u02d0",
       "id": 9
     },
     {
       "categoryId": 1,
-      "title": "Cousin",
+      "title": "Neef",
       "picture": "https://loremflickr.com/640/480/cousin",
       "voice": "",
-      "transcription": "[\u02c8k\u028cz\u026an]",
+      "transcription": "ne\u02d0f",
       "id": 10
     },
     {
       "categoryId": 2,
-      "title": "Plate",
+      "title": "Bord",
       "picture": "https://loremflickr.com/640/480/plate",
       "voice": "",
-      "transcription": "[ple\u026at]",
+      "transcription": "b\u0254rt",
       "id": 11
     },
     {
       "categoryId": 2,
-      "title": "Cup",
+      "title": "Beker",
       "picture": "https://loremflickr.com/640/480/cup",
       "voice": "",
-      "transcription": "[k\u028cp]",
+      "transcription": "be\u02d0k\u025br",
       "id": 12
     },
     {
       "categoryId": 2,
-      "title": "Fork",
+      "title": "Vork",
       "picture": "https://loremflickr.com/640/480/fork",
       "voice": "",
-      "transcription": "[f\u0254\u02d0rk]",
+      "transcription": "v\u0254rk",
       "id": 13
     },
     {
       "categoryId": 2,
-      "title": "Knife",
+      "title": "Mes",
       "picture": "https://loremflickr.com/640/480/knife",
       "voice": "",
-      "transcription": "[na\u026af]",
+      "transcription": "m\u025bs",
       "id": 14
     },
     {
       "categoryId": 2,
-      "title": "Spoon",
+      "title": "Lepel",
       "picture": "https://loremflickr.com/640/480/spoon",
       "voice": "",
-      "transcription": "[spu\u02d0n]",
+      "transcription": "le\u02d0p\u025bl",
       "id": 15
     },
     {
@@ -127,63 +127,63 @@
       "title": "Pan",
       "picture": "https://loremflickr.com/640/480/pan",
       "voice": "",
-      "transcription": "[p\u00e6n]",
+      "transcription": "p\u0251n",
       "id": 16
     },
     {
       "categoryId": 2,
-      "title": "Stove",
+      "title": "Fornuis",
       "picture": "https://loremflickr.com/640/480/stove",
       "voice": "",
-      "transcription": "[sto\u028av]",
+      "transcription": "f\u0254rn\u0153\u0265s",
       "id": 17
     },
     {
       "categoryId": 2,
-      "title": "Refrigerator",
+      "title": "Koelkast",
       "picture": "https://loremflickr.com/640/480/refrigerator",
       "voice": "",
-      "transcription": "[r\u026a\u02c8fr\u026ad\u0292\u0259re\u026at\u0259r]",
+      "transcription": "ku\u02d0lk\u0251st",
       "id": 18
     },
     {
       "categoryId": 2,
-      "title": "Microwave",
+      "title": "Magnetron",
       "picture": "https://loremflickr.com/640/480/microwave",
       "voice": "",
-      "transcription": "[\u02c8ma\u026akr\u0259\u02ccwe\u026av]",
+      "transcription": "m\u0251xn\u025btr\u0254n",
       "id": 19
     },
     {
       "categoryId": 2,
-      "title": "Sink",
+      "title": "Wasbak",
       "picture": "https://loremflickr.com/640/480/sink",
       "voice": "",
-      "transcription": "[s\u026a\u014bk]",
+      "transcription": "\u028b\u0251sb\u0251k",
       "id": 20
     },
     {
       "categoryId": 3,
-      "title": "Airport",
+      "title": "Luchthaven",
       "picture": "https://loremflickr.com/640/480/airport",
       "voice": "",
-      "transcription": "[\u02c8\u025b\u0259rp\u0254\u02d0rt]",
+      "transcription": "l\u028fxta\u02d0v\u025bn",
       "id": 21
     },
     {
       "categoryId": 3,
-      "title": "Passport",
+      "title": "Paspoort",
       "picture": "https://loremflickr.com/640/480/passport",
       "voice": "",
-      "transcription": "[\u02c8p\u00e6sp\u0254\u02d0rt]",
+      "transcription": "p\u0251spo\u02d0rt",
       "id": 22
     },
     {
       "categoryId": 3,
-      "title": "Luggage",
+      "title": "Bagage",
       "picture": "https://loremflickr.com/640/480/luggage",
       "voice": "",
-      "transcription": "[\u02c8l\u028c\u0261\u026ad\u0292]",
+      "transcription": "ba\u02d0\u0263\u0251\u0263e\u02d0",
       "id": 23
     },
     {
@@ -191,15 +191,15 @@
       "title": "Ticket",
       "picture": "https://loremflickr.com/640/480/ticket",
       "voice": "",
-      "transcription": "[\u02c8t\u026ak\u026at]",
+      "transcription": "t\u026ak\u025bt",
       "id": 24
     },
     {
       "categoryId": 3,
-      "title": "Flight",
+      "title": "Vlucht",
       "picture": "https://loremflickr.com/640/480/flight",
       "voice": "",
-      "transcription": "[fla\u026at]",
+      "transcription": "vl\u028fxt",
       "id": 25
     },
     {
@@ -207,7 +207,7 @@
       "title": "Hotel",
       "picture": "https://loremflickr.com/640/480/hotel",
       "voice": "",
-      "transcription": "[ho\u028a\u02c8t\u025bl]",
+      "transcription": "ho\u02d0t\u025bl",
       "id": 26
     },
     {
@@ -215,15 +215,15 @@
       "title": "Taxi",
       "picture": "https://loremflickr.com/640/480/taxi",
       "voice": "",
-      "transcription": "[\u02c8t\u00e6ksi]",
+      "transcription": "t\u0251ksi\u02d0",
       "id": 27
     },
     {
       "categoryId": 3,
-      "title": "Train",
+      "title": "Trein",
       "picture": "https://loremflickr.com/640/480/train",
       "voice": "",
-      "transcription": "[tre\u026an]",
+      "transcription": "tr\u025bjn",
       "id": 28
     },
     {
@@ -231,255 +231,255 @@
       "title": "Bus",
       "picture": "https://loremflickr.com/640/480/bus",
       "voice": "",
-      "transcription": "[b\u028cs]",
+      "transcription": "b\u028fs",
       "id": 29
     },
     {
       "categoryId": 3,
-      "title": "Map",
+      "title": "Kaart",
       "picture": "https://loremflickr.com/640/480/map",
       "voice": "",
-      "transcription": "[m\u00e6p]",
+      "transcription": "ka\u02d0rt",
       "id": 30
     },
     {
       "categoryId": 4,
-      "title": "Dog",
+      "title": "Hond",
       "picture": "https://loremflickr.com/640/480/dog",
       "voice": "",
-      "transcription": "[d\u0254\u02d0\u0261]",
+      "transcription": "h\u0254nt",
       "id": 31
     },
     {
       "categoryId": 4,
-      "title": "Cat",
+      "title": "Kat",
       "picture": "https://loremflickr.com/640/480/cat",
       "voice": "",
-      "transcription": "[k\u00e6t]",
+      "transcription": "k\u0251t",
       "id": 32
     },
     {
       "categoryId": 4,
-      "title": "Elephant",
+      "title": "Olifant",
       "picture": "https://loremflickr.com/640/480/elephant",
       "voice": "",
-      "transcription": "[\u02c8\u025bl\u026af\u0259nt]",
+      "transcription": "o\u02d0li\u02d0f\u0251nt",
       "id": 33
     },
     {
       "categoryId": 4,
-      "title": "Tiger",
+      "title": "Tijger",
       "picture": "https://loremflickr.com/640/480/tiger",
       "voice": "",
-      "transcription": "[\u02c8ta\u026a\u0261\u0259r]",
+      "transcription": "t\u025bj\u0263\u025br",
       "id": 34
     },
     {
       "categoryId": 4,
-      "title": "Lion",
+      "title": "Leeuw",
       "picture": "https://loremflickr.com/640/480/lion",
       "voice": "",
-      "transcription": "[\u02c8la\u026a\u0259n]",
+      "transcription": "le\u02d0w",
       "id": 35
     },
     {
       "categoryId": 4,
-      "title": "Bird",
+      "title": "Vogel",
       "picture": "https://loremflickr.com/640/480/bird",
       "voice": "",
-      "transcription": "[b\u025c\u02d0rd]",
+      "transcription": "vo\u02d0\u0263\u025bl",
       "id": 36
     },
     {
       "categoryId": 4,
-      "title": "Fish",
+      "title": "Vis",
       "picture": "https://loremflickr.com/640/480/fish",
       "voice": "",
-      "transcription": "[f\u026a\u0283]",
+      "transcription": "v\u026as",
       "id": 37
     },
     {
       "categoryId": 4,
-      "title": "Horse",
+      "title": "Paard",
       "picture": "https://loremflickr.com/640/480/horse",
       "voice": "",
-      "transcription": "[h\u0254\u02d0rs]",
+      "transcription": "pa\u02d0rt",
       "id": 38
     },
     {
       "categoryId": 4,
-      "title": "Cow",
+      "title": "Koe",
       "picture": "https://loremflickr.com/640/480/cow",
       "voice": "",
-      "transcription": "[ka\u028a]",
+      "transcription": "ku\u02d0e\u02d0",
       "id": 39
     },
     {
       "categoryId": 4,
-      "title": "Monkey",
+      "title": "Aap",
       "picture": "https://loremflickr.com/640/480/monkey",
       "voice": "",
-      "transcription": "[\u02c8m\u028c\u014bki]",
+      "transcription": "a\u02d0p",
       "id": 40
     },
     {
       "categoryId": 5,
-      "title": "Red",
+      "title": "Rood",
       "picture": "https://loremflickr.com/640/480/red",
       "voice": "",
-      "transcription": "[r\u025bd]",
+      "transcription": "ro\u02d0t",
       "id": 41
     },
     {
       "categoryId": 5,
-      "title": "Blue",
+      "title": "Blauw",
       "picture": "https://loremflickr.com/640/480/blue",
       "voice": "",
-      "transcription": "[blu\u02d0]",
+      "transcription": "plaw",
       "id": 42
     },
     {
       "categoryId": 5,
-      "title": "Green",
+      "title": "Groente",
       "picture": "https://loremflickr.com/640/480/green",
       "voice": "",
-      "transcription": "[\u0261ri\u02d0n]",
+      "transcription": "xru\u02d0nte\u02d0",
       "id": 43
     },
     {
       "categoryId": 5,
-      "title": "Yellow",
+      "title": "Geel",
       "picture": "https://loremflickr.com/640/480/yellow",
       "voice": "",
-      "transcription": "[\u02c8j\u025blo\u028a]",
+      "transcription": "\u0263e\u02d0l",
       "id": 44
     },
     {
       "categoryId": 5,
-      "title": "Black",
+      "title": "Zwart",
       "picture": "https://loremflickr.com/640/480/black",
       "voice": "",
-      "transcription": "[bl\u00e6k]",
+      "transcription": "z\u028b\u0251rt",
       "id": 45
     },
     {
       "categoryId": 5,
-      "title": "White",
+      "title": "Wit",
       "picture": "https://loremflickr.com/640/480/white",
       "voice": "",
-      "transcription": "[wa\u026at]",
+      "transcription": "\u028b\u026at",
       "id": 46
     },
     {
       "categoryId": 5,
-      "title": "Purple",
+      "title": "Paars",
       "picture": "https://loremflickr.com/640/480/purple",
       "voice": "",
-      "transcription": "[\u02c8p\u025c\u02d0rp\u0259l]",
+      "transcription": "pa\u02d0rs",
       "id": 47
     },
     {
       "categoryId": 5,
-      "title": "Orange",
+      "title": "Oranje",
       "picture": "https://loremflickr.com/640/480/orange",
       "voice": "",
-      "transcription": "[\u02c8\u0254\u02d0r\u026and\u0292]",
+      "transcription": "o\u02d0r\u0251nje\u02d0",
       "id": 48
     },
     {
       "categoryId": 5,
-      "title": "Pink",
+      "title": "Roze",
       "picture": "https://loremflickr.com/640/480/pink",
       "voice": "",
-      "transcription": "[p\u026a\u014bk]",
+      "transcription": "ro\u02d0ze\u02d0",
       "id": 49
     },
     {
       "categoryId": 5,
-      "title": "Brown",
+      "title": "Bruin",
       "picture": "https://loremflickr.com/640/480/brown",
       "voice": "",
-      "transcription": "[bra\u028an]",
+      "transcription": "pr\u0153\u0265n",
       "id": 50
     },
     {
       "categoryId": 6,
-      "title": "Apple",
+      "title": "Appel",
       "picture": "https://loremflickr.com/640/480/apple",
       "voice": "",
-      "transcription": "[\u02c8\u00e6p\u0259l]",
+      "transcription": "\u0251pp\u025bl",
       "id": 51
     },
     {
       "categoryId": 6,
-      "title": "Banana",
+      "title": "Banaan",
       "picture": "https://loremflickr.com/640/480/banana",
       "voice": "",
-      "transcription": "[b\u0259\u02c8n\u00e6n\u0259]",
+      "transcription": "ba\u02d0na\u02d0n",
       "id": 52
     },
     {
       "categoryId": 6,
-      "title": "Bread",
+      "title": "Brood",
       "picture": "https://loremflickr.com/640/480/bread",
       "voice": "",
-      "transcription": "[br\u025bd]",
+      "transcription": "pro\u02d0t",
       "id": 53
     },
     {
       "categoryId": 6,
-      "title": "Cheese",
+      "title": "Kaas",
       "picture": "https://loremflickr.com/640/480/cheese",
       "voice": "",
-      "transcription": "[t\u0283i\u02d0z]",
+      "transcription": "ka\u02d0s",
       "id": 54
     },
     {
       "categoryId": 6,
-      "title": "Egg",
+      "title": "Ei",
       "picture": "https://loremflickr.com/640/480/egg",
       "voice": "",
-      "transcription": "[\u025b\u0261]",
+      "transcription": "\u025bji\u02d0",
       "id": 55
     },
     {
       "categoryId": 6,
-      "title": "Fish",
+      "title": "Vis",
       "picture": "https://loremflickr.com/640/480/fish",
       "voice": "",
-      "transcription": "[f\u026a\u0283]",
+      "transcription": "v\u026as",
       "id": 56
     },
     {
       "categoryId": 6,
-      "title": "Meat",
+      "title": "Vlees",
       "picture": "https://loremflickr.com/640/480/meat",
       "voice": "",
-      "transcription": "[mi\u02d0t]",
+      "transcription": "vle\u02d0s",
       "id": 57
     },
     {
       "categoryId": 6,
-      "title": "Rice",
+      "title": "Rijst",
       "picture": "https://loremflickr.com/640/480/rice",
       "voice": "",
-      "transcription": "[ra\u026as]",
+      "transcription": "r\u025bjst",
       "id": 58
     },
     {
       "categoryId": 6,
-      "title": "Soup",
+      "title": "Soep",
       "picture": "https://loremflickr.com/640/480/soup",
       "voice": "",
-      "transcription": "[su\u02d0p]",
+      "transcription": "su\u02d0p",
       "id": 59
     },
     {
       "categoryId": 6,
-      "title": "Vegetables",
+      "title": "Groenten",
       "picture": "https://loremflickr.com/640/480/vegetables",
       "voice": "",
-      "transcription": "[\u02c8v\u025bd\u0292t\u0259blz]",
+      "transcription": "xru\u02d0nt\u025bn",
       "id": 60
     },
     {
@@ -487,95 +487,95 @@
       "title": "Shirt",
       "picture": "https://loremflickr.com/640/480/shirt",
       "voice": "",
-      "transcription": "[\u0283\u025c\u02d0rt]",
+      "transcription": "\u0283\u026art",
       "id": 61
     },
     {
       "categoryId": 7,
-      "title": "Pants",
+      "title": "Broek",
       "picture": "https://loremflickr.com/640/480/pants",
       "voice": "",
-      "transcription": "[p\u00e6nts]",
+      "transcription": "pru\u02d0k",
       "id": 62
     },
     {
       "categoryId": 7,
-      "title": "Jacket",
+      "title": "Jasje",
       "picture": "https://loremflickr.com/640/480/jacket",
       "voice": "",
-      "transcription": "[\u02c8d\u0292\u00e6k\u026at]",
+      "transcription": "j\u0251\u0283e\u02d0",
       "id": 63
     },
     {
       "categoryId": 7,
-      "title": "Dress",
+      "title": "Jurk",
       "picture": "https://loremflickr.com/640/480/dress",
       "voice": "",
-      "transcription": "[dr\u025bs]",
+      "transcription": "j\u028frk",
       "id": 64
     },
     {
       "categoryId": 7,
-      "title": "Shoes",
+      "title": "Schoenen",
       "picture": "https://loremflickr.com/640/480/shoes",
       "voice": "",
-      "transcription": "[\u0283u\u02d0z]",
+      "transcription": "sxu\u02d0\u025bn\u025bn",
       "id": 65
     },
     {
       "categoryId": 7,
-      "title": "Hat",
+      "title": "Hoed",
       "picture": "https://loremflickr.com/640/480/hat",
       "voice": "",
-      "transcription": "[h\u00e6t]",
+      "transcription": "hu\u02d0t",
       "id": 66
     },
     {
       "categoryId": 7,
-      "title": "Scarf",
+      "title": "Sjaal",
       "picture": "https://loremflickr.com/640/480/scarf",
       "voice": "",
-      "transcription": "[sk\u0251\u02d0rf]",
+      "transcription": "\u0283a\u02d0l",
       "id": 67
     },
     {
       "categoryId": 7,
-      "title": "Gloves",
+      "title": "Handschoenen",
       "picture": "https://loremflickr.com/640/480/gloves",
       "voice": "",
-      "transcription": "[\u0261l\u028cvz]",
+      "transcription": "h\u0251ntsxu\u02d0\u025bn\u025bn",
       "id": 68
     },
     {
       "categoryId": 7,
-      "title": "Socks",
+      "title": "Sokken",
       "picture": "https://loremflickr.com/640/480/socks",
       "voice": "",
-      "transcription": "[s\u0251\u02d0ks]",
+      "transcription": "s\u0254kk\u025bn",
       "id": 69
     },
     {
       "categoryId": 7,
-      "title": "Skirt",
+      "title": "Rok",
       "picture": "https://loremflickr.com/640/480/skirt",
       "voice": "",
-      "transcription": "[sk\u025c\u02d0rt]",
+      "transcription": "r\u0254k",
       "id": 70
     },
     {
       "categoryId": 8,
-      "title": "Book",
+      "title": "Boek",
       "picture": "https://loremflickr.com/640/480/book",
       "voice": "",
-      "transcription": "[b\u028ak]",
+      "transcription": "bu\u02d0k",
       "id": 71
     },
     {
       "categoryId": 8,
-      "title": "Pencil",
+      "title": "Potlood",
       "picture": "https://loremflickr.com/640/480/pencil",
       "voice": "",
-      "transcription": "[\u02c8p\u025bns\u0259l]",
+      "transcription": "p\u0254tlo\u02d0t",
       "id": 72
     },
     {
@@ -583,47 +583,47 @@
       "title": "Pen",
       "picture": "https://loremflickr.com/640/480/pen",
       "voice": "",
-      "transcription": "[p\u025bn]",
+      "transcription": "p\u025bn",
       "id": 73
     },
     {
       "categoryId": 8,
-      "title": "Eraser",
+      "title": "Gom",
       "picture": "https://loremflickr.com/640/480/eraser",
       "voice": "",
-      "transcription": "[\u026a\u02c8re\u026as\u0259r]",
+      "transcription": "\u0263\u0254m",
       "id": 74
     },
     {
       "categoryId": 8,
-      "title": "Notebook",
+      "title": "Notitieboekje",
       "picture": "https://loremflickr.com/640/480/notebook",
       "voice": "",
-      "transcription": "[\u02c8no\u028atb\u028ak]",
+      "transcription": "no\u02d0ti\u02d0ti\u02d0\u025bbu\u02d0kje\u02d0",
       "id": 75
     },
     {
       "categoryId": 8,
-      "title": "Desk",
+      "title": "Bureau",
       "picture": "https://loremflickr.com/640/480/desk",
       "voice": "",
-      "transcription": "[d\u025bsk]",
+      "transcription": "by\u02d0r\u025bawy\u02d0",
       "id": 76
     },
     {
       "categoryId": 8,
-      "title": "Chair",
+      "title": "Stoel",
       "picture": "https://loremflickr.com/640/480/chair",
       "voice": "",
-      "transcription": "[\u02a7\u025br]",
+      "transcription": "stu\u02d0l",
       "id": 77
     },
     {
       "categoryId": 8,
-      "title": "Teacher",
+      "title": "Docent",
       "picture": "https://loremflickr.com/640/480/teacher",
       "voice": "",
-      "transcription": "[\u02c8ti\u02d0\u02a7\u0259r]",
+      "transcription": "do\u02d0s\u025bnt",
       "id": 78
     },
     {
@@ -631,31 +631,31 @@
       "title": "Student",
       "picture": "https://loremflickr.com/640/480/student",
       "voice": "",
-      "transcription": "[\u02c8stu\u02d0d\u0259nt]",
+      "transcription": "sty\u02d0d\u025bnt",
       "id": 79
     },
     {
       "categoryId": 8,
-      "title": "Ruler",
+      "title": "Liniaal",
       "picture": "https://loremflickr.com/640/480/ruler",
       "voice": "",
-      "transcription": "[\u02c8ru\u02d0l\u0259r]",
+      "transcription": "li\u02d0n\u026aa\u02d0l",
       "id": 80
     },
     {
       "categoryId": 9,
-      "title": "Soccer",
+      "title": "Voetbal",
       "picture": "https://loremflickr.com/640/480/soccer",
       "voice": "",
-      "transcription": "[\u02c8s\u0252k\u0259r]",
+      "transcription": "vu\u02d0tb\u0251l",
       "id": 81
     },
     {
       "categoryId": 9,
-      "title": "Basketball",
+      "title": "Basketbal",
       "picture": "https://loremflickr.com/640/480/basketball",
       "voice": "",
-      "transcription": "[\u02c8b\u00e6sk\u026atb\u0254\u02d0l]",
+      "transcription": "b\u0251sk\u025btb\u0251l",
       "id": 82
     },
     {
@@ -663,39 +663,39 @@
       "title": "Tennis",
       "picture": "https://loremflickr.com/640/480/tennis",
       "voice": "",
-      "transcription": "[\u02c8t\u025bn\u026as]",
+      "transcription": "t\u025bnn\u026as",
       "id": 83
     },
     {
       "categoryId": 9,
-      "title": "Baseball",
+      "title": "Honkbal",
       "picture": "https://loremflickr.com/640/480/baseball",
       "voice": "",
-      "transcription": "[\u02c8be\u026asb\u0254\u02d0l]",
+      "transcription": "h\u0254nkb\u0251l",
       "id": 84
     },
     {
       "categoryId": 9,
-      "title": "Swimming",
+      "title": "Zwemmen",
       "picture": "https://loremflickr.com/640/480/swimming",
       "voice": "",
-      "transcription": "[\u02c8sw\u026am\u026a\u014b]",
+      "transcription": "z\u028b\u025bmm\u025bn",
       "id": 85
     },
     {
       "categoryId": 9,
-      "title": "Running",
+      "title": "Rennen",
       "picture": "https://loremflickr.com/640/480/running",
       "voice": "",
-      "transcription": "[\u02c8r\u028cn\u026a\u014b]",
+      "transcription": "r\u025bnn\u025bn",
       "id": 86
     },
     {
       "categoryId": 9,
-      "title": "Cycling",
+      "title": "Fietsen",
       "picture": "https://loremflickr.com/640/480/cycling",
       "voice": "",
-      "transcription": "[\u02c8sa\u026akl\u026a\u014b]",
+      "transcription": "fi\u02d0ts\u025bn",
       "id": 87
     },
     {
@@ -703,23 +703,23 @@
       "title": "Golf",
       "picture": "https://loremflickr.com/640/480/golf",
       "voice": "",
-      "transcription": "[\u0261\u0252lf]",
+      "transcription": "\u0263\u0254lf",
       "id": 88
     },
     {
       "categoryId": 9,
-      "title": "Boxing",
+      "title": "Boksen",
       "picture": "https://loremflickr.com/640/480/boxing",
       "voice": "",
-      "transcription": "[\u02c8b\u0252ks\u026a\u014b]",
+      "transcription": "b\u0254ks\u025bn",
       "id": 89
     },
     {
       "categoryId": 9,
-      "title": "Volleyball",
+      "title": "Volleybal",
       "picture": "https://loremflickr.com/640/480/volleyball",
       "voice": "",
-      "transcription": "[\u02c8v\u0252lib\u0254\u02d0l]",
+      "transcription": "v\u0254j\u025bjb\u0251l",
       "id": 90
     },
     {
@@ -727,15 +727,15 @@
       "title": "Computer",
       "picture": "https://loremflickr.com/640/480/computer",
       "voice": "",
-      "transcription": "[k\u0259m\u02c8pju\u02d0t\u0259r]",
+      "transcription": "c\u0254mpy\u02d0t\u025br",
       "id": 91
     },
     {
       "categoryId": 10,
-      "title": "Phone",
+      "title": "Telefoon",
       "picture": "https://loremflickr.com/640/480/phone",
       "voice": "",
-      "transcription": "[fo\u028an]",
+      "transcription": "te\u02d0l\u025bfo\u02d0n",
       "id": 92
     },
     {
@@ -743,7 +743,7 @@
       "title": "Tablet",
       "picture": "https://loremflickr.com/640/480/tablet",
       "voice": "",
-      "transcription": "[\u02c8t\u00e6bl\u026at]",
+      "transcription": "t\u0251pl\u025bt",
       "id": 93
     },
     {
@@ -751,23 +751,23 @@
       "title": "Laptop",
       "picture": "https://loremflickr.com/640/480/laptop",
       "voice": "",
-      "transcription": "[\u02c8l\u00e6pt\u0252p]",
+      "transcription": "l\u0251pt\u0254p",
       "id": 94
     },
     {
       "categoryId": 10,
-      "title": "Keyboard",
+      "title": "Toetsenbord",
       "picture": "https://loremflickr.com/640/480/keyboard",
       "voice": "",
-      "transcription": "[\u02c8ki\u02d0b\u0254\u02d0rd]",
+      "transcription": "tu\u02d0ts\u025bnb\u0254rt",
       "id": 95
     },
     {
       "categoryId": 10,
-      "title": "Mouse",
+      "title": "Muis",
       "picture": "https://loremflickr.com/640/480/mouse",
       "voice": "",
-      "transcription": "[ma\u028as]",
+      "transcription": "m\u0153\u0265s",
       "id": 96
     },
     {
@@ -775,7 +775,7 @@
       "title": "Printer",
       "picture": "https://loremflickr.com/640/480/printer",
       "voice": "",
-      "transcription": "[\u02c8pr\u026ant\u0259r]",
+      "transcription": "pr\u026ant\u025br",
       "id": 97
     },
     {
@@ -783,15 +783,15 @@
       "title": "Monitor",
       "picture": "https://loremflickr.com/640/480/monitor",
       "voice": "",
-      "transcription": "[\u02c8m\u0252n\u026at\u0259r]",
+      "transcription": "mo\u02d0ni\u02d0t\u0254r",
       "id": 98
     },
     {
       "categoryId": 10,
-      "title": "Headphones",
+      "title": "Hoofdtelefoon",
       "picture": "https://loremflickr.com/640/480/headphones",
       "voice": "",
-      "transcription": "[\u02c8h\u025bd\u02ccfo\u028anz]",
+      "transcription": "ho\u02d0ftte\u02d0l\u025bfo\u02d0n",
       "id": 99
     },
     {
@@ -799,127 +799,127 @@
       "title": "Camera",
       "picture": "https://loremflickr.com/640/480/camera",
       "voice": "",
-      "transcription": "[\u02c8k\u00e6mr\u0259]",
+      "transcription": "ca\u02d0me\u02d0ra\u02d0",
       "id": 100
     },
     {
       "categoryId": 11,
-      "title": "Happiness",
+      "title": "Geluk",
       "picture": "https://loremflickr.com/640/480/happiness",
       "voice": "",
-      "transcription": "[\u02c8h\u00e6p\u026an\u026as]",
+      "transcription": "\u0263e\u02d0l\u028fk",
       "id": 101
     },
     {
       "categoryId": 11,
-      "title": "Sadness",
+      "title": "Droefheid",
       "picture": "https://loremflickr.com/640/480/sadness",
       "voice": "",
-      "transcription": "[\u02c8s\u00e6dn\u026as]",
+      "transcription": "tru\u02d0fh\u025bjt",
       "id": 102
     },
     {
       "categoryId": 11,
-      "title": "Anger",
+      "title": "Woede",
       "picture": "https://loremflickr.com/640/480/anger",
       "voice": "",
-      "transcription": "[\u02c8\u00e6\u014b\u0261\u0259r]",
+      "transcription": "\u028bu\u02d0\u025bde\u02d0",
       "id": 103
     },
     {
       "categoryId": 11,
-      "title": "Fear",
+      "title": "Angst",
       "picture": "https://loremflickr.com/640/480/fear",
       "voice": "",
-      "transcription": "[f\u026a\u0259r]",
+      "transcription": "\u0251nxst",
       "id": 104
     },
     {
       "categoryId": 11,
-      "title": "Love",
+      "title": "Liefde",
       "picture": "https://loremflickr.com/640/480/love",
       "voice": "",
-      "transcription": "[l\u028cv]",
+      "transcription": "li\u02d0fde\u02d0",
       "id": 105
     },
     {
       "categoryId": 11,
-      "title": "Jealousy",
+      "title": "Jaloezie",
       "picture": "https://loremflickr.com/640/480/jealousy",
       "voice": "",
-      "transcription": "[\u02c8\u02a4\u025bl\u0259si]",
+      "transcription": "ja\u02d0lu\u02d0\u025bzi\u02d0e\u02d0",
       "id": 106
     },
     {
       "categoryId": 11,
-      "title": "Excitement",
+      "title": "Spanning",
       "picture": "https://loremflickr.com/640/480/excitement",
       "voice": "",
-      "transcription": "[\u026ak\u02c8sa\u026atm\u0259nt]",
+      "transcription": "sp\u0251nn\u026anx",
       "id": 107
     },
     {
       "categoryId": 11,
-      "title": "Surprise",
+      "title": "Verrassing",
       "picture": "https://loremflickr.com/640/480/surprise",
       "voice": "",
-      "transcription": "[s\u0259r\u02c8pra\u026az]",
+      "transcription": "v\u025brr\u0251ss\u026anx",
       "id": 108
     },
     {
       "categoryId": 11,
-      "title": "Disgust",
+      "title": "Walging",
       "picture": "https://loremflickr.com/640/480/disgust",
       "voice": "",
-      "transcription": "[d\u026as\u02c8\u0261\u028cst]",
+      "transcription": "\u028b\u0251l\u0263\u026anx",
       "id": 109
     },
     {
       "categoryId": 11,
-      "title": "Confusion",
+      "title": "Verwarring",
       "picture": "https://loremflickr.com/640/480/confusion",
       "voice": "",
-      "transcription": "[k\u0259n\u02c8fju\u02d0\u0292\u0259n]",
+      "transcription": "v\u025br\u028b\u0251rr\u026anx",
       "id": 110
     },
     {
       "categoryId": 12,
-      "title": "Morning",
+      "title": "Ochtend",
       "picture": "https://loremflickr.com/640/480/morning",
       "voice": "",
-      "transcription": "[\u02c8m\u0254\u02d0rn\u026a\u014b]",
+      "transcription": "\u0254xt\u025bnt",
       "id": 111
     },
     {
       "categoryId": 12,
-      "title": "Afternoon",
+      "title": "Middag",
       "picture": "https://loremflickr.com/640/480/afternoon",
       "voice": "",
-      "transcription": "[\u02cc\u00e6ft\u0259r\u02c8nu\u02d0n]",
+      "transcription": "m\u026atd\u0251x",
       "id": 112
     },
     {
       "categoryId": 12,
-      "title": "Evening",
+      "title": "Avond",
       "picture": "https://loremflickr.com/640/480/evening",
       "voice": "",
-      "transcription": "[\u02c8i\u02d0vn\u026a\u014b]",
+      "transcription": "a\u02d0v\u0254nt",
       "id": 113
     },
     {
       "categoryId": 12,
-      "title": "Night",
+      "title": "Nacht",
       "picture": "https://loremflickr.com/640/480/night",
       "voice": "",
-      "transcription": "[na\u026at]",
+      "transcription": "n\u0251xt",
       "id": 114
     },
     {
       "categoryId": 12,
-      "title": "Day",
+      "title": "Dag",
       "picture": "https://loremflickr.com/640/480/day",
       "voice": "",
-      "transcription": "[de\u026a]",
+      "transcription": "d\u0251x",
       "id": 115
     },
     {
@@ -927,199 +927,199 @@
       "title": "Week",
       "picture": "https://loremflickr.com/640/480/week",
       "voice": "",
-      "transcription": "[wi\u02d0k]",
+      "transcription": "\u028be\u02d0k",
       "id": 116
     },
     {
       "categoryId": 12,
-      "title": "Month",
+      "title": "Maand",
       "picture": "https://loremflickr.com/640/480/month",
       "voice": "",
-      "transcription": "[m\u028cn\u03b8]",
+      "transcription": "ma\u02d0nt",
       "id": 117
     },
     {
       "categoryId": 12,
-      "title": "Year",
+      "title": "Jaar",
       "picture": "https://loremflickr.com/640/480/year",
       "voice": "",
-      "transcription": "[j\u026a\u0259r]",
+      "transcription": "ja\u02d0r",
       "id": 118
     },
     {
       "categoryId": 12,
-      "title": "Yesterday",
+      "title": "Gisteren",
       "picture": "https://loremflickr.com/640/480/yesterday",
       "voice": "",
-      "transcription": "[\u02c8j\u025bst\u0259r\u02ccde\u026a]",
+      "transcription": "\u0263\u026aste\u02d0r\u025bn",
       "id": 119
     },
     {
       "categoryId": 12,
-      "title": "Tomorrow",
+      "title": "Morgen",
       "picture": "https://loremflickr.com/640/480/tomorrow",
       "voice": "",
-      "transcription": "[t\u0259\u02c8m\u0254\u02d0ro\u028a]",
+      "transcription": "m\u0254r\u0263\u025bn",
       "id": 120
     },
     {
       "categoryId": 13,
-      "title": "Brave",
+      "title": "Moedig",
       "picture": "https://loremflickr.com/640/480/brave",
       "voice": "",
-      "transcription": "[bre\u026av]",
+      "transcription": "mu\u02d0\u025bd\u026ax",
       "id": 121
     },
     {
       "categoryId": 13,
-      "title": "Kind",
+      "title": "Vriendelijk",
       "picture": "https://loremflickr.com/640/480/kind",
       "voice": "",
-      "transcription": "[ka\u026and]",
+      "transcription": "vri\u02d0nde\u02d0l\u025bjk",
       "id": 122
     },
     {
       "categoryId": 13,
-      "title": "Clever",
+      "title": "Slim",
       "picture": "https://loremflickr.com/640/480/clever",
       "voice": "",
-      "transcription": "[\u02c8kl\u025bv\u0259r]",
+      "transcription": "sl\u026am",
       "id": 123
     },
     {
       "categoryId": 13,
-      "title": "Funny",
+      "title": "Grappig",
       "picture": "https://loremflickr.com/640/480/funny",
       "voice": "",
-      "transcription": "[\u02c8f\u028cni]",
+      "transcription": "xr\u0251pp\u026ax",
       "id": 124
     },
     {
       "categoryId": 13,
-      "title": "Lazy",
+      "title": "Lui",
       "picture": "https://loremflickr.com/640/480/lazy",
       "voice": "",
-      "transcription": "[\u02c8le\u026azi]",
+      "transcription": "l\u0153\u0265i\u02d0",
       "id": 125
     },
     {
       "categoryId": 13,
-      "title": "Honest",
+      "title": "Eerlijk",
       "picture": "https://loremflickr.com/640/480/honest",
       "voice": "",
-      "transcription": "[\u02c8\u0252n\u026ast]",
+      "transcription": "e\u02d0rl\u025bjk",
       "id": 126
     },
     {
       "categoryId": 13,
-      "title": "Shy",
+      "title": "Verlegen",
       "picture": "https://loremflickr.com/640/480/shy",
       "voice": "",
-      "transcription": "[\u0283a\u026a]",
+      "transcription": "v\u025brle\u02d0\u0263\u025bn",
       "id": 127
     },
     {
       "categoryId": 13,
-      "title": "Serious",
+      "title": "Serieus",
       "picture": "https://loremflickr.com/640/480/serious",
       "voice": "",
-      "transcription": "[\u02c8s\u026a\u0259r\u026a\u0259s]",
+      "transcription": "se\u02d0ri\u02d0\u028fs",
       "id": 128
     },
     {
       "categoryId": 13,
-      "title": "Generous",
+      "title": "Genereus",
       "picture": "https://loremflickr.com/640/480/generous",
       "voice": "",
-      "transcription": "[\u02c8\u02a4\u025bn\u0259r\u0259s]",
+      "transcription": "\u0263e\u02d0n\u025br\u00f8\u02d0s",
       "id": 129
     },
     {
       "categoryId": 13,
-      "title": "Confident",
+      "title": "Vol vertrouwen",
       "picture": "https://loremflickr.com/640/480/confident",
       "voice": "",
-      "transcription": "[\u02c8k\u0252nf\u026ad\u0259nt]",
+      "transcription": "v\u0254l v\u025brtr\u0251wyw\u025bn",
       "id": 130
     },
     {
       "categoryId": 14,
-      "title": "Big",
+      "title": "Groot",
       "picture": "https://loremflickr.com/640/480/big",
       "voice": "",
-      "transcription": "[b\u026a\u0261]",
+      "transcription": "xro\u02d0t",
       "id": 131
     },
     {
       "categoryId": 14,
-      "title": "Small",
+      "title": "Klein",
       "picture": "https://loremflickr.com/640/480/small",
       "voice": "",
-      "transcription": "[sm\u0254\u02d0l]",
+      "transcription": "kl\u025bjn",
       "id": 132
     },
     {
       "categoryId": 14,
-      "title": "Fast",
+      "title": "Snel",
       "picture": "https://loremflickr.com/640/480/fast",
       "voice": "",
-      "transcription": "[f\u0251\u02d0st]",
+      "transcription": "sn\u025bl",
       "id": 133
     },
     {
       "categoryId": 14,
-      "title": "Slow",
+      "title": "Langzaam",
       "picture": "https://loremflickr.com/640/480/slow",
       "voice": "",
-      "transcription": "[slo\u028a]",
+      "transcription": "l\u0251nxza\u02d0m",
       "id": 134
     },
     {
       "categoryId": 14,
-      "title": "Hot",
+      "title": "Heet",
       "picture": "https://loremflickr.com/640/480/hot",
       "voice": "",
-      "transcription": "[h\u0252t]",
+      "transcription": "he\u02d0t",
       "id": 135
     },
     {
       "categoryId": 14,
-      "title": "Cold",
+      "title": "Koud",
       "picture": "https://loremflickr.com/640/480/cold",
       "voice": "",
-      "transcription": "[ko\u028ald]",
+      "transcription": "k\u0251wt",
       "id": 136
     },
     {
       "categoryId": 14,
-      "title": "Good",
+      "title": "Goed",
       "picture": "https://loremflickr.com/640/480/good",
       "voice": "",
-      "transcription": "[\u0261\u028ad]",
+      "transcription": "\u0263u\u02d0t",
       "id": 137
     },
     {
       "categoryId": 14,
-      "title": "Bad",
+      "title": "Slecht",
       "picture": "https://loremflickr.com/640/480/bad",
       "voice": "",
-      "transcription": "[b\u00e6d]",
+      "transcription": "sl\u025bxt",
       "id": 138
     },
     {
       "categoryId": 14,
-      "title": "Strong",
+      "title": "Sterk",
       "picture": "https://loremflickr.com/640/480/strong",
       "voice": "",
-      "transcription": "[str\u0252\u014b]",
+      "transcription": "st\u025brk",
       "id": 139
     },
     {
       "categoryId": 14,
-      "title": "Weak",
+      "title": "Zwak",
       "picture": "https://loremflickr.com/640/480/weak",
       "voice": "",
-      "transcription": "[wi\u02d0k]",
+      "transcription": "z\u028b\u0251k",
       "id": 140
     },
     {
@@ -1127,159 +1127,159 @@
       "title": "I",
       "picture": "https://loremflickr.com/640/480/i",
       "voice": "",
-      "transcription": "[a\u026a]",
+      "transcription": "i\u02d0",
       "id": 141
     },
     {
       "categoryId": 15,
-      "title": "You",
+      "title": "Jij",
       "picture": "https://loremflickr.com/640/480/you",
       "voice": "",
-      "transcription": "[ju\u02d0]",
+      "transcription": "j\u025bj",
       "id": 142
     },
     {
       "categoryId": 15,
-      "title": "He",
+      "title": "Hij",
       "picture": "https://loremflickr.com/640/480/he",
       "voice": "",
-      "transcription": "[hi\u02d0]",
+      "transcription": "h\u025bj",
       "id": 143
     },
     {
       "categoryId": 15,
-      "title": "She",
+      "title": "Zij",
       "picture": "https://loremflickr.com/640/480/she",
       "voice": "",
-      "transcription": "[\u0283i\u02d0]",
+      "transcription": "z\u025bj",
       "id": 144
     },
     {
       "categoryId": 15,
-      "title": "It",
+      "title": "Het",
       "picture": "https://loremflickr.com/640/480/it",
       "voice": "",
-      "transcription": "[\u026at]",
+      "transcription": "h\u025bt",
       "id": 145
     },
     {
       "categoryId": 15,
-      "title": "We",
+      "title": "Wij",
       "picture": "https://loremflickr.com/640/480/we",
       "voice": "",
-      "transcription": "[wi\u02d0]",
+      "transcription": "\u028b\u025bj",
       "id": 146
     },
     {
       "categoryId": 15,
-      "title": "They",
+      "title": "Zij",
       "picture": "https://loremflickr.com/640/480/they",
       "voice": "",
-      "transcription": "[\u00f0e\u026a]",
+      "transcription": "z\u025bj",
       "id": 147
     },
     {
       "categoryId": 15,
-      "title": "Me",
+      "title": "Mij",
       "picture": "https://loremflickr.com/640/480/me",
       "voice": "",
-      "transcription": "[mi\u02d0]",
+      "transcription": "m\u025bj",
       "id": 148
     },
     {
       "categoryId": 15,
-      "title": "Him",
+      "title": "Hem",
       "picture": "https://loremflickr.com/640/480/him",
       "voice": "",
-      "transcription": "[h\u026am]",
+      "transcription": "h\u025bm",
       "id": 149
     },
     {
       "categoryId": 15,
-      "title": "Her",
+      "title": "Haar",
       "picture": "https://loremflickr.com/640/480/her",
       "voice": "",
-      "transcription": "[h\u025c\u02d0r]",
+      "transcription": "ha\u02d0r",
       "id": 150
     },
     {
       "categoryId": 16,
-      "title": "What",
+      "title": "Wat",
       "picture": "https://loremflickr.com/640/480/what",
       "voice": "",
-      "transcription": "[w\u0252t]",
+      "transcription": "\u028b\u0251t",
       "id": 151
     },
     {
       "categoryId": 16,
-      "title": "Who",
+      "title": "WHO",
       "picture": "https://loremflickr.com/640/480/who",
       "voice": "",
-      "transcription": "[hu\u02d0]",
+      "transcription": "\u028bho\u02d0",
       "id": 152
     },
     {
       "categoryId": 16,
-      "title": "Where",
+      "title": "Waar",
       "picture": "https://loremflickr.com/640/480/where",
       "voice": "",
-      "transcription": "[w\u025b\u0259r]",
+      "transcription": "\u028ba\u02d0r",
       "id": 153
     },
     {
       "categoryId": 16,
-      "title": "When",
+      "title": "Wanneer",
       "picture": "https://loremflickr.com/640/480/when",
       "voice": "",
-      "transcription": "[w\u025bn]",
+      "transcription": "\u028b\u0251nne\u02d0r",
       "id": 154
     },
     {
       "categoryId": 16,
-      "title": "Why",
+      "title": "Waarom",
       "picture": "https://loremflickr.com/640/480/why",
       "voice": "",
-      "transcription": "[wa\u026a]",
+      "transcription": "\u028ba\u02d0\u0251r\u0254m",
       "id": 155
     },
     {
       "categoryId": 16,
-      "title": "How",
+      "title": "Hoe",
       "picture": "https://loremflickr.com/640/480/how",
       "voice": "",
-      "transcription": "[ha\u028a]",
+      "transcription": "hu\u02d0e\u02d0",
       "id": 156
     },
     {
       "categoryId": 16,
-      "title": "Which",
+      "title": "Welke",
       "picture": "https://loremflickr.com/640/480/which",
       "voice": "",
-      "transcription": "[w\u026a\u02a7]",
+      "transcription": "\u028b\u025blke\u02d0",
       "id": 157
     },
     {
       "categoryId": 16,
-      "title": "Whose",
+      "title": "Waarvan",
       "picture": "https://loremflickr.com/640/480/whose",
       "voice": "",
-      "transcription": "[hu\u02d0z]",
+      "transcription": "\u028ba\u02d0rv\u0251n",
       "id": 158
     },
     {
       "categoryId": 16,
-      "title": "How much",
+      "title": "Hoe veel",
       "picture": "https://loremflickr.com/640/480/howmuch",
       "voice": "",
-      "transcription": "[ha\u028a m\u028c\u02a7]",
+      "transcription": "hu\u02d0 ve\u02d0l",
       "id": 159
     },
     {
       "categoryId": 16,
-      "title": "How many",
+      "title": "Hoeveel",
       "picture": "https://loremflickr.com/640/480/howmany",
       "voice": "",
-      "transcription": "[ha\u028a \u02c8m\u025bni]",
+      "transcription": "hu\u02d0\u025bve\u02d0l",
       "id": 160
     }
   ]
