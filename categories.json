@@ -62,13 +62,6 @@
         "picture": "https://loremflickr.com/640/480/technology",
         "order":0
       },
-      
-      {
-        "id": 7,
-        "title": "Clothes",
-        "picture": "https://loremflickr.com/640/480/clothes",
-        "order":0
-      },
       {
         "id": 11,
         "title": "Emotions",
