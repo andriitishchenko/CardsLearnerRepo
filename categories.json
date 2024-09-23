@@ -1,102 +1,118 @@
 {
-  "lang": "nl",
+  "lang": "ua",
   "version": 1,
   "list": [
     {
       "id": 1,
-      "title": "Familie",
+      "title": "\u0421\u0456\u043c'\u044f",
       "picture": "https://loremflickr.com/640/480/family",
-      "order": 0
+      "order": 0,
+      "transcription": "s\u02b2im'\u0251"
     },
     {
       "id": 2,
-      "title": "Keuken",
+      "title": "\u041a\u0443\u0445\u043d\u044f",
       "picture": "https://loremflickr.com/640/480/kitchen",
-      "order": 0
+      "order": 0,
+      "transcription": "kuxn\u02b2\u0251"
     },
     {
       "id": 3,
-      "title": "Reis",
+      "title": "\u041f\u043e\u0434\u043e\u0440\u043e\u0436\u0443\u0432\u0430\u0442\u0438",
       "picture": "https://loremflickr.com/640/480/travel",
-      "order": 0
+      "order": 0,
+      "transcription": "p\u0254d\u0254r\u0254\u0290uv\u0251t\u026a"
     },
     {
       "id": 4,
-      "title": "Dieren",
+      "title": "\u0422\u0432\u0430\u0440\u0438\u043d\u0438",
       "picture": "https://loremflickr.com/640/480/animals",
-      "order": 0
+      "order": 0,
+      "transcription": "tv\u0251r\u026an\u026a"
     },
     {
       "id": 5,
-      "title": "Kleuren",
+      "title": "\u041a\u043e\u043b\u044c\u043e\u0440\u0438",
       "picture": "https://loremflickr.com/640/480/colors",
-      "order": 0
+      "order": 0,
+      "transcription": "k\u0254l\u02b2\u0254r\u026a"
     },
     {
       "id": 6,
-      "title": "Voedsel",
+      "title": "\u0407\u0436\u0430",
       "picture": "https://loremflickr.com/640/480/food",
-      "order": 0
+      "order": 0,
+      "transcription": "ji\u0290\u0251"
     },
     {
       "id": 7,
-      "title": "Kleren",
+      "title": "\u041e\u0434\u044f\u0433",
       "picture": "https://loremflickr.com/640/480/clothes",
-      "order": 0
+      "order": 0,
+      "transcription": "\u0254d\u02b2\u0251\u0266"
     },
     {
       "id": 8,
-      "title": "School",
+      "title": "\u0428\u043a\u043e\u043b\u0430",
       "picture": "https://loremflickr.com/640/480/school",
-      "order": 0
+      "order": 0,
+      "transcription": "\u0282k\u0254l\u0251"
     },
     {
       "id": 9,
-      "title": "Sport",
+      "title": "\u0421\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u0438\u0439",
       "picture": "https://loremflickr.com/640/480/sport",
-      "order": 0
+      "order": 0,
+      "transcription": "sp\u0254rt\u026avn\u026aj"
     },
     {
       "id": 10,
-      "title": "Technologie",
+      "title": "\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0456\u044f",
       "picture": "https://loremflickr.com/640/480/technology",
-      "order": 0
+      "order": 0,
+      "transcription": "t\u025bxn\u0254l\u0254\u0266i\u0251"
     },
     {
       "id": 11,
-      "title": "Emotie",
+      "title": "\u0415\u043c\u043e\u0446\u0456\u0457",
       "picture": "https://loremflickr.com/640/480/emotions",
-      "order": 0
+      "order": 0,
+      "transcription": "\u025bm\u0254t\u0361s\u02b2iji"
     },
     {
       "id": 12,
-      "title": "Tijd",
+      "title": "\u0427\u0430\u0441",
       "picture": "https://loremflickr.com/640/480/time",
-      "order": 0
+      "order": 0,
+      "transcription": "\u0288\u0361\u0282\u0251s"
     },
     {
       "id": 13,
-      "title": "Persoonlijkheid",
+      "title": "\u041e\u0441\u043e\u0431\u0438\u0441\u0442\u0456\u0441\u0442\u044c",
       "picture": "https://loremflickr.com/640/480/personality",
-      "order": 0
+      "order": 0,
+      "transcription": "\u0254s\u0254b\u026ast\u02b2ist\u02b2"
     },
     {
       "id": 14,
-      "title": "Antoniemen",
+      "title": "\u0410\u043d\u0442\u043e\u043d\u0456\u043c",
       "picture": "https://loremflickr.com/640/480/antonyms",
-      "order": 0
+      "order": 0,
+      "transcription": "\u0251nt\u0254n\u02b2im"
     },
     {
       "id": 15,
-      "title": "Voornaamwoorden",
+      "title": "\u0417\u0430\u0439\u043c\u0435\u043d\u043d\u0438\u043a\u0438",
       "picture": "https://loremflickr.com/640/480/pronouns",
-      "order": 0
+      "order": 0,
+      "transcription": "z\u0251jm\u025bnn\u026ak\u026a"
     },
     {
       "id": 16,
-      "title": "Vragen",
+      "title": "\u041f\u0438\u0442\u0430\u043d\u043d\u044f",
       "picture": "https://loremflickr.com/640/480/questions",
-      "order": 0
+      "order": 0,
+      "transcription": "p\u026at\u0251nn\u02b2\u0251"
     }
   ]
 }
