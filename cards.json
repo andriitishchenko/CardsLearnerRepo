@@ -4,255 +4,255 @@
   "list": [
     {
       "categoryId": 1,
-      "title": "\u0411\u0430\u0442\u044c\u043a\u043e",
+      "title": "Батько",
       "picture": "https://loremflickr.com/640/480/father",
       "voice": "",
-      "transcription": "b\u0251t\u02b2k\u0254",
+      "transcription": "bɑtʲkɔ",
       "id": 1
     },
     {
       "categoryId": 1,
-      "title": "\u041c\u0430\u043c\u0430",
+      "title": "Мама",
       "picture": "https://loremflickr.com/640/480/mother",
       "voice": "",
-      "transcription": "m\u0251m\u0251",
+      "transcription": "mɑmɑ",
       "id": 2
     },
     {
       "categoryId": 1,
-      "title": "\u0411\u0440\u0430\u0442",
+      "title": "Брат",
       "picture": "https://loremflickr.com/640/480/brother",
       "voice": "",
-      "transcription": "br\u0251t",
+      "transcription": "brɑt",
       "id": 3
     },
     {
       "categoryId": 1,
-      "title": "\u0421\u0435\u0441\u0442\u0440\u0430",
+      "title": "Сестра",
       "picture": "https://loremflickr.com/640/480/sister",
       "voice": "",
-      "transcription": "s\u025bstr\u0251",
+      "transcription": "sɛstrɑ",
       "id": 4
     },
     {
       "categoryId": 1,
-      "title": "\u0414\u0438\u0442\u0438\u043d\u0430",
+      "title": "Дитина",
       "picture": "https://loremflickr.com/640/480/child",
       "voice": "",
-      "transcription": "d\u026at\u026an\u0251",
+      "transcription": "dɪtɪnɑ",
       "id": 5
     },
     {
       "categoryId": 1,
-      "title": "\u0411\u0430\u0431\u0443\u0441\u044f",
+      "title": "Бабуся",
       "picture": "https://loremflickr.com/640/480/grandmother",
       "voice": "",
-      "transcription": "b\u0251bus\u02b2\u0251",
+      "transcription": "bɑbusʲɑ",
       "id": 6
     },
     {
       "categoryId": 1,
-      "title": "\u0414\u0456\u0434",
+      "title": "Дід",
       "picture": "https://loremflickr.com/640/480/grandfather",
       "voice": "",
-      "transcription": "d\u02b2id",
+      "transcription": "dʲid",
       "id": 7
     },
     {
       "categoryId": 1,
-      "title": "\u0414\u044f\u0434\u044c\u043a\u043e",
+      "title": "Дядько",
       "picture": "https://loremflickr.com/640/480/uncle",
       "voice": "",
-      "transcription": "d\u02b2\u0251d\u02b2k\u0254",
+      "transcription": "dʲɑdʲkɔ",
       "id": 8
     },
     {
       "categoryId": 1,
-      "title": "\u0422\u0456\u0442\u043a\u0430",
+      "title": "Тітка",
       "picture": "https://loremflickr.com/640/480/aunt",
       "voice": "",
-      "transcription": "t\u02b2itk\u0251",
+      "transcription": "tʲitkɑ",
       "id": 9
     },
     {
       "categoryId": 1,
-      "title": "\u0414\u0432\u043e\u044e\u0440\u0456\u0434\u043d\u0438\u0439 \u0431\u0440\u0430\u0442",
+      "title": "Двоюрідний брат",
       "picture": "https://loremflickr.com/640/480/cousin",
       "voice": "",
-      "transcription": "dv\u0254ur\u02b2idn\u026aj br\u0251t",
+      "transcription": "dvɔurʲidnɪj brɑt",
       "id": 10
     },
     {
       "categoryId": 2,
-      "title": "\u0422\u0430\u0440\u0456\u043b\u043a\u0430",
+      "title": "Тарілка",
       "picture": "https://loremflickr.com/640/480/plate",
       "voice": "",
-      "transcription": "t\u0251r\u02b2ilk\u0251",
+      "transcription": "tɑrʲilkɑ",
       "id": 11
     },
     {
       "categoryId": 2,
-      "title": "\u0427\u0430\u0448\u043a\u0430",
+      "title": "Чашка",
       "picture": "https://loremflickr.com/640/480/cup",
       "voice": "",
-      "transcription": "\u0288\u0361\u0282\u0251\u0282k\u0251",
+      "transcription": "ʈ͡ʂɑʂkɑ",
       "id": 12
     },
     {
       "categoryId": 2,
-      "title": "\u0412\u0438\u0434\u0435\u043b\u043a\u0430",
+      "title": "Виделка",
       "picture": "https://loremflickr.com/640/480/fork",
       "voice": "",
-      "transcription": "v\u026ad\u025blk\u0251",
+      "transcription": "vɪdɛlkɑ",
       "id": 13
     },
     {
       "categoryId": 2,
-      "title": "\u041d\u043e\u0436",
+      "title": "Нож",
       "picture": "https://loremflickr.com/640/480/knife",
       "voice": "",
-      "transcription": "n\u0254\u0290",
+      "transcription": "nɔʐ",
       "id": 14
     },
     {
       "categoryId": 2,
-      "title": "\u041b\u043e\u0436\u043a\u0430",
+      "title": "Ложка",
       "picture": "https://loremflickr.com/640/480/spoon",
       "voice": "",
-      "transcription": "l\u0254\u0290k\u0251",
+      "transcription": "lɔʐkɑ",
       "id": 15
     },
     {
       "categoryId": 2,
-      "title": "\u041a\u0430\u0441\u0442\u0440\u0443\u043b\u044c",
+      "title": "Каструль",
       "picture": "https://loremflickr.com/640/480/pan",
       "voice": "",
-      "transcription": "k\u0251strul\u02b2",
+      "transcription": "kɑstrulʲ",
       "id": 16
     },
     {
       "categoryId": 2,
-      "title": "\u041f\u043b\u0438\u0442\u0430",
+      "title": "Плита",
       "picture": "https://loremflickr.com/640/480/stove",
       "voice": "",
-      "transcription": "pl\u026at\u0251",
+      "transcription": "plɪtɑ",
       "id": 17
     },
     {
       "categoryId": 2,
-      "title": "\u0425\u043e\u043b\u043e\u0434\u0438\u043b\u044c\u043d\u0438\u043a",
+      "title": "Холодильник",
       "picture": "https://loremflickr.com/640/480/refrigerator",
       "voice": "",
-      "transcription": "x\u0254l\u0254d\u026al\u02b2n\u026ak",
+      "transcription": "xɔlɔdɪlʲnɪk",
       "id": 18
     },
     {
       "categoryId": 2,
-      "title": "\u041c\u0456\u043a\u0440\u043e\u0445\u0432\u0438\u043b\u044c\u043e\u0432\u0430 \u043f\u0456\u0447",
+      "title": "Мікрохвильова піч",
       "picture": "https://loremflickr.com/640/480/microwave",
       "voice": "",
-      "transcription": "mikr\u0254xv\u026al\u02b2\u0254v\u0251 pi\u0288\u0361\u0282",
+      "transcription": "mikrɔxvɪlʲɔvɑ piʈ͡ʂ",
       "id": 19
     },
     {
       "categoryId": 2,
-      "title": "\u0417\u0430\u0442\u043e\u043f\u043b\u044e\u0432\u0430\u0442\u0438",
+      "title": "Мийка",
       "picture": "https://loremflickr.com/640/480/sink",
       "voice": "",
-      "transcription": "z\u0251t\u0254pl\u02b2uv\u0251t\u026a",
+      "transcription": "zɑtɔplʲuvɑtɪ",
       "id": 20
     },
     {
       "categoryId": 3,
-      "title": "\u0410\u0435\u0440\u043e\u043f\u043e\u0440\u0442",
+      "title": "Аеропорт",
       "picture": "https://loremflickr.com/640/480/airport",
       "voice": "",
-      "transcription": "\u0251\u025br\u0254p\u0254rt",
+      "transcription": "ɑɛrɔpɔrt",
       "id": 21
     },
     {
       "categoryId": 3,
-      "title": "\u041f\u0430\u0441\u043f\u043e\u0440\u0442",
+      "title": "Паспорт",
       "picture": "https://loremflickr.com/640/480/passport",
       "voice": "",
-      "transcription": "p\u0251sp\u0254rt",
+      "transcription": "pɑspɔrt",
       "id": 22
     },
     {
       "categoryId": 3,
-      "title": "\u0411\u0430\u0433\u0430\u0436",
+      "title": "Багаж",
       "picture": "https://loremflickr.com/640/480/luggage",
       "voice": "",
-      "transcription": "b\u0251\u0266\u0251\u0290",
+      "transcription": "bɑɦɑʐ",
       "id": 23
     },
     {
       "categoryId": 3,
-      "title": "\u041a\u0432\u0438\u0442\u043e\u043a",
+      "title": "Квиток",
       "picture": "https://loremflickr.com/640/480/ticket",
       "voice": "",
-      "transcription": "kv\u026at\u0254k",
+      "transcription": "kvɪtɔk",
       "id": 24
     },
     {
       "categoryId": 3,
-      "title": "\u0412\u0438\u043b\u0456\u0442",
+      "title": "Виліт",
       "picture": "https://loremflickr.com/640/480/flight",
       "voice": "",
-      "transcription": "v\u026al\u02b2it",
+      "transcription": "vɪlʲit",
       "id": 25
     },
     {
       "categoryId": 3,
-      "title": "\u0413\u043e\u0442\u0435\u043b\u044c",
+      "title": "Готель",
       "picture": "https://loremflickr.com/640/480/hotel",
       "voice": "",
-      "transcription": "\u0266\u0254t\u025bl\u02b2",
+      "transcription": "ɦɔtɛlʲ",
       "id": 26
     },
     {
       "categoryId": 3,
-      "title": "\u0422\u0430\u043a\u0441\u0456",
+      "title": "Таксі",
       "picture": "https://loremflickr.com/640/480/taxi",
       "voice": "",
-      "transcription": "t\u0251ks\u02b2i",
+      "transcription": "tɑksʲi",
       "id": 27
     },
     {
       "categoryId": 3,
-      "title": "\u0414\u0456\u0441\u0442\u0430\u0442\u0438\u0441\u044f",
+      "title": "Потяг",
       "picture": "https://loremflickr.com/640/480/train",
       "voice": "",
-      "transcription": "d\u02b2ist\u0251t\u026as\u02b2\u0251",
+      "transcription": "potjah",
       "id": 28
     },
     {
       "categoryId": 3,
-      "title": "\u0410\u0432\u0442\u043e\u0431\u0443\u0441",
+      "title": "Автобус",
       "picture": "https://loremflickr.com/640/480/bus",
       "voice": "",
-      "transcription": "\u0251vt\u0254bus",
+      "transcription": "ɑvtɔbus",
       "id": 29
     },
     {
       "categoryId": 3,
-      "title": "\u041a\u0430\u0440\u0442\u0430",
+      "title": "Карта",
       "picture": "https://loremflickr.com/640/480/map",
       "voice": "",
-      "transcription": "k\u0251rt\u0251",
+      "transcription": "kɑrtɑ",
       "id": 30
     },
     {
       "categoryId": 4,
-      "title": "\u0421\u043e\u0431\u0430\u043a\u0430",
+      "title": "Собака",
       "picture": "https://loremflickr.com/640/480/dog",
       "voice": "",
-      "transcription": "s\u0254b\u0251k\u0251",
+      "transcription": "sɔbɑkɑ",
       "id": 31
     },
     {
       "categoryId": 4,
-      "title": "\u041a\u0456\u0442",
+      "title": "Кіт",
       "picture": "https://loremflickr.com/640/480/cat",
       "voice": "",
       "transcription": "kit",
@@ -260,215 +260,215 @@
     },
     {
       "categoryId": 4,
-      "title": "\u0421\u043b\u043e\u043d\u043e\u0432\u0438\u0439",
+      "title": "Слон",
       "picture": "https://loremflickr.com/640/480/elephant",
       "voice": "",
-      "transcription": "sl\u0254n\u0254v\u026aj",
+      "transcription": "slɔnɔvɪj",
       "id": 33
     },
     {
       "categoryId": 4,
-      "title": "\u0422\u0438\u0433\u0440",
+      "title": "Тигр",
       "picture": "https://loremflickr.com/640/480/tiger",
       "voice": "",
-      "transcription": "t\u026a\u0266r",
+      "transcription": "tɪɦr",
       "id": 34
     },
     {
       "categoryId": 4,
-      "title": "\u041b\u0435\u0432",
+      "title": "Лев",
       "picture": "https://loremflickr.com/640/480/lion",
       "voice": "",
-      "transcription": "l\u025bv",
+      "transcription": "lɛv",
       "id": 35
     },
     {
       "categoryId": 4,
-      "title": "\u041f\u0442\u0430\u0445",
+      "title": "Птах",
       "picture": "https://loremflickr.com/640/480/bird",
       "voice": "",
-      "transcription": "pt\u0251x",
+      "transcription": "ptɑx",
       "id": 36
     },
     {
       "categoryId": 4,
-      "title": "\u0420\u0438\u0431\u0430",
+      "title": "Риба",
       "picture": "https://loremflickr.com/640/480/fish",
       "voice": "",
-      "transcription": "r\u026ab\u0251",
+      "transcription": "rɪbɑ",
       "id": 37
     },
     {
       "categoryId": 4,
-      "title": "\u041a\u043e\u043d\u044f",
+      "title": "Кінь",
       "picture": "https://loremflickr.com/640/480/horse",
       "voice": "",
-      "transcription": "k\u0254n\u02b2\u0251",
+      "transcription": "kinʲ",
       "id": 38
     },
     {
       "categoryId": 4,
-      "title": "\u041a\u043e\u0440\u043e\u0432\u0430",
+      "title": "Корова",
       "picture": "https://loremflickr.com/640/480/cow",
       "voice": "",
-      "transcription": "k\u0254r\u0254v\u0251",
+      "transcription": "kɔrɔvɑ",
       "id": 39
     },
     {
       "categoryId": 4,
-      "title": "\u041c\u0430\u0432\u043f\u0430",
+      "title": "Мавпа",
       "picture": "https://loremflickr.com/640/480/monkey",
       "voice": "",
-      "transcription": "m\u0251vp\u0251",
+      "transcription": "mɑvpɑ",
       "id": 40
     },
     {
       "categoryId": 5,
-      "title": "\u0427\u0435\u0440\u0432\u043e\u043d\u0438\u0439",
+      "title": "Червоний",
       "picture": "https://loremflickr.com/640/480/red",
       "voice": "",
-      "transcription": "\u0288\u0361\u0282\u025brv\u0254n\u026aj",
+      "transcription": "ʈ͡ʂɛrvɔnɪj",
       "id": 41
     },
     {
       "categoryId": 5,
-      "title": "\u0411\u043b\u0430\u043a\u0438\u0442\u043d\u0438\u0439",
+      "title": "Блакитний",
       "picture": "https://loremflickr.com/640/480/blue",
       "voice": "",
-      "transcription": "bl\u0251k\u026atn\u026aj",
+      "transcription": "blɑkɪtnɪj",
       "id": 42
     },
     {
       "categoryId": 5,
-      "title": "\u0417\u0435\u043b\u0435\u043d\u0438\u0439",
+      "title": "Зелений",
       "picture": "https://loremflickr.com/640/480/green",
       "voice": "",
-      "transcription": "z\u025bl\u025bn\u026aj",
+      "transcription": "zɛlɛnɪj",
       "id": 43
     },
     {
       "categoryId": 5,
-      "title": "\u0416\u043e\u0432\u0442\u0438\u0439",
+      "title": "Жовтий",
       "picture": "https://loremflickr.com/640/480/yellow",
       "voice": "",
-      "transcription": "\u0290\u0254vt\u026aj",
+      "transcription": "ʐɔvtɪj",
       "id": 44
     },
     {
       "categoryId": 5,
-      "title": "\u0427\u043e\u0440\u043d\u0438\u0439",
+      "title": "Чорний",
       "picture": "https://loremflickr.com/640/480/black",
       "voice": "",
-      "transcription": "\u0288\u0361\u0282\u0254rn\u026aj",
+      "transcription": "ʈ͡ʂɔrnɪj",
       "id": 45
     },
     {
       "categoryId": 5,
-      "title": "\u0411\u0456\u043b\u0438\u0439",
+      "title": "Білий",
       "picture": "https://loremflickr.com/640/480/white",
       "voice": "",
-      "transcription": "bil\u026aj",
+      "transcription": "bilɪj",
       "id": 46
     },
     {
       "categoryId": 5,
-      "title": "\u0424\u0456\u043e\u043b\u0435\u0442\u043e\u0432\u0438\u0439",
+      "title": "Фіолетовий",
       "picture": "https://loremflickr.com/640/480/purple",
       "voice": "",
-      "transcription": "fi\u0254l\u025bt\u0254v\u026aj",
+      "transcription": "fiɔlɛtɔvɪj",
       "id": 47
     },
     {
       "categoryId": 5,
-      "title": "\u041e\u0440\u0430\u043d\u0436\u0435\u0432\u0438\u0439",
+      "title": "Помаранчовий",
       "picture": "https://loremflickr.com/640/480/orange",
       "voice": "",
-      "transcription": "\u0254r\u0251n\u0290\u025bv\u026aj",
+      "transcription": "pomaranchevyj",
       "id": 48
     },
     {
       "categoryId": 5,
-      "title": "\u0420\u043e\u0436\u0435\u0432\u0438\u0439",
+      "title": "Рожевий",
       "picture": "https://loremflickr.com/640/480/pink",
       "voice": "",
-      "transcription": "r\u0254\u0290\u025bv\u026aj",
+      "transcription": "rɔʐɛvɪj",
       "id": 49
     },
     {
       "categoryId": 5,
-      "title": "\u041a\u043e\u0440\u0438\u0447\u043d\u0435\u0432\u0438\u0439",
+      "title": "Коричневий",
       "picture": "https://loremflickr.com/640/480/brown",
       "voice": "",
-      "transcription": "k\u0254r\u026a\u0288\u0361\u0282n\u025bv\u026aj",
+      "transcription": "kɔrɪʈ͡ʂnɛvɪj",
       "id": 50
     },
     {
       "categoryId": 6,
-      "title": "\u042f\u0431\u043b\u0443\u043a",
+      "title": "Яблук",
       "picture": "https://loremflickr.com/640/480/apple",
       "voice": "",
-      "transcription": "j\u0251bluk",
+      "transcription": "jɑbluk",
       "id": 51
     },
     {
       "categoryId": 6,
-      "title": "\u0411\u0430\u043d\u0430\u043d",
+      "title": "Банан",
       "picture": "https://loremflickr.com/640/480/banana",
       "voice": "",
-      "transcription": "b\u0251n\u0251n",
+      "transcription": "bɑnɑn",
       "id": 52
     },
     {
       "categoryId": 6,
-      "title": "\u0425\u043b\u0456\u0431",
+      "title": "Хліб",
       "picture": "https://loremflickr.com/640/480/bread",
       "voice": "",
-      "transcription": "xl\u02b2ib",
+      "transcription": "xlʲib",
       "id": 53
     },
     {
       "categoryId": 6,
-      "title": "\u0421\u0438\u0440",
+      "title": "Сир",
       "picture": "https://loremflickr.com/640/480/cheese",
       "voice": "",
-      "transcription": "s\u026ar",
+      "transcription": "sɪr",
       "id": 54
     },
     {
       "categoryId": 6,
-      "title": "\u042f\u0439\u0446\u0435",
+      "title": "Яйце",
       "picture": "https://loremflickr.com/640/480/egg",
       "voice": "",
-      "transcription": "j\u0251jt\u0361s\u025b",
+      "transcription": "jɑjt͡sɛ",
       "id": 55
     },
     {
       "categoryId": 6,
-      "title": "\u0420\u0438\u0431\u0430",
+      "title": "Риба",
       "picture": "https://loremflickr.com/640/480/fish",
       "voice": "",
-      "transcription": "r\u026ab\u0251",
+      "transcription": "rɪbɑ",
       "id": 56
     },
     {
       "categoryId": 6,
-      "title": "\u041c'\u044f\u0441\u043e",
+      "title": "М'ясо",
       "picture": "https://loremflickr.com/640/480/meat",
       "voice": "",
-      "transcription": "m'\u0251s\u0254",
+      "transcription": "m'ɑsɔ",
       "id": 57
     },
     {
       "categoryId": 6,
-      "title": "\u0420\u0438\u0441",
+      "title": "Рис",
       "picture": "https://loremflickr.com/640/480/rice",
       "voice": "",
-      "transcription": "r\u026as",
+      "transcription": "rɪs",
       "id": 58
     },
     {
       "categoryId": 6,
-      "title": "\u0421\u0443\u043f",
+      "title": "Суп",
       "picture": "https://loremflickr.com/640/480/soup",
       "voice": "",
       "transcription": "sup",
@@ -476,671 +476,671 @@
     },
     {
       "categoryId": 6,
-      "title": "\u041e\u0432\u043e\u0447\u0456",
+      "title": "Овочі",
       "picture": "https://loremflickr.com/640/480/vegetables",
       "voice": "",
-      "transcription": "\u0254v\u0254\u0288\u0361\u0282i",
+      "transcription": "ɔvɔʈ͡ʂi",
       "id": 60
     },
     {
       "categoryId": 7,
-      "title": "\u0421\u043e\u0440\u043e\u0447\u043a\u0430",
+      "title": "Сорочка",
       "picture": "https://loremflickr.com/640/480/shirt",
       "voice": "",
-      "transcription": "s\u0254r\u0254\u0288\u0361\u0282k\u0251",
+      "transcription": "sɔrɔʈ͡ʂkɑ",
       "id": 61
     },
     {
       "categoryId": 7,
-      "title": "\u0428\u0442\u0430\u043d\u0438",
+      "title": "Штани",
       "picture": "https://loremflickr.com/640/480/pants",
       "voice": "",
-      "transcription": "\u0282t\u0251n\u026a",
+      "transcription": "ʂtɑnɪ",
       "id": 62
     },
     {
       "categoryId": 7,
-      "title": "\u041a\u0443\u0440\u0442\u043a\u0430",
+      "title": "Куртка",
       "picture": "https://loremflickr.com/640/480/jacket",
       "voice": "",
-      "transcription": "kurtk\u0251",
+      "transcription": "kurtkɑ",
       "id": 63
     },
     {
       "categoryId": 7,
-      "title": "\u0421\u0443\u043a\u043d\u044f",
+      "title": "Сукня",
       "picture": "https://loremflickr.com/640/480/dress",
       "voice": "",
-      "transcription": "sukn\u02b2\u0251",
+      "transcription": "suknʲɑ",
       "id": 64
     },
     {
       "categoryId": 7,
-      "title": "\u0412\u0437\u0443\u0442\u0442\u044f",
+      "title": "Взуття",
       "picture": "https://loremflickr.com/640/480/shoes",
       "voice": "",
-      "transcription": "vzutt\u02b2\u0251",
+      "transcription": "vzuttʲɑ",
       "id": 65
     },
     {
       "categoryId": 7,
-      "title": "\u0428\u0430\u043f\u043a\u0430",
+      "title": "Шапка",
       "picture": "https://loremflickr.com/640/480/hat",
       "voice": "",
-      "transcription": "\u0282\u0251pk\u0251",
+      "transcription": "ʂɑpkɑ",
       "id": 66
     },
     {
       "categoryId": 7,
-      "title": "\u0428\u0430\u0440\u0444",
+      "title": "Шарф",
       "picture": "https://loremflickr.com/640/480/scarf",
       "voice": "",
-      "transcription": "\u0282\u0251rf",
+      "transcription": "ʂɑrf",
       "id": 67
     },
     {
       "categoryId": 7,
-      "title": "\u0420\u0443\u043a\u0430\u0432\u0438\u0447\u043a\u0438",
+      "title": "Рукавички",
       "picture": "https://loremflickr.com/640/480/gloves",
       "voice": "",
-      "transcription": "ruk\u0251v\u026a\u0288\u0361\u0282k\u026a",
+      "transcription": "rukɑvɪʈ͡ʂkɪ",
       "id": 68
     },
     {
       "categoryId": 7,
-      "title": "\u0428\u043a\u0430\u0440\u043f\u0435\u0442\u043a\u0438",
+      "title": "Шкарпетки",
       "picture": "https://loremflickr.com/640/480/socks",
       "voice": "",
-      "transcription": "\u0282k\u0251rp\u025btk\u026a",
+      "transcription": "ʂkɑrpɛtkɪ",
       "id": 69
     },
     {
       "categoryId": 7,
-      "title": "\u0421\u043f\u0456\u0434\u043d\u0438\u0446\u044f",
+      "title": "Спідниця",
       "picture": "https://loremflickr.com/640/480/skirt",
       "voice": "",
-      "transcription": "spidn\u026at\u0361s\u02b2\u0251",
+      "transcription": "spidnɪt͡sʲɑ",
       "id": 70
     },
     {
       "categoryId": 8,
-      "title": "\u041a\u043d\u0438\u0433\u0430",
+      "title": "Книга",
       "picture": "https://loremflickr.com/640/480/book",
       "voice": "",
-      "transcription": "kn\u026a\u0266\u0251",
+      "transcription": "knɪɦɑ",
       "id": 71
     },
     {
       "categoryId": 8,
-      "title": "\u041e\u043b\u0456\u0432\u0435\u0446\u044c",
+      "title": "Олівець",
       "picture": "https://loremflickr.com/640/480/pencil",
       "voice": "",
-      "transcription": "\u0254l\u02b2iv\u025bt\u0361s\u02b2",
+      "transcription": "ɔlʲivɛt͡sʲ",
       "id": 72
     },
     {
       "categoryId": 8,
-      "title": "\u0420\u0443\u0447\u043a\u0430",
+      "title": "Ручка",
       "picture": "https://loremflickr.com/640/480/pen",
       "voice": "",
-      "transcription": "ru\u0288\u0361\u0282k\u0251",
+      "transcription": "ruʈ͡ʂkɑ",
       "id": 73
     },
     {
       "categoryId": 8,
-      "title": "\u0413\u0443\u043c\u043a\u0430",
+      "title": "Гумка",
       "picture": "https://loremflickr.com/640/480/eraser",
       "voice": "",
-      "transcription": "\u0266umk\u0251",
+      "transcription": "ɦumkɑ",
       "id": 74
     },
     {
       "categoryId": 8,
-      "title": "\u0417\u043e\u0448\u0438\u0442",
+      "title": "Зошит",
       "picture": "https://loremflickr.com/640/480/notebook",
       "voice": "",
-      "transcription": "z\u0254\u0282\u026at",
+      "transcription": "zɔʂɪt",
       "id": 75
     },
     {
       "categoryId": 8,
-      "title": "\u0421\u0442\u0456\u043b",
+      "title": "Стіл",
       "picture": "https://loremflickr.com/640/480/desk",
       "voice": "",
-      "transcription": "st\u02b2il",
+      "transcription": "stʲil",
       "id": 76
     },
     {
       "categoryId": 8,
-      "title": "\u041a\u0440\u0456\u0441\u043b\u043e",
+      "title": "Крісло",
       "picture": "https://loremflickr.com/640/480/chair",
       "voice": "",
-      "transcription": "kr\u02b2isl\u0254",
+      "transcription": "krʲislɔ",
       "id": 77
     },
     {
       "categoryId": 8,
-      "title": "\u0412\u0438\u043a\u043b\u0430\u0434\u0430\u0447",
+      "title": "Викладач",
       "picture": "https://loremflickr.com/640/480/teacher",
       "voice": "",
-      "transcription": "v\u026akl\u0251d\u0251\u0288\u0361\u0282",
+      "transcription": "vɪklɑdɑʈ͡ʂ",
       "id": 78
     },
     {
       "categoryId": 8,
-      "title": "\u0421\u0442\u0443\u0434\u0435\u043d\u0442",
+      "title": "Студент",
       "picture": "https://loremflickr.com/640/480/student",
       "voice": "",
-      "transcription": "stud\u025bnt",
+      "transcription": "studɛnt",
       "id": 79
     },
     {
       "categoryId": 8,
-      "title": "\u041f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c",
+      "title": "Лінійка",
       "picture": "https://loremflickr.com/640/480/ruler",
       "voice": "",
-      "transcription": "pr\u0251v\u026at\u025bl\u02b2",
+      "transcription": "liniyka",
       "id": 80
     },
     {
       "categoryId": 9,
-      "title": "\u0424\u0443\u0442\u0431\u043e\u043b",
+      "title": "Футбол",
       "picture": "https://loremflickr.com/640/480/soccer",
       "voice": "",
-      "transcription": "futb\u0254l",
+      "transcription": "futbɔl",
       "id": 81
     },
     {
       "categoryId": 9,
-      "title": "\u0411\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b",
+      "title": "Баскетбол",
       "picture": "https://loremflickr.com/640/480/basketball",
       "voice": "",
-      "transcription": "b\u0251sk\u025btb\u0254l",
+      "transcription": "bɑskɛtbɔl",
       "id": 82
     },
     {
       "categoryId": 9,
-      "title": "\u0422\u0435\u043d\u0456\u0441",
+      "title": "Теніс",
       "picture": "https://loremflickr.com/640/480/tennis",
       "voice": "",
-      "transcription": "t\u025bn\u02b2is",
+      "transcription": "tɛnʲis",
       "id": 83
     },
     {
       "categoryId": 9,
-      "title": "\u0411\u0435\u0439\u0441\u0431\u043e\u043b",
+      "title": "Бейсбол",
       "picture": "https://loremflickr.com/640/480/baseball",
       "voice": "",
-      "transcription": "b\u025bjsb\u0254l",
+      "transcription": "bɛjsbɔl",
       "id": 84
     },
     {
       "categoryId": 9,
-      "title": "\u041f\u043b\u0430\u0432\u0430\u043d\u043d\u044f",
+      "title": "Плавання",
       "picture": "https://loremflickr.com/640/480/swimming",
       "voice": "",
-      "transcription": "pl\u0251v\u0251nn\u02b2\u0251",
+      "transcription": "plɑvɑnnʲɑ",
       "id": 85
     },
     {
       "categoryId": 9,
-      "title": "\u0411\u0456\u0433",
+      "title": "Біг",
       "picture": "https://loremflickr.com/640/480/running",
       "voice": "",
-      "transcription": "bi\u0266",
+      "transcription": "biɦ",
       "id": 86
     },
     {
       "categoryId": 9,
-      "title": "\u0412\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434",
+      "title": "Велосипед",
       "picture": "https://loremflickr.com/640/480/cycling",
       "voice": "",
-      "transcription": "v\u025bl\u0254s\u026ap\u025bd",
+      "transcription": "vɛlɔsɪpɛd",
       "id": 87
     },
     {
       "categoryId": 9,
-      "title": "\u0413\u043e\u043b\u044c\u0444",
+      "title": "Гольф",
       "picture": "https://loremflickr.com/640/480/golf",
       "voice": "",
-      "transcription": "\u0266\u0254l\u02b2f",
+      "transcription": "ɦɔlʲf",
       "id": 88
     },
     {
       "categoryId": 9,
-      "title": "\u0411\u043e\u043a\u0441",
+      "title": "Бокс",
       "picture": "https://loremflickr.com/640/480/boxing",
       "voice": "",
-      "transcription": "b\u0254ks",
+      "transcription": "bɔks",
       "id": 89
     },
     {
       "categoryId": 9,
-      "title": "\u0412\u043e\u043b\u0435\u0439\u0431\u043e\u043b",
+      "title": "Волейбол",
       "picture": "https://loremflickr.com/640/480/volleyball",
       "voice": "",
-      "transcription": "v\u0254l\u025bjb\u0254l",
+      "transcription": "vɔlɛjbɔl",
       "id": 90
     },
     {
       "categoryId": 10,
-      "title": "\u041a\u043e\u043c\u043f'\u044e\u0442\u0435\u0440",
+      "title": "Комп'ютер",
       "picture": "https://loremflickr.com/640/480/computer",
       "voice": "",
-      "transcription": "k\u0254mp'ut\u025br",
+      "transcription": "kɔmp'utɛr",
       "id": 91
     },
     {
       "categoryId": 10,
-      "title": "\u0422\u0435\u043b\u0435\u0444\u043e\u043d",
+      "title": "Телефон",
       "picture": "https://loremflickr.com/640/480/phone",
       "voice": "",
-      "transcription": "t\u025bl\u025bf\u0254n",
+      "transcription": "tɛlɛfɔn",
       "id": 92
     },
     {
       "categoryId": 10,
-      "title": "\u041f\u043b\u0430\u043d\u0448\u0435\u0442",
+      "title": "Планшет",
       "picture": "https://loremflickr.com/640/480/tablet",
       "voice": "",
-      "transcription": "pl\u0251n\u0282\u025bt",
+      "transcription": "plɑnʂɛt",
       "id": 93
     },
     {
       "categoryId": 10,
-      "title": "\u041d\u043e\u0443\u0442\u0431\u0443\u043a",
+      "title": "Ноутбук",
       "picture": "https://loremflickr.com/640/480/laptop",
       "voice": "",
-      "transcription": "n\u0254utbuk",
+      "transcription": "nɔutbuk",
       "id": 94
     },
     {
       "categoryId": 10,
-      "title": "\u041a\u043b\u0430\u0432\u0456\u0430\u0442\u0443\u0440\u0430",
+      "title": "Клавіатура",
       "picture": "https://loremflickr.com/640/480/keyboard",
       "voice": "",
-      "transcription": "kl\u0251vi\u0251tur\u0251",
+      "transcription": "klɑviɑturɑ",
       "id": 95
     },
     {
       "categoryId": 10,
-      "title": "\u041c\u0438\u0448\u0430",
+      "title": "Миша",
       "picture": "https://loremflickr.com/640/480/mouse",
       "voice": "",
-      "transcription": "m\u026a\u0282\u0251",
+      "transcription": "mɪʂɑ",
       "id": 96
     },
     {
       "categoryId": 10,
-      "title": "\u041f\u0440\u0438\u043d\u0442\u0435\u0440",
+      "title": "Принтер",
       "picture": "https://loremflickr.com/640/480/printer",
       "voice": "",
-      "transcription": "pr\u026ant\u025br",
+      "transcription": "prɪntɛr",
       "id": 97
     },
     {
       "categoryId": 10,
-      "title": "\u041c\u043e\u043d\u0456\u0442\u043e\u0440\u0438\u043d\u0433",
+      "title": "Монітор",
       "picture": "https://loremflickr.com/640/480/monitor",
       "voice": "",
-      "transcription": "m\u0254n\u02b2it\u0254r\u026an\u0266",
+      "transcription": "mɔnʲitɔr",
       "id": 98
     },
     {
       "categoryId": 10,
-      "title": "\u041d\u0430\u0432\u0443\u0448\u043d\u0438\u043a\u0438",
+      "title": "Навушники",
       "picture": "https://loremflickr.com/640/480/headphones",
       "voice": "",
-      "transcription": "n\u0251vu\u0282n\u026ak\u026a",
+      "transcription": "nɑvuʂnɪkɪ",
       "id": 99
     },
     {
       "categoryId": 10,
-      "title": "\u041a\u0430\u043c\u0435\u0440\u0430",
+      "title": "Камера",
       "picture": "https://loremflickr.com/640/480/camera",
       "voice": "",
-      "transcription": "k\u0251m\u025br\u0251",
+      "transcription": "kɑmɛrɑ",
       "id": 100
     },
     {
       "categoryId": 11,
-      "title": "\u0429\u0430\u0441\u0442\u044f",
+      "title": "Щастя",
       "picture": "https://loremflickr.com/640/480/happiness",
       "voice": "",
-      "transcription": "\u0282\u0288\u0361\u0282\u0251st\u02b2\u0251",
+      "transcription": "ʂʈ͡ʂɑstʲɑ",
       "id": 101
     },
     {
       "categoryId": 11,
-      "title": "\u0421\u043c\u0443\u0442\u043e\u043a",
+      "title": "Смуток",
       "picture": "https://loremflickr.com/640/480/sadness",
       "voice": "",
-      "transcription": "smut\u0254k",
+      "transcription": "smutɔk",
       "id": 102
     },
     {
       "categoryId": 11,
-      "title": "\u0413\u043d\u0456\u0432",
+      "title": "Гнів",
       "picture": "https://loremflickr.com/640/480/anger",
       "voice": "",
-      "transcription": "\u0266n\u02b2iv",
+      "transcription": "ɦnʲiv",
       "id": 103
     },
     {
       "categoryId": 11,
-      "title": "\u0411\u0438\u0442\u0438\u0441\u044f",
+      "title": "Страх",
       "picture": "https://loremflickr.com/640/480/fear",
       "voice": "",
-      "transcription": "b\u026at\u026as\u02b2\u0251",
+      "transcription": "strah",
       "id": 104
     },
     {
       "categoryId": 11,
-      "title": "\u041b\u044e\u0431\u043e\u0432",
+      "title": "Любов",
       "picture": "https://loremflickr.com/640/480/love",
       "voice": "",
-      "transcription": "l\u02b2ub\u0254v",
+      "transcription": "lʲubɔv",
       "id": 105
     },
     {
       "categoryId": 11,
-      "title": "\u0420\u0435\u0432\u043d\u043e\u0449\u0456",
+      "title": "Ревнощі",
       "picture": "https://loremflickr.com/640/480/jealousy",
       "voice": "",
-      "transcription": "r\u025bvn\u0254\u0282\u0288\u0361\u0282i",
+      "transcription": "rɛvnɔʂʈ͡ʂi",
       "id": 106
     },
     {
       "categoryId": 11,
-      "title": "\u0425\u0432\u0438\u043b\u044e\u0432\u0430\u043d\u043d\u044f",
+      "title": "Хвилювання",
       "picture": "https://loremflickr.com/640/480/excitement",
       "voice": "",
-      "transcription": "xv\u026al\u02b2uv\u0251nn\u02b2\u0251",
+      "transcription": "xvɪlʲuvɑnnʲɑ",
       "id": 107
     },
     {
       "categoryId": 11,
-      "title": "\u0417\u0434\u0438\u0432\u0443\u0432\u0430\u0442\u0438",
+      "title": "Здивування",
       "picture": "https://loremflickr.com/640/480/surprise",
       "voice": "",
-      "transcription": "zd\u026avuv\u0251t\u026a",
+      "transcription": "zdɪvuvɑnnʲɑ",
       "id": 108
     },
     {
       "categoryId": 11,
-      "title": "\u041e\u0433\u0438\u0434\u0430",
+      "title": "Огида",
       "picture": "https://loremflickr.com/640/480/disgust",
       "voice": "",
-      "transcription": "\u0254\u0266\u026ad\u0251",
+      "transcription": "ɔɦɪdɑ",
       "id": 109
     },
     {
       "categoryId": 11,
-      "title": "\u0421\u043f\u0430\u043d\u0442\u0435\u043b\u0438\u0447\u0435\u043d\u0456\u0441\u0442\u044c",
+      "title": "Спантеличеність",
       "picture": "https://loremflickr.com/640/480/confusion",
       "voice": "",
-      "transcription": "sp\u0251nt\u025bl\u026a\u0288\u0361\u0282\u025bn\u02b2ist\u02b2",
+      "transcription": "spɑntɛlɪʈ͡ʂɛnʲistʲ",
       "id": 110
     },
     {
       "categoryId": 12,
-      "title": "\u0420\u0430\u043d\u043a\u043e\u0432\u0438\u0439",
+      "title": "Ранок",
       "picture": "https://loremflickr.com/640/480/morning",
       "voice": "",
-      "transcription": "r\u0251nk\u0254v\u026aj",
+      "transcription": "rɑnɔk",
       "id": 111
     },
     {
       "categoryId": 12,
-      "title": "\u041f\u0456\u0441\u043b\u044f\u043e\u0431\u0456\u0434\u043d\u0456\u0439",
+      "title": "Обід",
       "picture": "https://loremflickr.com/640/480/afternoon",
       "voice": "",
-      "transcription": "pisl\u02b2\u0251\u0254bidn\u02b2ij",
+      "transcription": "ɔbid",
       "id": 112
     },
     {
       "categoryId": 12,
-      "title": "\u0412\u0435\u0447\u0456\u0440",
+      "title": "Вечір",
       "picture": "https://loremflickr.com/640/480/evening",
       "voice": "",
-      "transcription": "v\u025b\u0288\u0361\u0282ir",
+      "transcription": "vɛʈ͡ʂir",
       "id": 113
     },
     {
       "categoryId": 12,
-      "title": "\u041d\u0456\u0447\u043d\u0438\u0439",
+      "title": "Ніч",
       "picture": "https://loremflickr.com/640/480/night",
       "voice": "",
-      "transcription": "n\u02b2i\u0288\u0361\u0282n\u026aj",
+      "transcription": "nʲiʈ͡j",
       "id": 114
     },
     {
       "categoryId": 12,
-      "title": "\u0414\u0435\u043d\u044c",
+      "title": "День",
       "picture": "https://loremflickr.com/640/480/day",
       "voice": "",
-      "transcription": "d\u025bn\u02b2",
+      "transcription": "dɛnʲ",
       "id": 115
     },
     {
       "categoryId": 12,
-      "title": "\u0422\u0438\u0436\u0434\u0435\u043d\u044c",
+      "title": "Тиждень",
       "picture": "https://loremflickr.com/640/480/week",
       "voice": "",
-      "transcription": "t\u026a\u0290d\u025bn\u02b2",
+      "transcription": "tɪʐdɛnʲ",
       "id": 116
     },
     {
       "categoryId": 12,
-      "title": "\u041c\u0456\u0441\u044f\u0446\u044c",
+      "title": "Місяць",
       "picture": "https://loremflickr.com/640/480/month",
       "voice": "",
-      "transcription": "mis\u02b2\u0251t\u0361s\u02b2",
+      "transcription": "misʲɑt͡sʲ",
       "id": 117
     },
     {
       "categoryId": 12,
-      "title": "\u0420\u0456\u043a",
+      "title": "Рік",
       "picture": "https://loremflickr.com/640/480/year",
       "voice": "",
-      "transcription": "r\u02b2ik",
+      "transcription": "rʲik",
       "id": 118
     },
     {
       "categoryId": 12,
-      "title": "\u0412\u0447\u043e\u0440\u0430",
+      "title": "Вчора",
       "picture": "https://loremflickr.com/640/480/yesterday",
       "voice": "",
-      "transcription": "v\u0288\u0361\u0282\u0254r\u0251",
+      "transcription": "vʈ͡ʂɔrɑ",
       "id": 119
     },
     {
       "categoryId": 12,
-      "title": "\u0417\u0430\u0432\u0442\u0440\u0430",
+      "title": "Завтра",
       "picture": "https://loremflickr.com/640/480/tomorrow",
       "voice": "",
-      "transcription": "z\u0251vtr\u0251",
+      "transcription": "zɑvtrɑ",
       "id": 120
     },
     {
       "categoryId": 13,
-      "title": "\u0425\u043e\u0440\u043e\u0431\u0440\u0438\u0439",
+      "title": "Хоробрий",
       "picture": "https://loremflickr.com/640/480/brave",
       "voice": "",
-      "transcription": "x\u0254r\u0254br\u026aj",
+      "transcription": "xɔrɔbrɪj",
       "id": 121
     },
     {
       "categoryId": 13,
-      "title": "\u0412\u0438\u0434",
+      "title": "Добрий",
       "picture": "https://loremflickr.com/640/480/kind",
       "voice": "",
-      "transcription": "v\u026ad",
+      "transcription": "dobryi",
       "id": 122
     },
     {
       "categoryId": 13,
-      "title": "\u0420\u043e\u0437\u0443\u043c\u043d\u0438\u0439",
+      "title": "Розумний",
       "picture": "https://loremflickr.com/640/480/clever",
       "voice": "",
-      "transcription": "r\u0254zumn\u026aj",
+      "transcription": "rɔzumnɪj",
       "id": 123
     },
     {
       "categoryId": 13,
-      "title": "\u0421\u043c\u0456\u0448\u043d\u0438\u0439",
+      "title": "Смішний",
       "picture": "https://loremflickr.com/640/480/funny",
       "voice": "",
-      "transcription": "smi\u0282n\u026aj",
+      "transcription": "smiʂnɪj",
       "id": 124
     },
     {
       "categoryId": 13,
-      "title": "\u041b\u0435\u0434\u0430\u0447\u0438\u0439",
+      "title": "Ледачий",
       "picture": "https://loremflickr.com/640/480/lazy",
       "voice": "",
-      "transcription": "l\u025bd\u0251\u0288\u0361\u0282\u026aj",
+      "transcription": "lɛdɑʈ͡ʂɪj",
       "id": 125
     },
     {
       "categoryId": 13,
-      "title": "\u0427\u0435\u0441\u043d\u0438\u0439",
+      "title": "Чесний",
       "picture": "https://loremflickr.com/640/480/honest",
       "voice": "",
-      "transcription": "\u0288\u0361\u0282\u025bsn\u026aj",
+      "transcription": "ʈ͡ʂɛsnɪj",
       "id": 126
     },
     {
       "categoryId": 13,
-      "title": "\u0421\u043e\u0440\u043e\u043c'\u044f\u0437\u043b\u0438\u0432\u0438\u0439",
+      "title": "Сором'язливий",
       "picture": "https://loremflickr.com/640/480/shy",
       "voice": "",
-      "transcription": "s\u0254r\u0254m'\u0251zl\u026av\u026aj",
+      "transcription": "sɔrɔm'ɑzlɪvɪj",
       "id": 127
     },
     {
       "categoryId": 13,
-      "title": "\u0421\u0435\u0440\u0439\u043e\u0437\u043d\u0438\u0439",
+      "title": "Серйозний",
       "picture": "https://loremflickr.com/640/480/serious",
       "voice": "",
-      "transcription": "s\u025brj\u0254zn\u026aj",
+      "transcription": "sɛrjɔznɪj",
       "id": 128
     },
     {
       "categoryId": 13,
-      "title": "\u0429\u0435\u0434\u0440\u0438\u0439",
+      "title": "Щедрий",
       "picture": "https://loremflickr.com/640/480/generous",
       "voice": "",
-      "transcription": "\u0282\u0288\u0361\u0282\u025bdr\u026aj",
+      "transcription": "ʂʈ͡ʂɛdrɪj",
       "id": 129
     },
     {
       "categoryId": 13,
-      "title": "\u0412\u043f\u0435\u0432\u043d\u0435\u043d\u0438\u0439",
+      "title": "Впевнений",
       "picture": "https://loremflickr.com/640/480/confident",
       "voice": "",
-      "transcription": "vp\u025bvn\u025bn\u026aj",
+      "transcription": "vpɛvnɛnɪj",
       "id": 130
     },
     {
       "categoryId": 14,
-      "title": "\u0412\u0435\u043b\u0438\u043a\u0438\u0439",
+      "title": "Великий",
       "picture": "https://loremflickr.com/640/480/big",
       "voice": "",
-      "transcription": "v\u025bl\u026ak\u026aj",
+      "transcription": "vɛlɪkɪj",
       "id": 131
     },
     {
       "categoryId": 14,
-      "title": "\u041d\u0435\u0432\u0435\u043b\u0438\u043a\u0438\u0439",
+      "title": "Малий",
       "picture": "https://loremflickr.com/640/480/small",
       "voice": "",
-      "transcription": "n\u025bv\u025bl\u026ak\u026aj",
+      "transcription": "malyj",
       "id": 132
     },
     {
       "categoryId": 14,
-      "title": "\u0428\u0432\u0438\u0434\u043a\u0438\u0439",
+      "title": "Швидкий",
       "picture": "https://loremflickr.com/640/480/fast",
       "voice": "",
-      "transcription": "\u0282v\u026adk\u026aj",
+      "transcription": "ʂvɪdkɪj",
       "id": 133
     },
     {
       "categoryId": 14,
-      "title": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
+      "title": "Повільний",
       "picture": "https://loremflickr.com/640/480/slow",
       "voice": "",
-      "transcription": "p\u0254vil\u02b2n\u0254",
+      "transcription": "pɔvilʲnyi",
       "id": 134
     },
     {
       "categoryId": 14,
-      "title": "\u0413\u0430\u0440\u044f\u0447\u0438\u0439",
+      "title": "Гарячий",
       "picture": "https://loremflickr.com/640/480/hot",
       "voice": "",
-      "transcription": "\u0266\u0251r\u02b2\u0251\u0288\u0361\u0282\u026aj",
+      "transcription": "ɦɑrʲɑʈ͡ʂɪj",
       "id": 135
     },
     {
       "categoryId": 14,
-      "title": "\u0425\u043e\u043b\u043e\u0434\u043d\u0438\u0439",
+      "title": "Холодний",
       "picture": "https://loremflickr.com/640/480/cold",
       "voice": "",
-      "transcription": "x\u0254l\u0254dn\u026aj",
+      "transcription": "xɔlɔdnɪj",
       "id": 136
     },
     {
       "categoryId": 14,
-      "title": "\u0414\u043e\u0431\u0440\u0438\u0439",
+      "title": "Добрий",
       "picture": "https://loremflickr.com/640/480/good",
       "voice": "",
-      "transcription": "d\u0254br\u026aj",
+      "transcription": "dɔbrɪj",
       "id": 137
     },
     {
       "categoryId": 14,
-      "title": "\u041f\u043e\u0433\u0430\u043d\u0438\u0439",
+      "title": "Поганий",
       "picture": "https://loremflickr.com/640/480/bad",
       "voice": "",
-      "transcription": "p\u0254\u0266\u0251n\u026aj",
+      "transcription": "pɔɦɑnɪj",
       "id": 138
     },
     {
       "categoryId": 14,
-      "title": "\u0421\u0438\u043b\u044c\u043d\u0438\u0439",
+      "title": "Сильний",
       "picture": "https://loremflickr.com/640/480/strong",
       "voice": "",
-      "transcription": "s\u026al\u02b2n\u026aj",
+      "transcription": "sɪlʲnɪj",
       "id": 139
     },
     {
       "categoryId": 14,
-      "title": "\u0421\u043b\u0430\u0431\u043a\u0438\u0439",
+      "title": "Слабкий",
       "picture": "https://loremflickr.com/640/480/weak",
       "voice": "",
-      "transcription": "sl\u0251bk\u026aj",
+      "transcription": "slɑbkɪj",
       "id": 140
     },
     {
       "categoryId": 15,
-      "title": "\u042f",
+      "title": "Я",
       "picture": "https://loremflickr.com/640/480/i",
       "voice": "",
-      "transcription": "j\u0251",
+      "transcription": "jɑ",
       "id": 141
     },
     {
       "categoryId": 15,
-      "title": "\u0422\u0438",
+      "title": "Ти",
       "picture": "https://loremflickr.com/640/480/you",
       "voice": "",
-      "transcription": "t\u026a",
+      "transcription": "tɪ",
       "id": 142
     },
     {
       "categoryId": 15,
-      "title": "\u0412\u0456\u043d",
+      "title": "Він",
       "picture": "https://loremflickr.com/640/480/he",
       "voice": "",
       "transcription": "vin",
@@ -1148,55 +1148,55 @@
     },
     {
       "categoryId": 15,
-      "title": "\u0412\u043e\u043d\u0430",
+      "title": "Вона",
       "picture": "https://loremflickr.com/640/480/she",
       "voice": "",
-      "transcription": "v\u0254n\u0251",
+      "transcription": "vɔnɑ",
       "id": 144
     },
     {
       "categoryId": 15,
-      "title": "\u0426\u0435",
+      "title": "Це",
       "picture": "https://loremflickr.com/640/480/it",
       "voice": "",
-      "transcription": "t\u0361s\u025b",
+      "transcription": "t͡sɛ",
       "id": 145
     },
     {
       "categoryId": 15,
-      "title": "\u041c\u0438",
+      "title": "Ми",
       "picture": "https://loremflickr.com/640/480/we",
       "voice": "",
-      "transcription": "m\u026a",
+      "transcription": "mɪ",
       "id": 146
     },
     {
       "categoryId": 15,
-      "title": "\u0412\u043e\u043d\u0438",
+      "title": "Вони",
       "picture": "https://loremflickr.com/640/480/they",
       "voice": "",
-      "transcription": "v\u0254n\u026a",
+      "transcription": "vɔnɪ",
       "id": 147
     },
     {
       "categoryId": 15,
-      "title": "\u042f",
+      "title": "Я",
       "picture": "https://loremflickr.com/640/480/me",
       "voice": "",
-      "transcription": "j\u0251",
+      "transcription": "jɑ",
       "id": 148
     },
     {
       "categoryId": 15,
-      "title": "\u0419\u043e\u0433\u043e",
+      "title": "Його",
       "picture": "https://loremflickr.com/640/480/him",
       "voice": "",
-      "transcription": "j\u0254\u0266\u0254",
+      "transcription": "jɔɦɔ",
       "id": 149
     },
     {
       "categoryId": 15,
-      "title": "\u0407\u0457",
+      "title": "Її",
       "picture": "https://loremflickr.com/640/480/her",
       "voice": "",
       "transcription": "jiji",
@@ -1204,82 +1204,82 @@
     },
     {
       "categoryId": 16,
-      "title": "\u0429\u043e",
+      "title": "Що?",
       "picture": "https://loremflickr.com/640/480/what",
       "voice": "",
-      "transcription": "\u0282\u0288\u0361\u0282\u0254",
+      "transcription": "ʂʈ͡ʂɔ",
       "id": 151
     },
     {
       "categoryId": 16,
-      "title": "\u0412\u041e\u041e\u0417",
+      "title": "Хто?",
       "picture": "https://loremflickr.com/640/480/who",
       "voice": "",
-      "transcription": "v\u0254\u0254z",
+      "transcription": "khto",
       "id": 152
     },
     {
       "categoryId": 16,
-      "title": "\u0414\u0435",
+      "title": "Де?",
       "picture": "https://loremflickr.com/640/480/where",
       "voice": "",
-      "transcription": "d\u025b",
+      "transcription": "dɛ",
       "id": 153
     },
     {
       "categoryId": 16,
-      "title": "\u041a\u043e\u043b\u0438",
+      "title": "Коли?",
       "picture": "https://loremflickr.com/640/480/when",
       "voice": "",
-      "transcription": "k\u0254l\u026a",
+      "transcription": "kɔlɪ",
       "id": 154
     },
     {
       "categoryId": 16,
-      "title": "\u0427\u043e\u043c\u0443",
+      "title": "Чому?",
       "picture": "https://loremflickr.com/640/480/why",
       "voice": "",
-      "transcription": "\u0288\u0361\u0282\u0254mu",
+      "transcription": "ʈ͡ʂɔmu",
       "id": 155
     },
     {
       "categoryId": 16,
-      "title": "\u042f\u043a",
+      "title": "Як?",
       "picture": "https://loremflickr.com/640/480/how",
       "voice": "",
-      "transcription": "j\u0251k",
+      "transcription": "jɑk",
       "id": 156
     },
     {
       "categoryId": 16,
-      "title": "\u042f\u043a\u0438\u0439",
+      "title": "Який?",
       "picture": "https://loremflickr.com/640/480/which",
       "voice": "",
-      "transcription": "j\u0251k\u026aj",
+      "transcription": "jɑkɪj",
       "id": 157
     },
     {
       "categoryId": 16,
-      "title": "\u0427\u0438\u0457",
+      "title": "Чий?",
       "picture": "https://loremflickr.com/640/480/whose",
       "voice": "",
-      "transcription": "\u0288\u0361\u0282\u026aji",
+      "transcription": "ʈ͡ʂɪi",
       "id": 158
     },
     {
       "categoryId": 16,
-      "title": "\u0421\u043a\u0456\u043b\u044c\u043a\u0438",
+      "title": "Скільки?",
       "picture": "https://loremflickr.com/640/480/howmuch",
       "voice": "",
-      "transcription": "skil\u02b2k\u026a",
+      "transcription": "skilʲkɪ",
       "id": 159
     },
     {
       "categoryId": 16,
-      "title": "\u0421\u043a\u0456\u043b\u044c\u043a\u0438",
+      "title": "Скільки?",
       "picture": "https://loremflickr.com/640/480/howmany",
       "voice": "",
-      "transcription": "skil\u02b2k\u026a",
+      "transcription": "skilʲkɪ",
       "id": 160
     }
   ]
