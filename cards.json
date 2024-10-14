@@ -1,8 +1,7 @@
 {
  "version": 1,
  "lang": "nl",
- "list": [
-  {
+ "list": [{
    "id": 1,
    "categoryId": 1,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/1.png",
