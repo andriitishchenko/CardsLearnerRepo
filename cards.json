@@ -1,1286 +1,1286 @@
 {
-  "version": 1,
-  "lang": "ua",
-  "list": [
-    {
-      "categoryId": 1,
-      "title": "Батько",
-      "picture": "https://loremflickr.com/640/480/father",
-      "voice": "",
-      "transcription": "bɑtʲkɔ",
-      "id": 1
-    },
-    {
-      "categoryId": 1,
-      "title": "Мама",
-      "picture": "https://loremflickr.com/640/480/mother",
-      "voice": "",
-      "transcription": "mɑmɑ",
-      "id": 2
-    },
-    {
-      "categoryId": 1,
-      "title": "Брат",
-      "picture": "https://loremflickr.com/640/480/brother",
-      "voice": "",
-      "transcription": "brɑt",
-      "id": 3
-    },
-    {
-      "categoryId": 1,
-      "title": "Сестра",
-      "picture": "https://loremflickr.com/640/480/sister",
-      "voice": "",
-      "transcription": "sɛstrɑ",
-      "id": 4
-    },
-    {
-      "categoryId": 1,
-      "title": "Дитина",
-      "picture": "https://loremflickr.com/640/480/child",
-      "voice": "",
-      "transcription": "dɪtɪnɑ",
-      "id": 5
-    },
-    {
-      "categoryId": 1,
-      "title": "Бабуся",
-      "picture": "https://loremflickr.com/640/480/grandmother",
-      "voice": "",
-      "transcription": "bɑbusʲɑ",
-      "id": 6
-    },
-    {
-      "categoryId": 1,
-      "title": "Дід",
-      "picture": "https://loremflickr.com/640/480/grandfather",
-      "voice": "",
-      "transcription": "dʲid",
-      "id": 7
-    },
-    {
-      "categoryId": 1,
-      "title": "Дядько",
-      "picture": "https://loremflickr.com/640/480/uncle",
-      "voice": "",
-      "transcription": "dʲɑdʲkɔ",
-      "id": 8
-    },
-    {
-      "categoryId": 1,
-      "title": "Тітка",
-      "picture": "https://loremflickr.com/640/480/aunt",
-      "voice": "",
-      "transcription": "tʲitkɑ",
-      "id": 9
-    },
-    {
-      "categoryId": 1,
-      "title": "Двоюрідний брат",
-      "picture": "https://loremflickr.com/640/480/cousin",
-      "voice": "",
-      "transcription": "dvɔurʲidnɪj brɑt",
-      "id": 10
-    },
-    {
-      "categoryId": 2,
-      "title": "Тарілка",
-      "picture": "https://loremflickr.com/640/480/plate",
-      "voice": "",
-      "transcription": "tɑrʲilkɑ",
-      "id": 11
-    },
-    {
-      "categoryId": 2,
-      "title": "Чашка",
-      "picture": "https://loremflickr.com/640/480/cup",
-      "voice": "",
-      "transcription": "ʈ͡ʂɑʂkɑ",
-      "id": 12
-    },
-    {
-      "categoryId": 2,
-      "title": "Виделка",
-      "picture": "https://loremflickr.com/640/480/fork",
-      "voice": "",
-      "transcription": "vɪdɛlkɑ",
-      "id": 13
-    },
-    {
-      "categoryId": 2,
-      "title": "Нож",
-      "picture": "https://loremflickr.com/640/480/knife",
-      "voice": "",
-      "transcription": "nɔʐ",
-      "id": 14
-    },
-    {
-      "categoryId": 2,
-      "title": "Ложка",
-      "picture": "https://loremflickr.com/640/480/spoon",
-      "voice": "",
-      "transcription": "lɔʐkɑ",
-      "id": 15
-    },
-    {
-      "categoryId": 2,
-      "title": "Каструль",
-      "picture": "https://loremflickr.com/640/480/pan",
-      "voice": "",
-      "transcription": "kɑstrulʲ",
-      "id": 16
-    },
-    {
-      "categoryId": 2,
-      "title": "Плита",
-      "picture": "https://loremflickr.com/640/480/stove",
-      "voice": "",
-      "transcription": "plɪtɑ",
-      "id": 17
-    },
-    {
-      "categoryId": 2,
-      "title": "Холодильник",
-      "picture": "https://loremflickr.com/640/480/refrigerator",
-      "voice": "",
-      "transcription": "xɔlɔdɪlʲnɪk",
-      "id": 18
-    },
-    {
-      "categoryId": 2,
-      "title": "Мікрохвильова піч",
-      "picture": "https://loremflickr.com/640/480/microwave",
-      "voice": "",
-      "transcription": "mikrɔxvɪlʲɔvɑ piʈ͡ʂ",
-      "id": 19
-    },
-    {
-      "categoryId": 2,
-      "title": "Мийка",
-      "picture": "https://loremflickr.com/640/480/sink",
-      "voice": "",
-      "transcription": "zɑtɔplʲuvɑtɪ",
-      "id": 20
-    },
-    {
-      "categoryId": 3,
-      "title": "Аеропорт",
-      "picture": "https://loremflickr.com/640/480/airport",
-      "voice": "",
-      "transcription": "ɑɛrɔpɔrt",
-      "id": 21
-    },
-    {
-      "categoryId": 3,
-      "title": "Паспорт",
-      "picture": "https://loremflickr.com/640/480/passport",
-      "voice": "",
-      "transcription": "pɑspɔrt",
-      "id": 22
-    },
-    {
-      "categoryId": 3,
-      "title": "Багаж",
-      "picture": "https://loremflickr.com/640/480/luggage",
-      "voice": "",
-      "transcription": "bɑɦɑʐ",
-      "id": 23
-    },
-    {
-      "categoryId": 3,
-      "title": "Квиток",
-      "picture": "https://loremflickr.com/640/480/ticket",
-      "voice": "",
-      "transcription": "kvɪtɔk",
-      "id": 24
-    },
-    {
-      "categoryId": 3,
-      "title": "Виліт",
-      "picture": "https://loremflickr.com/640/480/flight",
-      "voice": "",
-      "transcription": "vɪlʲit",
-      "id": 25
-    },
-    {
-      "categoryId": 3,
-      "title": "Готель",
-      "picture": "https://loremflickr.com/640/480/hotel",
-      "voice": "",
-      "transcription": "ɦɔtɛlʲ",
-      "id": 26
-    },
-    {
-      "categoryId": 3,
-      "title": "Таксі",
-      "picture": "https://loremflickr.com/640/480/taxi",
-      "voice": "",
-      "transcription": "tɑksʲi",
-      "id": 27
-    },
-    {
-      "categoryId": 3,
-      "title": "Потяг",
-      "picture": "https://loremflickr.com/640/480/train",
-      "voice": "",
-      "transcription": "potjah",
-      "id": 28
-    },
-    {
-      "categoryId": 3,
-      "title": "Автобус",
-      "picture": "https://loremflickr.com/640/480/bus",
-      "voice": "",
-      "transcription": "ɑvtɔbus",
-      "id": 29
-    },
-    {
-      "categoryId": 3,
-      "title": "Карта",
-      "picture": "https://loremflickr.com/640/480/map",
-      "voice": "",
-      "transcription": "kɑrtɑ",
-      "id": 30
-    },
-    {
-      "categoryId": 4,
-      "title": "Собака",
-      "picture": "https://loremflickr.com/640/480/dog",
-      "voice": "",
-      "transcription": "sɔbɑkɑ",
-      "id": 31
-    },
-    {
-      "categoryId": 4,
-      "title": "Кіт",
-      "picture": "https://loremflickr.com/640/480/cat",
-      "voice": "",
-      "transcription": "kit",
-      "id": 32
-    },
-    {
-      "categoryId": 4,
-      "title": "Слон",
-      "picture": "https://loremflickr.com/640/480/elephant",
-      "voice": "",
-      "transcription": "slɔnɔvɪj",
-      "id": 33
-    },
-    {
-      "categoryId": 4,
-      "title": "Тигр",
-      "picture": "https://loremflickr.com/640/480/tiger",
-      "voice": "",
-      "transcription": "tɪɦr",
-      "id": 34
-    },
-    {
-      "categoryId": 4,
-      "title": "Лев",
-      "picture": "https://loremflickr.com/640/480/lion",
-      "voice": "",
-      "transcription": "lɛv",
-      "id": 35
-    },
-    {
-      "categoryId": 4,
-      "title": "Птах",
-      "picture": "https://loremflickr.com/640/480/bird",
-      "voice": "",
-      "transcription": "ptɑx",
-      "id": 36
-    },
-    {
-      "categoryId": 4,
-      "title": "Риба",
-      "picture": "https://loremflickr.com/640/480/fish",
-      "voice": "",
-      "transcription": "rɪbɑ",
-      "id": 37
-    },
-    {
-      "categoryId": 4,
-      "title": "Кінь",
-      "picture": "https://loremflickr.com/640/480/horse",
-      "voice": "",
-      "transcription": "kinʲ",
-      "id": 38
-    },
-    {
-      "categoryId": 4,
-      "title": "Корова",
-      "picture": "https://loremflickr.com/640/480/cow",
-      "voice": "",
-      "transcription": "kɔrɔvɑ",
-      "id": 39
-    },
-    {
-      "categoryId": 4,
-      "title": "Мавпа",
-      "picture": "https://loremflickr.com/640/480/monkey",
-      "voice": "",
-      "transcription": "mɑvpɑ",
-      "id": 40
-    },
-    {
-      "categoryId": 5,
-      "title": "Червоний",
-      "picture": "https://loremflickr.com/640/480/red",
-      "voice": "",
-      "transcription": "ʈ͡ʂɛrvɔnɪj",
-      "id": 41
-    },
-    {
-      "categoryId": 5,
-      "title": "Блакитний",
-      "picture": "https://loremflickr.com/640/480/blue",
-      "voice": "",
-      "transcription": "blɑkɪtnɪj",
-      "id": 42
-    },
-    {
-      "categoryId": 5,
-      "title": "Зелений",
-      "picture": "https://loremflickr.com/640/480/green",
-      "voice": "",
-      "transcription": "zɛlɛnɪj",
-      "id": 43
-    },
-    {
-      "categoryId": 5,
-      "title": "Жовтий",
-      "picture": "https://loremflickr.com/640/480/yellow",
-      "voice": "",
-      "transcription": "ʐɔvtɪj",
-      "id": 44
-    },
-    {
-      "categoryId": 5,
-      "title": "Чорний",
-      "picture": "https://loremflickr.com/640/480/black",
-      "voice": "",
-      "transcription": "ʈ͡ʂɔrnɪj",
-      "id": 45
-    },
-    {
-      "categoryId": 5,
-      "title": "Білий",
-      "picture": "https://loremflickr.com/640/480/white",
-      "voice": "",
-      "transcription": "bilɪj",
-      "id": 46
-    },
-    {
-      "categoryId": 5,
-      "title": "Фіолетовий",
-      "picture": "https://loremflickr.com/640/480/purple",
-      "voice": "",
-      "transcription": "fiɔlɛtɔvɪj",
-      "id": 47
-    },
-    {
-      "categoryId": 5,
-      "title": "Помаранчовий",
-      "picture": "https://loremflickr.com/640/480/orange",
-      "voice": "",
-      "transcription": "pomaranchevyj",
-      "id": 48
-    },
-    {
-      "categoryId": 5,
-      "title": "Рожевий",
-      "picture": "https://loremflickr.com/640/480/pink",
-      "voice": "",
-      "transcription": "rɔʐɛvɪj",
-      "id": 49
-    },
-    {
-      "categoryId": 5,
-      "title": "Коричневий",
-      "picture": "https://loremflickr.com/640/480/brown",
-      "voice": "",
-      "transcription": "kɔrɪʈ͡ʂnɛvɪj",
-      "id": 50
-    },
-    {
-      "categoryId": 6,
-      "title": "Яблук",
-      "picture": "https://loremflickr.com/640/480/apple",
-      "voice": "",
-      "transcription": "jɑbluk",
-      "id": 51
-    },
-    {
-      "categoryId": 6,
-      "title": "Банан",
-      "picture": "https://loremflickr.com/640/480/banana",
-      "voice": "",
-      "transcription": "bɑnɑn",
-      "id": 52
-    },
-    {
-      "categoryId": 6,
-      "title": "Хліб",
-      "picture": "https://loremflickr.com/640/480/bread",
-      "voice": "",
-      "transcription": "xlʲib",
-      "id": 53
-    },
-    {
-      "categoryId": 6,
-      "title": "Сир",
-      "picture": "https://loremflickr.com/640/480/cheese",
-      "voice": "",
-      "transcription": "sɪr",
-      "id": 54
-    },
-    {
-      "categoryId": 6,
-      "title": "Яйце",
-      "picture": "https://loremflickr.com/640/480/egg",
-      "voice": "",
-      "transcription": "jɑjt͡sɛ",
-      "id": 55
-    },
-    {
-      "categoryId": 6,
-      "title": "Риба",
-      "picture": "https://loremflickr.com/640/480/fish",
-      "voice": "",
-      "transcription": "rɪbɑ",
-      "id": 56
-    },
-    {
-      "categoryId": 6,
-      "title": "М'ясо",
-      "picture": "https://loremflickr.com/640/480/meat",
-      "voice": "",
-      "transcription": "m'ɑsɔ",
-      "id": 57
-    },
-    {
-      "categoryId": 6,
-      "title": "Рис",
-      "picture": "https://loremflickr.com/640/480/rice",
-      "voice": "",
-      "transcription": "rɪs",
-      "id": 58
-    },
-    {
-      "categoryId": 6,
-      "title": "Суп",
-      "picture": "https://loremflickr.com/640/480/soup",
-      "voice": "",
-      "transcription": "sup",
-      "id": 59
-    },
-    {
-      "categoryId": 6,
-      "title": "Овочі",
-      "picture": "https://loremflickr.com/640/480/vegetables",
-      "voice": "",
-      "transcription": "ɔvɔʈ͡ʂi",
-      "id": 60
-    },
-    {
-      "categoryId": 7,
-      "title": "Сорочка",
-      "picture": "https://loremflickr.com/640/480/shirt",
-      "voice": "",
-      "transcription": "sɔrɔʈ͡ʂkɑ",
-      "id": 61
-    },
-    {
-      "categoryId": 7,
-      "title": "Штани",
-      "picture": "https://loremflickr.com/640/480/pants",
-      "voice": "",
-      "transcription": "ʂtɑnɪ",
-      "id": 62
-    },
-    {
-      "categoryId": 7,
-      "title": "Куртка",
-      "picture": "https://loremflickr.com/640/480/jacket",
-      "voice": "",
-      "transcription": "kurtkɑ",
-      "id": 63
-    },
-    {
-      "categoryId": 7,
-      "title": "Сукня",
-      "picture": "https://loremflickr.com/640/480/dress",
-      "voice": "",
-      "transcription": "suknʲɑ",
-      "id": 64
-    },
-    {
-      "categoryId": 7,
-      "title": "Взуття",
-      "picture": "https://loremflickr.com/640/480/shoes",
-      "voice": "",
-      "transcription": "vzuttʲɑ",
-      "id": 65
-    },
-    {
-      "categoryId": 7,
-      "title": "Шапка",
-      "picture": "https://loremflickr.com/640/480/hat",
-      "voice": "",
-      "transcription": "ʂɑpkɑ",
-      "id": 66
-    },
-    {
-      "categoryId": 7,
-      "title": "Шарф",
-      "picture": "https://loremflickr.com/640/480/scarf",
-      "voice": "",
-      "transcription": "ʂɑrf",
-      "id": 67
-    },
-    {
-      "categoryId": 7,
-      "title": "Рукавички",
-      "picture": "https://loremflickr.com/640/480/gloves",
-      "voice": "",
-      "transcription": "rukɑvɪʈ͡ʂkɪ",
-      "id": 68
-    },
-    {
-      "categoryId": 7,
-      "title": "Шкарпетки",
-      "picture": "https://loremflickr.com/640/480/socks",
-      "voice": "",
-      "transcription": "ʂkɑrpɛtkɪ",
-      "id": 69
-    },
-    {
-      "categoryId": 7,
-      "title": "Спідниця",
-      "picture": "https://loremflickr.com/640/480/skirt",
-      "voice": "",
-      "transcription": "spidnɪt͡sʲɑ",
-      "id": 70
-    },
-    {
-      "categoryId": 8,
-      "title": "Книга",
-      "picture": "https://loremflickr.com/640/480/book",
-      "voice": "",
-      "transcription": "knɪɦɑ",
-      "id": 71
-    },
-    {
-      "categoryId": 8,
-      "title": "Олівець",
-      "picture": "https://loremflickr.com/640/480/pencil",
-      "voice": "",
-      "transcription": "ɔlʲivɛt͡sʲ",
-      "id": 72
-    },
-    {
-      "categoryId": 8,
-      "title": "Ручка",
-      "picture": "https://loremflickr.com/640/480/pen",
-      "voice": "",
-      "transcription": "ruʈ͡ʂkɑ",
-      "id": 73
-    },
-    {
-      "categoryId": 8,
-      "title": "Гумка",
-      "picture": "https://loremflickr.com/640/480/eraser",
-      "voice": "",
-      "transcription": "ɦumkɑ",
-      "id": 74
-    },
-    {
-      "categoryId": 8,
-      "title": "Зошит",
-      "picture": "https://loremflickr.com/640/480/notebook",
-      "voice": "",
-      "transcription": "zɔʂɪt",
-      "id": 75
-    },
-    {
-      "categoryId": 8,
-      "title": "Стіл",
-      "picture": "https://loremflickr.com/640/480/desk",
-      "voice": "",
-      "transcription": "stʲil",
-      "id": 76
-    },
-    {
-      "categoryId": 8,
-      "title": "Крісло",
-      "picture": "https://loremflickr.com/640/480/chair",
-      "voice": "",
-      "transcription": "krʲislɔ",
-      "id": 77
-    },
-    {
-      "categoryId": 8,
-      "title": "Викладач",
-      "picture": "https://loremflickr.com/640/480/teacher",
-      "voice": "",
-      "transcription": "vɪklɑdɑʈ͡ʂ",
-      "id": 78
-    },
-    {
-      "categoryId": 8,
-      "title": "Студент",
-      "picture": "https://loremflickr.com/640/480/student",
-      "voice": "",
-      "transcription": "studɛnt",
-      "id": 79
-    },
-    {
-      "categoryId": 8,
-      "title": "Лінійка",
-      "picture": "https://loremflickr.com/640/480/ruler",
-      "voice": "",
-      "transcription": "liniyka",
-      "id": 80
-    },
-    {
-      "categoryId": 9,
-      "title": "Футбол",
-      "picture": "https://loremflickr.com/640/480/soccer",
-      "voice": "",
-      "transcription": "futbɔl",
-      "id": 81
-    },
-    {
-      "categoryId": 9,
-      "title": "Баскетбол",
-      "picture": "https://loremflickr.com/640/480/basketball",
-      "voice": "",
-      "transcription": "bɑskɛtbɔl",
-      "id": 82
-    },
-    {
-      "categoryId": 9,
-      "title": "Теніс",
-      "picture": "https://loremflickr.com/640/480/tennis",
-      "voice": "",
-      "transcription": "tɛnʲis",
-      "id": 83
-    },
-    {
-      "categoryId": 9,
-      "title": "Бейсбол",
-      "picture": "https://loremflickr.com/640/480/baseball",
-      "voice": "",
-      "transcription": "bɛjsbɔl",
-      "id": 84
-    },
-    {
-      "categoryId": 9,
-      "title": "Плавання",
-      "picture": "https://loremflickr.com/640/480/swimming",
-      "voice": "",
-      "transcription": "plɑvɑnnʲɑ",
-      "id": 85
-    },
-    {
-      "categoryId": 9,
-      "title": "Біг",
-      "picture": "https://loremflickr.com/640/480/running",
-      "voice": "",
-      "transcription": "biɦ",
-      "id": 86
-    },
-    {
-      "categoryId": 9,
-      "title": "Велосипед",
-      "picture": "https://loremflickr.com/640/480/cycling",
-      "voice": "",
-      "transcription": "vɛlɔsɪpɛd",
-      "id": 87
-    },
-    {
-      "categoryId": 9,
-      "title": "Гольф",
-      "picture": "https://loremflickr.com/640/480/golf",
-      "voice": "",
-      "transcription": "ɦɔlʲf",
-      "id": 88
-    },
-    {
-      "categoryId": 9,
-      "title": "Бокс",
-      "picture": "https://loremflickr.com/640/480/boxing",
-      "voice": "",
-      "transcription": "bɔks",
-      "id": 89
-    },
-    {
-      "categoryId": 9,
-      "title": "Волейбол",
-      "picture": "https://loremflickr.com/640/480/volleyball",
-      "voice": "",
-      "transcription": "vɔlɛjbɔl",
-      "id": 90
-    },
-    {
-      "categoryId": 10,
-      "title": "Комп'ютер",
-      "picture": "https://loremflickr.com/640/480/computer",
-      "voice": "",
-      "transcription": "kɔmp'utɛr",
-      "id": 91
-    },
-    {
-      "categoryId": 10,
-      "title": "Телефон",
-      "picture": "https://loremflickr.com/640/480/phone",
-      "voice": "",
-      "transcription": "tɛlɛfɔn",
-      "id": 92
-    },
-    {
-      "categoryId": 10,
-      "title": "Планшет",
-      "picture": "https://loremflickr.com/640/480/tablet",
-      "voice": "",
-      "transcription": "plɑnʂɛt",
-      "id": 93
-    },
-    {
-      "categoryId": 10,
-      "title": "Ноутбук",
-      "picture": "https://loremflickr.com/640/480/laptop",
-      "voice": "",
-      "transcription": "nɔutbuk",
-      "id": 94
-    },
-    {
-      "categoryId": 10,
-      "title": "Клавіатура",
-      "picture": "https://loremflickr.com/640/480/keyboard",
-      "voice": "",
-      "transcription": "klɑviɑturɑ",
-      "id": 95
-    },
-    {
-      "categoryId": 10,
-      "title": "Миша",
-      "picture": "https://loremflickr.com/640/480/mouse",
-      "voice": "",
-      "transcription": "mɪʂɑ",
-      "id": 96
-    },
-    {
-      "categoryId": 10,
-      "title": "Принтер",
-      "picture": "https://loremflickr.com/640/480/printer",
-      "voice": "",
-      "transcription": "prɪntɛr",
-      "id": 97
-    },
-    {
-      "categoryId": 10,
-      "title": "Монітор",
-      "picture": "https://loremflickr.com/640/480/monitor",
-      "voice": "",
-      "transcription": "mɔnʲitɔr",
-      "id": 98
-    },
-    {
-      "categoryId": 10,
-      "title": "Навушники",
-      "picture": "https://loremflickr.com/640/480/headphones",
-      "voice": "",
-      "transcription": "nɑvuʂnɪkɪ",
-      "id": 99
-    },
-    {
-      "categoryId": 10,
-      "title": "Камера",
-      "picture": "https://loremflickr.com/640/480/camera",
-      "voice": "",
-      "transcription": "kɑmɛrɑ",
-      "id": 100
-    },
-    {
-      "categoryId": 11,
-      "title": "Щастя",
-      "picture": "https://loremflickr.com/640/480/happiness",
-      "voice": "",
-      "transcription": "ʂʈ͡ʂɑstʲɑ",
-      "id": 101
-    },
-    {
-      "categoryId": 11,
-      "title": "Смуток",
-      "picture": "https://loremflickr.com/640/480/sadness",
-      "voice": "",
-      "transcription": "smutɔk",
-      "id": 102
-    },
-    {
-      "categoryId": 11,
-      "title": "Гнів",
-      "picture": "https://loremflickr.com/640/480/anger",
-      "voice": "",
-      "transcription": "ɦnʲiv",
-      "id": 103
-    },
-    {
-      "categoryId": 11,
-      "title": "Страх",
-      "picture": "https://loremflickr.com/640/480/fear",
-      "voice": "",
-      "transcription": "strah",
-      "id": 104
-    },
-    {
-      "categoryId": 11,
-      "title": "Любов",
-      "picture": "https://loremflickr.com/640/480/love",
-      "voice": "",
-      "transcription": "lʲubɔv",
-      "id": 105
-    },
-    {
-      "categoryId": 11,
-      "title": "Ревнощі",
-      "picture": "https://loremflickr.com/640/480/jealousy",
-      "voice": "",
-      "transcription": "rɛvnɔʂʈ͡ʂi",
-      "id": 106
-    },
-    {
-      "categoryId": 11,
-      "title": "Хвилювання",
-      "picture": "https://loremflickr.com/640/480/excitement",
-      "voice": "",
-      "transcription": "xvɪlʲuvɑnnʲɑ",
-      "id": 107
-    },
-    {
-      "categoryId": 11,
-      "title": "Здивування",
-      "picture": "https://loremflickr.com/640/480/surprise",
-      "voice": "",
-      "transcription": "zdɪvuvɑnnʲɑ",
-      "id": 108
-    },
-    {
-      "categoryId": 11,
-      "title": "Огида",
-      "picture": "https://loremflickr.com/640/480/disgust",
-      "voice": "",
-      "transcription": "ɔɦɪdɑ",
-      "id": 109
-    },
-    {
-      "categoryId": 11,
-      "title": "Спантеличеність",
-      "picture": "https://loremflickr.com/640/480/confusion",
-      "voice": "",
-      "transcription": "spɑntɛlɪʈ͡ʂɛnʲistʲ",
-      "id": 110
-    },
-    {
-      "categoryId": 12,
-      "title": "Ранок",
-      "picture": "https://loremflickr.com/640/480/morning",
-      "voice": "",
-      "transcription": "rɑnɔk",
-      "id": 111
-    },
-    {
-      "categoryId": 12,
-      "title": "Обід",
-      "picture": "https://loremflickr.com/640/480/afternoon",
-      "voice": "",
-      "transcription": "ɔbid",
-      "id": 112
-    },
-    {
-      "categoryId": 12,
-      "title": "Вечір",
-      "picture": "https://loremflickr.com/640/480/evening",
-      "voice": "",
-      "transcription": "vɛʈ͡ʂir",
-      "id": 113
-    },
-    {
-      "categoryId": 12,
-      "title": "Ніч",
-      "picture": "https://loremflickr.com/640/480/night",
-      "voice": "",
-      "transcription": "nʲiʈ͡j",
-      "id": 114
-    },
-    {
-      "categoryId": 12,
-      "title": "День",
-      "picture": "https://loremflickr.com/640/480/day",
-      "voice": "",
-      "transcription": "dɛnʲ",
-      "id": 115
-    },
-    {
-      "categoryId": 12,
-      "title": "Тиждень",
-      "picture": "https://loremflickr.com/640/480/week",
-      "voice": "",
-      "transcription": "tɪʐdɛnʲ",
-      "id": 116
-    },
-    {
-      "categoryId": 12,
-      "title": "Місяць",
-      "picture": "https://loremflickr.com/640/480/month",
-      "voice": "",
-      "transcription": "misʲɑt͡sʲ",
-      "id": 117
-    },
-    {
-      "categoryId": 12,
-      "title": "Рік",
-      "picture": "https://loremflickr.com/640/480/year",
-      "voice": "",
-      "transcription": "rʲik",
-      "id": 118
-    },
-    {
-      "categoryId": 12,
-      "title": "Вчора",
-      "picture": "https://loremflickr.com/640/480/yesterday",
-      "voice": "",
-      "transcription": "vʈ͡ʂɔrɑ",
-      "id": 119
-    },
-    {
-      "categoryId": 12,
-      "title": "Завтра",
-      "picture": "https://loremflickr.com/640/480/tomorrow",
-      "voice": "",
-      "transcription": "zɑvtrɑ",
-      "id": 120
-    },
-    {
-      "categoryId": 13,
-      "title": "Хоробрий",
-      "picture": "https://loremflickr.com/640/480/brave",
-      "voice": "",
-      "transcription": "xɔrɔbrɪj",
-      "id": 121
-    },
-    {
-      "categoryId": 13,
-      "title": "Добрий",
-      "picture": "https://loremflickr.com/640/480/kind",
-      "voice": "",
-      "transcription": "dobryi",
-      "id": 122
-    },
-    {
-      "categoryId": 13,
-      "title": "Розумний",
-      "picture": "https://loremflickr.com/640/480/clever",
-      "voice": "",
-      "transcription": "rɔzumnɪj",
-      "id": 123
-    },
-    {
-      "categoryId": 13,
-      "title": "Смішний",
-      "picture": "https://loremflickr.com/640/480/funny",
-      "voice": "",
-      "transcription": "smiʂnɪj",
-      "id": 124
-    },
-    {
-      "categoryId": 13,
-      "title": "Ледачий",
-      "picture": "https://loremflickr.com/640/480/lazy",
-      "voice": "",
-      "transcription": "lɛdɑʈ͡ʂɪj",
-      "id": 125
-    },
-    {
-      "categoryId": 13,
-      "title": "Чесний",
-      "picture": "https://loremflickr.com/640/480/honest",
-      "voice": "",
-      "transcription": "ʈ͡ʂɛsnɪj",
-      "id": 126
-    },
-    {
-      "categoryId": 13,
-      "title": "Сором'язливий",
-      "picture": "https://loremflickr.com/640/480/shy",
-      "voice": "",
-      "transcription": "sɔrɔm'ɑzlɪvɪj",
-      "id": 127
-    },
-    {
-      "categoryId": 13,
-      "title": "Серйозний",
-      "picture": "https://loremflickr.com/640/480/serious",
-      "voice": "",
-      "transcription": "sɛrjɔznɪj",
-      "id": 128
-    },
-    {
-      "categoryId": 13,
-      "title": "Щедрий",
-      "picture": "https://loremflickr.com/640/480/generous",
-      "voice": "",
-      "transcription": "ʂʈ͡ʂɛdrɪj",
-      "id": 129
-    },
-    {
-      "categoryId": 13,
-      "title": "Впевнений",
-      "picture": "https://loremflickr.com/640/480/confident",
-      "voice": "",
-      "transcription": "vpɛvnɛnɪj",
-      "id": 130
-    },
-    {
-      "categoryId": 14,
-      "title": "Великий",
-      "picture": "https://loremflickr.com/640/480/big",
-      "voice": "",
-      "transcription": "vɛlɪkɪj",
-      "id": 131
-    },
-    {
-      "categoryId": 14,
-      "title": "Малий",
-      "picture": "https://loremflickr.com/640/480/small",
-      "voice": "",
-      "transcription": "malyj",
-      "id": 132
-    },
-    {
-      "categoryId": 14,
-      "title": "Швидкий",
-      "picture": "https://loremflickr.com/640/480/fast",
-      "voice": "",
-      "transcription": "ʂvɪdkɪj",
-      "id": 133
-    },
-    {
-      "categoryId": 14,
-      "title": "Повільний",
-      "picture": "https://loremflickr.com/640/480/slow",
-      "voice": "",
-      "transcription": "pɔvilʲnyi",
-      "id": 134
-    },
-    {
-      "categoryId": 14,
-      "title": "Гарячий",
-      "picture": "https://loremflickr.com/640/480/hot",
-      "voice": "",
-      "transcription": "ɦɑrʲɑʈ͡ʂɪj",
-      "id": 135
-    },
-    {
-      "categoryId": 14,
-      "title": "Холодний",
-      "picture": "https://loremflickr.com/640/480/cold",
-      "voice": "",
-      "transcription": "xɔlɔdnɪj",
-      "id": 136
-    },
-    {
-      "categoryId": 14,
-      "title": "Добрий",
-      "picture": "https://loremflickr.com/640/480/good",
-      "voice": "",
-      "transcription": "dɔbrɪj",
-      "id": 137
-    },
-    {
-      "categoryId": 14,
-      "title": "Поганий",
-      "picture": "https://loremflickr.com/640/480/bad",
-      "voice": "",
-      "transcription": "pɔɦɑnɪj",
-      "id": 138
-    },
-    {
-      "categoryId": 14,
-      "title": "Сильний",
-      "picture": "https://loremflickr.com/640/480/strong",
-      "voice": "",
-      "transcription": "sɪlʲnɪj",
-      "id": 139
-    },
-    {
-      "categoryId": 14,
-      "title": "Слабкий",
-      "picture": "https://loremflickr.com/640/480/weak",
-      "voice": "",
-      "transcription": "slɑbkɪj",
-      "id": 140
-    },
-    {
-      "categoryId": 15,
-      "title": "Я",
-      "picture": "https://loremflickr.com/640/480/i",
-      "voice": "",
-      "transcription": "jɑ",
-      "id": 141
-    },
-    {
-      "categoryId": 15,
-      "title": "Ти",
-      "picture": "https://loremflickr.com/640/480/you",
-      "voice": "",
-      "transcription": "tɪ",
-      "id": 142
-    },
-    {
-      "categoryId": 15,
-      "title": "Він",
-      "picture": "https://loremflickr.com/640/480/he",
-      "voice": "",
-      "transcription": "vin",
-      "id": 143
-    },
-    {
-      "categoryId": 15,
-      "title": "Вона",
-      "picture": "https://loremflickr.com/640/480/she",
-      "voice": "",
-      "transcription": "vɔnɑ",
-      "id": 144
-    },
-    {
-      "categoryId": 15,
-      "title": "Це",
-      "picture": "https://loremflickr.com/640/480/it",
-      "voice": "",
-      "transcription": "t͡sɛ",
-      "id": 145
-    },
-    {
-      "categoryId": 15,
-      "title": "Ми",
-      "picture": "https://loremflickr.com/640/480/we",
-      "voice": "",
-      "transcription": "mɪ",
-      "id": 146
-    },
-    {
-      "categoryId": 15,
-      "title": "Вони",
-      "picture": "https://loremflickr.com/640/480/they",
-      "voice": "",
-      "transcription": "vɔnɪ",
-      "id": 147
-    },
-    {
-      "categoryId": 15,
-      "title": "Я",
-      "picture": "https://loremflickr.com/640/480/me",
-      "voice": "",
-      "transcription": "jɑ",
-      "id": 148
-    },
-    {
-      "categoryId": 15,
-      "title": "Його",
-      "picture": "https://loremflickr.com/640/480/him",
-      "voice": "",
-      "transcription": "jɔɦɔ",
-      "id": 149
-    },
-    {
-      "categoryId": 15,
-      "title": "Її",
-      "picture": "https://loremflickr.com/640/480/her",
-      "voice": "",
-      "transcription": "jiji",
-      "id": 150
-    },
-    {
-      "categoryId": 16,
-      "title": "Що?",
-      "picture": "https://loremflickr.com/640/480/what",
-      "voice": "",
-      "transcription": "ʂʈ͡ʂɔ",
-      "id": 151
-    },
-    {
-      "categoryId": 16,
-      "title": "Хто?",
-      "picture": "https://loremflickr.com/640/480/who",
-      "voice": "",
-      "transcription": "khto",
-      "id": 152
-    },
-    {
-      "categoryId": 16,
-      "title": "Де?",
-      "picture": "https://loremflickr.com/640/480/where",
-      "voice": "",
-      "transcription": "dɛ",
-      "id": 153
-    },
-    {
-      "categoryId": 16,
-      "title": "Коли?",
-      "picture": "https://loremflickr.com/640/480/when",
-      "voice": "",
-      "transcription": "kɔlɪ",
-      "id": 154
-    },
-    {
-      "categoryId": 16,
-      "title": "Чому?",
-      "picture": "https://loremflickr.com/640/480/why",
-      "voice": "",
-      "transcription": "ʈ͡ʂɔmu",
-      "id": 155
-    },
-    {
-      "categoryId": 16,
-      "title": "Як?",
-      "picture": "https://loremflickr.com/640/480/how",
-      "voice": "",
-      "transcription": "jɑk",
-      "id": 156
-    },
-    {
-      "categoryId": 16,
-      "title": "Який?",
-      "picture": "https://loremflickr.com/640/480/which",
-      "voice": "",
-      "transcription": "jɑkɪj",
-      "id": 157
-    },
-    {
-      "categoryId": 16,
-      "title": "Чий?",
-      "picture": "https://loremflickr.com/640/480/whose",
-      "voice": "",
-      "transcription": "ʈ͡ʂɪi",
-      "id": 158
-    },
-    {
-      "categoryId": 16,
-      "title": "Скільки?",
-      "picture": "https://loremflickr.com/640/480/howmuch",
-      "voice": "",
-      "transcription": "skilʲkɪ",
-      "id": 159
-    },
-    {
-      "categoryId": 16,
-      "title": "Скільки?",
-      "picture": "https://loremflickr.com/640/480/howmany",
-      "voice": "",
-      "transcription": "skilʲkɪ",
-      "id": 160
-    }
-  ]
+ "version": 1,
+ "lang": "ua",
+ "list": [
+  {
+   "id": 1,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/1.png",
+   "voice": NaN,
+   "title": "Батько",
+   "transcription": "[bɑtʲkɔ]"
+  },
+  {
+   "id": 2,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/2.png",
+   "voice": NaN,
+   "title": "Мати",
+   "transcription": "[mɑtɪ]"
+  },
+  {
+   "id": 3,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/3.png",
+   "voice": NaN,
+   "title": "Брат",
+   "transcription": "[brɑt]"
+  },
+  {
+   "id": 4,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/4.png",
+   "voice": NaN,
+   "title": "Сестра",
+   "transcription": "[sɛstrɑ]"
+  },
+  {
+   "id": 5,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/5.png",
+   "voice": NaN,
+   "title": "Дитина",
+   "transcription": "[dɪtɪnɑ]"
+  },
+  {
+   "id": 6,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/6.png",
+   "voice": NaN,
+   "title": "Бабуся",
+   "transcription": "[bɑbusʲɑ]"
+  },
+  {
+   "id": 7,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/7.png",
+   "voice": NaN,
+   "title": "Дідусь",
+   "transcription": "[dʲidusʲ]"
+  },
+  {
+   "id": 8,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/8.png",
+   "voice": NaN,
+   "title": "Дядько",
+   "transcription": "[dʲɑdʲkɔ]"
+  },
+  {
+   "id": 9,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/9.png",
+   "voice": NaN,
+   "title": "Тітка",
+   "transcription": "[tʲitkɑ]"
+  },
+  {
+   "id": 10,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/10.png",
+   "voice": NaN,
+   "title": "Двоюрідна Сестра",
+   "transcription": "[dvɔurʲidnɑ sɛstrɑ]"
+  },
+  {
+   "id": 11,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/11.png",
+   "voice": NaN,
+   "title": "Тарілка",
+   "transcription": "[tɑrʲilkɑ]"
+  },
+  {
+   "id": 12,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/12.png",
+   "voice": NaN,
+   "title": "Кубок",
+   "transcription": "[kubɔk]"
+  },
+  {
+   "id": 13,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/13.png",
+   "voice": NaN,
+   "title": "Виделка",
+   "transcription": "[vɪdɛlkɑ]"
+  },
+  {
+   "id": 14,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/14.png",
+   "voice": NaN,
+   "title": "Ніж",
+   "transcription": "[nʲiʐ]"
+  },
+  {
+   "id": 15,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/15.png",
+   "voice": NaN,
+   "title": "Ложка",
+   "transcription": "[lɔʐkɑ]"
+  },
+  {
+   "id": 16,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/16.png",
+   "voice": NaN,
+   "title": "Пан",
+   "transcription": "[pɑn]"
+  },
+  {
+   "id": 17,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/17.png",
+   "voice": NaN,
+   "title": "Піч",
+   "transcription": "[piʈ͡ʂ]"
+  },
+  {
+   "id": 18,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/18.png",
+   "voice": NaN,
+   "title": "Холодильник",
+   "transcription": "[xɔlɔdɪlʲnɪk]"
+  },
+  {
+   "id": 19,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/19.png",
+   "voice": NaN,
+   "title": "Мікрохвильовка",
+   "transcription": "[mikrɔxvɪlʲɔvkɑ]"
+  },
+  {
+   "id": 20,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/20.png",
+   "voice": NaN,
+   "title": "Раковина",
+   "transcription": "[rɑkɔvɪnɑ]"
+  },
+  {
+   "id": 21,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/21.png",
+   "voice": NaN,
+   "title": "Аеропорт",
+   "transcription": "[ɑɛrɔpɔrt]"
+  },
+  {
+   "id": 22,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/22.png",
+   "voice": NaN,
+   "title": "Паспорт",
+   "transcription": "[pɑspɔrt]"
+  },
+  {
+   "id": 23,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/23.png",
+   "voice": NaN,
+   "title": "Багаж",
+   "transcription": "[bɑɦɑʐ]"
+  },
+  {
+   "id": 24,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/24.png",
+   "voice": NaN,
+   "title": "Квиток",
+   "transcription": "[kvɪtɔk]"
+  },
+  {
+   "id": 25,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/25.png",
+   "voice": NaN,
+   "title": "Політ",
+   "transcription": "[pɔlʲit]"
+  },
+  {
+   "id": 26,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/26.png",
+   "voice": NaN,
+   "title": "Готель",
+   "transcription": "[ɦɔtɛlʲ]"
+  },
+  {
+   "id": 27,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/27.png",
+   "voice": NaN,
+   "title": "Таксі",
+   "transcription": "[tɑksʲi]"
+  },
+  {
+   "id": 28,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/28.png",
+   "voice": NaN,
+   "title": "Поїзд",
+   "transcription": "[pɔjizd]"
+  },
+  {
+   "id": 29,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/29.png",
+   "voice": NaN,
+   "title": "Автобус",
+   "transcription": "[ɑvtɔbus]"
+  },
+  {
+   "id": 30,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/30.png",
+   "voice": NaN,
+   "title": "Карта",
+   "transcription": "[kɑrtɑ]"
+  },
+  {
+   "id": 31,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/31.png",
+   "voice": NaN,
+   "title": "Собака",
+   "transcription": "[sɔbɑkɑ]"
+  },
+  {
+   "id": 32,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/32.png",
+   "voice": NaN,
+   "title": "Кішка",
+   "transcription": "[kiʂkɑ]"
+  },
+  {
+   "id": 33,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/33.png",
+   "voice": NaN,
+   "title": "Слон",
+   "transcription": "[slɔn]"
+  },
+  {
+   "id": 34,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/34.png",
+   "voice": NaN,
+   "title": "Тигр",
+   "transcription": "[tɪɦr]"
+  },
+  {
+   "id": 35,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/35.png",
+   "voice": NaN,
+   "title": "Лев",
+   "transcription": "[lɛv]"
+  },
+  {
+   "id": 36,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/36.png",
+   "voice": NaN,
+   "title": "Птах",
+   "transcription": "[ptɑx]"
+  },
+  {
+   "id": 37,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/37.png",
+   "voice": NaN,
+   "title": "Риба",
+   "transcription": "[rɪbɑ]"
+  },
+  {
+   "id": 38,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/38.png",
+   "voice": NaN,
+   "title": "Кінь",
+   "transcription": "[kinʲ]"
+  },
+  {
+   "id": 39,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/39.png",
+   "voice": NaN,
+   "title": "Корова",
+   "transcription": "[kɔrɔvɑ]"
+  },
+  {
+   "id": 40,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/40.png",
+   "voice": NaN,
+   "title": "Мавпа",
+   "transcription": "[mɑvpɑ]"
+  },
+  {
+   "id": 41,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/41.png",
+   "voice": NaN,
+   "title": "Червоний",
+   "transcription": "[ʈ͡ʂɛrvɔnɪj]"
+  },
+  {
+   "id": 42,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/42.png",
+   "voice": NaN,
+   "title": "Синій",
+   "transcription": "[sɪnʲij]"
+  },
+  {
+   "id": 43,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/43.png",
+   "voice": NaN,
+   "title": "Зелений",
+   "transcription": "[zɛlɛnɪj]"
+  },
+  {
+   "id": 44,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/44.png",
+   "voice": NaN,
+   "title": "Жовтий",
+   "transcription": "[ʐɔvtɪj]"
+  },
+  {
+   "id": 45,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/45.png",
+   "voice": NaN,
+   "title": "Чорний",
+   "transcription": "[ʈ͡ʂɔrnɪj]"
+  },
+  {
+   "id": 46,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/46.png",
+   "voice": NaN,
+   "title": "Білий",
+   "transcription": "[bilɪj]"
+  },
+  {
+   "id": 47,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/47.png",
+   "voice": NaN,
+   "title": "Фіолетовий",
+   "transcription": "[fiɔlɛtɔvɪj]"
+  },
+  {
+   "id": 48,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/48.png",
+   "voice": NaN,
+   "title": "Помаранчевий",
+   "transcription": "[pɔmɑrɑnʈ͡ʂɛvɪj]"
+  },
+  {
+   "id": 49,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/49.png",
+   "voice": NaN,
+   "title": "Рожевий",
+   "transcription": "[rɔʐɛvɪj]"
+  },
+  {
+   "id": 50,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/50.png",
+   "voice": NaN,
+   "title": "Коричневий",
+   "transcription": "[kɔrɪʈ͡ʂnɛvɪj]"
+  },
+  {
+   "id": 51,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/51.png",
+   "voice": NaN,
+   "title": "Яблуко",
+   "transcription": "[jɑblukɔ]"
+  },
+  {
+   "id": 52,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/52.png",
+   "voice": NaN,
+   "title": "Банан",
+   "transcription": "[bɑnɑn]"
+  },
+  {
+   "id": 53,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/53.png",
+   "voice": NaN,
+   "title": "Хліб",
+   "transcription": "[xlʲib]"
+  },
+  {
+   "id": 54,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/54.png",
+   "voice": NaN,
+   "title": "Сир",
+   "transcription": "[sɪr]"
+  },
+  {
+   "id": 55,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/55.png",
+   "voice": NaN,
+   "title": "Яйце",
+   "transcription": "[jɑjt͡sɛ]"
+  },
+  {
+   "id": 56,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/56.png",
+   "voice": NaN,
+   "title": "Риба",
+   "transcription": "[rɪbɑ]"
+  },
+  {
+   "id": 57,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/57.png",
+   "voice": NaN,
+   "title": "М'Ясо",
+   "transcription": "[m'ɑsɔ]"
+  },
+  {
+   "id": 58,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/58.png",
+   "voice": NaN,
+   "title": "Рис",
+   "transcription": "[rɪs]"
+  },
+  {
+   "id": 59,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/59.png",
+   "voice": NaN,
+   "title": "Суп",
+   "transcription": "[sup]"
+  },
+  {
+   "id": 60,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/60.png",
+   "voice": NaN,
+   "title": "Овочі",
+   "transcription": "[ɔvɔʈ͡ʂi]"
+  },
+  {
+   "id": 61,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/61.png",
+   "voice": NaN,
+   "title": "Сорочка",
+   "transcription": "[sɔrɔʈ͡ʂkɑ]"
+  },
+  {
+   "id": 62,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/62.png",
+   "voice": NaN,
+   "title": "Штани",
+   "transcription": "[ʂtɑnɪ]"
+  },
+  {
+   "id": 63,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/63.png",
+   "voice": NaN,
+   "title": "Піджак",
+   "transcription": "[pidʐɑk]"
+  },
+  {
+   "id": 64,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/64.png",
+   "voice": NaN,
+   "title": "Плаття",
+   "transcription": "[plɑttʲɑ]"
+  },
+  {
+   "id": 65,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/65.png",
+   "voice": NaN,
+   "title": "Взуття",
+   "transcription": "[vzuttʲɑ]"
+  },
+  {
+   "id": 66,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/66.png",
+   "voice": NaN,
+   "title": "Капелюх",
+   "transcription": "[kɑpɛlʲux]"
+  },
+  {
+   "id": 67,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/67.png",
+   "voice": NaN,
+   "title": "Шарф",
+   "transcription": "[ʂɑrf]"
+  },
+  {
+   "id": 68,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/68.png",
+   "voice": NaN,
+   "title": "Рукавички",
+   "transcription": "[rukɑvɪʈ͡ʂkɪ]"
+  },
+  {
+   "id": 69,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/69.png",
+   "voice": NaN,
+   "title": "Шкарпетки",
+   "transcription": "[ʂkɑrpɛtkɪ]"
+  },
+  {
+   "id": 70,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/70.png",
+   "voice": NaN,
+   "title": "Спідниця",
+   "transcription": "[spidnɪt͡sʲɑ]"
+  },
+  {
+   "id": 71,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/71.png",
+   "voice": NaN,
+   "title": "Книга",
+   "transcription": "[knɪɦɑ]"
+  },
+  {
+   "id": 72,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/72.png",
+   "voice": NaN,
+   "title": "Олівець",
+   "transcription": "[ɔlʲivɛt͡sʲ]"
+  },
+  {
+   "id": 73,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/73.png",
+   "voice": NaN,
+   "title": "Перо",
+   "transcription": "[pɛrɔ]"
+  },
+  {
+   "id": 74,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/74.png",
+   "voice": NaN,
+   "title": "Гумка",
+   "transcription": "[ɦumkɑ]"
+  },
+  {
+   "id": 75,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/75.png",
+   "voice": NaN,
+   "title": "Ноутбук",
+   "transcription": "[nɔutbuk]"
+  },
+  {
+   "id": 76,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/76.png",
+   "voice": NaN,
+   "title": "Письмовий Стіл",
+   "transcription": "[pɪsʲmɔvɪj stʲil]"
+  },
+  {
+   "id": 77,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/77.png",
+   "voice": NaN,
+   "title": "Стілець",
+   "transcription": "[stʲilɛt͡sʲ]"
+  },
+  {
+   "id": 78,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/78.png",
+   "voice": NaN,
+   "title": "Вчитель",
+   "transcription": "[vʈ͡ʂɪtɛlʲ]"
+  },
+  {
+   "id": 79,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/79.png",
+   "voice": NaN,
+   "title": "Студент",
+   "transcription": "[studɛnt]"
+  },
+  {
+   "id": 80,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/80.png",
+   "voice": NaN,
+   "title": "Лінійка",
+   "transcription": "[lʲinʲijkɑ]"
+  },
+  {
+   "id": 81,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/81.png",
+   "voice": NaN,
+   "title": "Футбол",
+   "transcription": "[futbɔl]"
+  },
+  {
+   "id": 82,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/82.png",
+   "voice": NaN,
+   "title": "Баскетбол",
+   "transcription": "[bɑskɛtbɔl]"
+  },
+  {
+   "id": 83,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/83.png",
+   "voice": NaN,
+   "title": "Теніс",
+   "transcription": "[tɛnʲis]"
+  },
+  {
+   "id": 84,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/84.png",
+   "voice": NaN,
+   "title": "Бейсбол",
+   "transcription": "[bɛjsbɔl]"
+  },
+  {
+   "id": 85,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/85.png",
+   "voice": NaN,
+   "title": "Плавання",
+   "transcription": "[plɑvɑnnʲɑ]"
+  },
+  {
+   "id": 86,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/86.png",
+   "voice": NaN,
+   "title": "Біг",
+   "transcription": "[biɦ]"
+  },
+  {
+   "id": 87,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/87.png",
+   "voice": NaN,
+   "title": "Велоспорт",
+   "transcription": "[vɛlɔspɔrt]"
+  },
+  {
+   "id": 88,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/88.png",
+   "voice": NaN,
+   "title": "Гольф",
+   "transcription": "[ɦɔlʲf]"
+  },
+  {
+   "id": 89,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/89.png",
+   "voice": NaN,
+   "title": "Бокс",
+   "transcription": "[bɔks]"
+  },
+  {
+   "id": 90,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/90.png",
+   "voice": NaN,
+   "title": "Волейбол",
+   "transcription": "[vɔlɛjbɔl]"
+  },
+  {
+   "id": 91,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/91.png",
+   "voice": NaN,
+   "title": "Комп'Ютер",
+   "transcription": "[kɔmp'utɛr]"
+  },
+  {
+   "id": 92,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/92.png",
+   "voice": NaN,
+   "title": "Телефон",
+   "transcription": "[tɛlɛfɔn]"
+  },
+  {
+   "id": 93,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/93.png",
+   "voice": NaN,
+   "title": "Планшет",
+   "transcription": "[plɑnʂɛt]"
+  },
+  {
+   "id": 94,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/94.png",
+   "voice": NaN,
+   "title": "Ноутбук",
+   "transcription": "[nɔutbuk]"
+  },
+  {
+   "id": 95,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/95.png",
+   "voice": NaN,
+   "title": "Клавіатура",
+   "transcription": "[klɑviɑturɑ]"
+  },
+  {
+   "id": 96,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/96.png",
+   "voice": NaN,
+   "title": "Миша",
+   "transcription": "[mɪʂɑ]"
+  },
+  {
+   "id": 97,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/97.png",
+   "voice": NaN,
+   "title": "Принтер",
+   "transcription": "[prɪntɛr]"
+  },
+  {
+   "id": 98,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/98.png",
+   "voice": NaN,
+   "title": "Монітор",
+   "transcription": "[mɔnʲitɔr]"
+  },
+  {
+   "id": 99,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/99.png",
+   "voice": NaN,
+   "title": "Навушники",
+   "transcription": "[nɑvuʂnɪkɪ]"
+  },
+  {
+   "id": 100,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/100.png",
+   "voice": NaN,
+   "title": "Камера",
+   "transcription": "[kɑmɛrɑ]"
+  },
+  {
+   "id": 101,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/101.png",
+   "voice": NaN,
+   "title": "Щастя",
+   "transcription": "[ʂʈ͡ʂɑstʲɑ]"
+  },
+  {
+   "id": 102,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/102.png",
+   "voice": NaN,
+   "title": "Печаль",
+   "transcription": "[pɛʈ͡ʂɑlʲ]"
+  },
+  {
+   "id": 103,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/103.png",
+   "voice": NaN,
+   "title": "Гнів",
+   "transcription": "[ɦnʲiv]"
+  },
+  {
+   "id": 104,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/104.png",
+   "voice": NaN,
+   "title": "Страх",
+   "transcription": "[strɑx]"
+  },
+  {
+   "id": 105,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/105.png",
+   "voice": NaN,
+   "title": "Кохання",
+   "transcription": "[kɔxɑnnʲɑ]"
+  },
+  {
+   "id": 106,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/106.png",
+   "voice": NaN,
+   "title": "Ревнощі",
+   "transcription": "[rɛvnɔʂʈ͡ʂi]"
+  },
+  {
+   "id": 107,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/107.png",
+   "voice": NaN,
+   "title": "Хвилювання",
+   "transcription": "[xvɪlʲuvɑnnʲɑ]"
+  },
+  {
+   "id": 108,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/108.png",
+   "voice": NaN,
+   "title": "Сюрприз",
+   "transcription": "[sʲurprɪz]"
+  },
+  {
+   "id": 109,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/109.png",
+   "voice": NaN,
+   "title": "Огида",
+   "transcription": "[ɔɦɪdɑ]"
+  },
+  {
+   "id": 110,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/110.png",
+   "voice": NaN,
+   "title": "Спантеличеність",
+   "transcription": "[spɑntɛlɪʈ͡ʂɛnʲistʲ]"
+  },
+  {
+   "id": 111,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/111.png",
+   "voice": NaN,
+   "title": "Ранок",
+   "transcription": "[rɑnɔk]"
+  },
+  {
+   "id": 112,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/112.png",
+   "voice": NaN,
+   "title": "Полудень",
+   "transcription": "[pɔludɛnʲ]"
+  },
+  {
+   "id": 113,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/113.png",
+   "voice": NaN,
+   "title": "Вечір",
+   "transcription": "[vɛʈ͡ʂir]"
+  },
+  {
+   "id": 114,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/114.png",
+   "voice": NaN,
+   "title": "Ніч",
+   "transcription": "[nʲiʈ͡ʂ]"
+  },
+  {
+   "id": 115,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/115.png",
+   "voice": NaN,
+   "title": "День",
+   "transcription": "[dɛnʲ]"
+  },
+  {
+   "id": 116,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/116.png",
+   "voice": NaN,
+   "title": "Тиждень",
+   "transcription": "[tɪʐdɛnʲ]"
+  },
+  {
+   "id": 117,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/117.png",
+   "voice": NaN,
+   "title": "Місяць",
+   "transcription": "[misʲɑt͡sʲ]"
+  },
+  {
+   "id": 118,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/118.png",
+   "voice": NaN,
+   "title": "Рік",
+   "transcription": "[rʲik]"
+  },
+  {
+   "id": 119,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/119.png",
+   "voice": NaN,
+   "title": "Вчора",
+   "transcription": "[vʈ͡ʂɔrɑ]"
+  },
+  {
+   "id": 120,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/120.png",
+   "voice": NaN,
+   "title": "Завтра",
+   "transcription": "[zɑvtrɑ]"
+  },
+  {
+   "id": 121,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/121.png",
+   "voice": NaN,
+   "title": "Хоробрий",
+   "transcription": "[xɔrɔbrɪj]"
+  },
+  {
+   "id": 122,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/122.png",
+   "voice": NaN,
+   "title": "Добрий",
+   "transcription": "[dɔbrɪj]"
+  },
+  {
+   "id": 123,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/123.png",
+   "voice": NaN,
+   "title": "Розумний",
+   "transcription": "[rɔzumnɪj]"
+  },
+  {
+   "id": 124,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/124.png",
+   "voice": NaN,
+   "title": "Смішно",
+   "transcription": "[smiʂnɔ]"
+  },
+  {
+   "id": 125,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/125.png",
+   "voice": NaN,
+   "title": "Ледачий",
+   "transcription": "[lɛdɑʈ͡ʂɪj]"
+  },
+  {
+   "id": 126,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/126.png",
+   "voice": NaN,
+   "title": "Чесний",
+   "transcription": "[ʈ͡ʂɛsnɪj]"
+  },
+  {
+   "id": 127,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/127.png",
+   "voice": NaN,
+   "title": "Сором'Язливий",
+   "transcription": "[sɔrɔm'ɑzlɪvɪj]"
+  },
+  {
+   "id": 128,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/128.png",
+   "voice": NaN,
+   "title": "Серйозно",
+   "transcription": "[sɛrjɔznɔ]"
+  },
+  {
+   "id": 129,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/129.png",
+   "voice": NaN,
+   "title": "Щедрий",
+   "transcription": "[ʂʈ͡ʂɛdrɪj]"
+  },
+  {
+   "id": 130,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/130.png",
+   "voice": NaN,
+   "title": "Впевнений",
+   "transcription": "[vpɛvnɛnɪj]"
+  },
+  {
+   "id": 131,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/131.png",
+   "voice": NaN,
+   "title": "Великий",
+   "transcription": "[vɛlɪkɪj]"
+  },
+  {
+   "id": 132,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/132.png",
+   "voice": NaN,
+   "title": "Маленький",
+   "transcription": "[mɑlɛnʲkɪj]"
+  },
+  {
+   "id": 133,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/133.png",
+   "voice": NaN,
+   "title": "Швидко",
+   "transcription": "[ʂvɪdkɔ]"
+  },
+  {
+   "id": 134,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/134.png",
+   "voice": NaN,
+   "title": "Повільно",
+   "transcription": "[pɔvilʲnɔ]"
+  },
+  {
+   "id": 135,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/135.png",
+   "voice": NaN,
+   "title": "Гаряче",
+   "transcription": "[ɦɑrʲɑʈ͡ʂɛ]"
+  },
+  {
+   "id": 136,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/136.png",
+   "voice": NaN,
+   "title": "Холодний",
+   "transcription": "[xɔlɔdnɪj]"
+  },
+  {
+   "id": 137,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/137.png",
+   "voice": NaN,
+   "title": "Добре",
+   "transcription": "[dɔbrɛ]"
+  },
+  {
+   "id": 138,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/138.png",
+   "voice": NaN,
+   "title": "Погано",
+   "transcription": "[pɔɦɑnɔ]"
+  },
+  {
+   "id": 139,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/139.png",
+   "voice": NaN,
+   "title": "Сильний",
+   "transcription": "[sɪlʲnɪj]"
+  },
+  {
+   "id": 140,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/140.png",
+   "voice": NaN,
+   "title": "Слабкий",
+   "transcription": "[slɑbkɪj]"
+  },
+  {
+   "id": 141,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/141.png",
+   "voice": NaN,
+   "title": "Я",
+   "transcription": "[jɑ]"
+  },
+  {
+   "id": 142,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/142.png",
+   "voice": NaN,
+   "title": "Ви",
+   "transcription": "[vɪ]"
+  },
+  {
+   "id": 143,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/143.png",
+   "voice": NaN,
+   "title": "Він",
+   "transcription": "[vin]"
+  },
+  {
+   "id": 144,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/144.png",
+   "voice": NaN,
+   "title": "Вона",
+   "transcription": "[vɔnɑ]"
+  },
+  {
+   "id": 145,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/145.png",
+   "voice": NaN,
+   "title": "Це",
+   "transcription": "[t͡sɛ]"
+  },
+  {
+   "id": 146,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/146.png",
+   "voice": NaN,
+   "title": "Ми",
+   "transcription": "[mɪ]"
+  },
+  {
+   "id": 147,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/147.png",
+   "voice": NaN,
+   "title": "Вони",
+   "transcription": "[vɔnɪ]"
+  },
+  {
+   "id": 148,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/148.png",
+   "voice": NaN,
+   "title": "Я",
+   "transcription": "[jɑ]"
+  },
+  {
+   "id": 149,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/149.png",
+   "voice": NaN,
+   "title": "Його",
+   "transcription": "[jɔɦɔ]"
+  },
+  {
+   "id": 150,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/150.png",
+   "voice": NaN,
+   "title": "Її",
+   "transcription": "[jiji]"
+  },
+  {
+   "id": 151,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/151.png",
+   "voice": NaN,
+   "title": "Що?",
+   "transcription": "[ʂʈ͡ʂɔ?]"
+  },
+  {
+   "id": 152,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/152.png",
+   "voice": NaN,
+   "title": "Хто?",
+   "transcription": "[xtɔ?]"
+  },
+  {
+   "id": 153,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/153.png",
+   "voice": NaN,
+   "title": "Де?",
+   "transcription": "[dɛ?]"
+  },
+  {
+   "id": 154,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/154.png",
+   "voice": NaN,
+   "title": "Коли?",
+   "transcription": "[kɔlɪ?]"
+  },
+  {
+   "id": 155,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/155.png",
+   "voice": NaN,
+   "title": "Чому?",
+   "transcription": "[ʈ͡ʂɔmu?]"
+  },
+  {
+   "id": 156,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/156.png",
+   "voice": NaN,
+   "title": "Як?",
+   "transcription": "[jɑk?]"
+  },
+  {
+   "id": 157,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/157.png",
+   "voice": NaN,
+   "title": "Які?",
+   "transcription": "[jɑki?]"
+  },
+  {
+   "id": 158,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/158.png",
+   "voice": NaN,
+   "title": "Чий?",
+   "transcription": "[ʈ͡ʂɪj?]"
+  },
+  {
+   "id": 159,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/159.png",
+   "voice": NaN,
+   "title": "Скільки?",
+   "transcription": "[skilʲkɪ?]"
+  },
+  {
+   "id": 160,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/160.png",
+   "voice": NaN,
+   "title": "Скільки?",
+   "transcription": "[skilʲkɪ?]"
+  }
+ ]
 }
