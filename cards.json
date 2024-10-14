@@ -1,1286 +1,1286 @@
 {
-  "version": 1,
-  "lang": "en",
-  "list": [
-    {
-      "categoryId": 1,
-      "title": "Father",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/1.png",
-      "voice": "",
-      "transcription": "[\u02c8f\u0251\u02d0\u00f0\u0259r]",
-      "id": 1
-    },
-    {
-      "categoryId": 1,
-      "title": "Mother",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/2.png",
-      "voice": "",
-      "transcription": "[\u02c8m\u028c\u00f0\u0259r]",
-      "id": 2
-    },
-    {
-      "categoryId": 1,
-      "title": "Brother",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/3.png",
-      "voice": "",
-      "transcription": "[\u02c8br\u028c\u00f0\u0259r]",
-      "id": 3
-    },
-    {
-      "categoryId": 1,
-      "title": "Sister",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/4.png",
-      "voice": "",
-      "transcription": "[\u02c8s\u026ast\u0259r]",
-      "id": 4
-    },
-    {
-      "categoryId": 1,
-      "title": "Child",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/5.png",
-      "voice": "",
-      "transcription": "[t\u0283a\u026ald]",
-      "id": 5
-    },
-    {
-      "categoryId": 1,
-      "title": "Grandmother",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/6.png",
-      "voice": "",
-      "transcription": "[\u02c8\u0261r\u00e6nm\u028c\u00f0\u0259r]",
-      "id": 6
-    },
-    {
-      "categoryId": 1,
-      "title": "Grandfather",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/7.png",
-      "voice": "",
-      "transcription": "[\u02c8\u0261r\u00e6nf\u0251\u02d0\u00f0\u0259r]",
-      "id": 7
-    },
-    {
-      "categoryId": 1,
-      "title": "Uncle",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/8.png",
-      "voice": "",
-      "transcription": "[\u02c8\u028c\u014bkl]",
-      "id": 8
-    },
-    {
-      "categoryId": 1,
-      "title": "Aunt",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/9.png",
-      "voice": "",
-      "transcription": "[\u00e6nt]",
-      "id": 9
-    },
-    {
-      "categoryId": 1,
-      "title": "Cousin",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/10.png",
-      "voice": "",
-      "transcription": "[\u02c8k\u028cz\u026an]",
-      "id": 10
-    },
-    {
-      "categoryId": 2,
-      "title": "Plate",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/11.png",
-      "voice": "",
-      "transcription": "[ple\u026at]",
-      "id": 11
-    },
-    {
-      "categoryId": 2,
-      "title": "Cup",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/12.png",
-      "voice": "",
-      "transcription": "[k\u028cp]",
-      "id": 12
-    },
-    {
-      "categoryId": 2,
-      "title": "Fork",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/13.png",
-      "voice": "",
-      "transcription": "[f\u0254\u02d0rk]",
-      "id": 13
-    },
-    {
-      "categoryId": 2,
-      "title": "Knife",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/14.png",
-      "voice": "",
-      "transcription": "[na\u026af]",
-      "id": 14
-    },
-    {
-      "categoryId": 2,
-      "title": "Spoon",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/15.png",
-      "voice": "",
-      "transcription": "[spu\u02d0n]",
-      "id": 15
-    },
-    {
-      "categoryId": 2,
-      "title": "Pan",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/16.png",
-      "voice": "",
-      "transcription": "[p\u00e6n]",
-      "id": 16
-    },
-    {
-      "categoryId": 2,
-      "title": "Stove",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/17.png",
-      "voice": "",
-      "transcription": "[sto\u028av]",
-      "id": 17
-    },
-    {
-      "categoryId": 2,
-      "title": "Refrigerator",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/18.png",
-      "voice": "",
-      "transcription": "[r\u026a\u02c8fr\u026ad\u0292\u0259re\u026at\u0259r]",
-      "id": 18
-    },
-    {
-      "categoryId": 2,
-      "title": "Microwave",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/19.png",
-      "voice": "",
-      "transcription": "[\u02c8ma\u026akr\u0259\u02ccwe\u026av]",
-      "id": 19
-    },
-    {
-      "categoryId": 2,
-      "title": "Sink",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/20.png",
-      "voice": "",
-      "transcription": "[s\u026a\u014bk]",
-      "id": 20
-    },
-    {
-      "categoryId": 3,
-      "title": "Airport",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/21.png",
-      "voice": "",
-      "transcription": "[\u02c8\u025b\u0259rp\u0254\u02d0rt]",
-      "id": 21
-    },
-    {
-      "categoryId": 3,
-      "title": "Passport",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/22.png",
-      "voice": "",
-      "transcription": "[\u02c8p\u00e6sp\u0254\u02d0rt]",
-      "id": 22
-    },
-    {
-      "categoryId": 3,
-      "title": "Luggage",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/23.png",
-      "voice": "",
-      "transcription": "[\u02c8l\u028c\u0261\u026ad\u0292]",
-      "id": 23
-    },
-    {
-      "categoryId": 3,
-      "title": "Ticket",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/24.png",
-      "voice": "",
-      "transcription": "[\u02c8t\u026ak\u026at]",
-      "id": 24
-    },
-    {
-      "categoryId": 3,
-      "title": "Flight",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/25.png",
-      "voice": "",
-      "transcription": "[fla\u026at]",
-      "id": 25
-    },
-    {
-      "categoryId": 3,
-      "title": "Hotel",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/26.png",
-      "voice": "",
-      "transcription": "[ho\u028a\u02c8t\u025bl]",
-      "id": 26
-    },
-    {
-      "categoryId": 3,
-      "title": "Taxi",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/27.png",
-      "voice": "",
-      "transcription": "[\u02c8t\u00e6ksi]",
-      "id": 27
-    },
-    {
-      "categoryId": 3,
-      "title": "Train",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/28.png",
-      "voice": "",
-      "transcription": "[tre\u026an]",
-      "id": 28
-    },
-    {
-      "categoryId": 3,
-      "title": "Bus",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/29.png",
-      "voice": "",
-      "transcription": "[b\u028cs]",
-      "id": 29
-    },
-    {
-      "categoryId": 3,
-      "title": "Map",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/30.png",
-      "voice": "",
-      "transcription": "[m\u00e6p]",
-      "id": 30
-    },
-    {
-      "categoryId": 4,
-      "title": "Dog",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/31.png",
-      "voice": "",
-      "transcription": "[d\u0254\u02d0\u0261]",
-      "id": 31
-    },
-    {
-      "categoryId": 4,
-      "title": "Cat",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/32.png",
-      "voice": "",
-      "transcription": "[k\u00e6t]",
-      "id": 32
-    },
-    {
-      "categoryId": 4,
-      "title": "Elephant",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/33.png",
-      "voice": "",
-      "transcription": "[\u02c8\u025bl\u026af\u0259nt]",
-      "id": 33
-    },
-    {
-      "categoryId": 4,
-      "title": "Tiger",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/34.png",
-      "voice": "",
-      "transcription": "[\u02c8ta\u026a\u0261\u0259r]",
-      "id": 34
-    },
-    {
-      "categoryId": 4,
-      "title": "Lion",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/35.png",
-      "voice": "",
-      "transcription": "[\u02c8la\u026a\u0259n]",
-      "id": 35
-    },
-    {
-      "categoryId": 4,
-      "title": "Bird",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/36.png",
-      "voice": "",
-      "transcription": "[b\u025c\u02d0rd]",
-      "id": 36
-    },
-    {
-      "categoryId": 4,
-      "title": "Fish",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/37.png",
-      "voice": "",
-      "transcription": "[f\u026a\u0283]",
-      "id": 37
-    },
-    {
-      "categoryId": 4,
-      "title": "Horse",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/38.png",
-      "voice": "",
-      "transcription": "[h\u0254\u02d0rs]",
-      "id": 38
-    },
-    {
-      "categoryId": 4,
-      "title": "Cow",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/39.png",
-      "voice": "",
-      "transcription": "[ka\u028a]",
-      "id": 39
-    },
-    {
-      "categoryId": 4,
-      "title": "Monkey",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/40.png",
-      "voice": "",
-      "transcription": "[\u02c8m\u028c\u014bki]",
-      "id": 40
-    },
-    {
-      "categoryId": 5,
-      "title": "Red",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/41.png",
-      "voice": "",
-      "transcription": "[r\u025bd]",
-      "id": 41
-    },
-    {
-      "categoryId": 5,
-      "title": "Blue",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/42.png",
-      "voice": "",
-      "transcription": "[blu\u02d0]",
-      "id": 42
-    },
-    {
-      "categoryId": 5,
-      "title": "Green",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/43.png",
-      "voice": "",
-      "transcription": "[\u0261ri\u02d0n]",
-      "id": 43
-    },
-    {
-      "categoryId": 5,
-      "title": "Yellow",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/44.png",
-      "voice": "",
-      "transcription": "[\u02c8j\u025blo\u028a]",
-      "id": 44
-    },
-    {
-      "categoryId": 5,
-      "title": "Black",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/45.png",
-      "voice": "",
-      "transcription": "[bl\u00e6k]",
-      "id": 45
-    },
-    {
-      "categoryId": 5,
-      "title": "White",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/46.png",
-      "voice": "",
-      "transcription": "[wa\u026at]",
-      "id": 46
-    },
-    {
-      "categoryId": 5,
-      "title": "Purple",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/47.png",
-      "voice": "",
-      "transcription": "[\u02c8p\u025c\u02d0rp\u0259l]",
-      "id": 47
-    },
-    {
-      "categoryId": 5,
-      "title": "Orange",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/48.png",
-      "voice": "",
-      "transcription": "[\u02c8\u0254\u02d0r\u026and\u0292]",
-      "id": 48
-    },
-    {
-      "categoryId": 5,
-      "title": "Pink",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/49.png",
-      "voice": "",
-      "transcription": "[p\u026a\u014bk]",
-      "id": 49
-    },
-    {
-      "categoryId": 5,
-      "title": "Brown",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/50.png",
-      "voice": "",
-      "transcription": "[bra\u028an]",
-      "id": 50
-    },
-    {
-      "categoryId": 6,
-      "title": "Apple",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/51.png",
-      "voice": "",
-      "transcription": "[\u02c8\u00e6p\u0259l]",
-      "id": 51
-    },
-    {
-      "categoryId": 6,
-      "title": "Banana",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/52.png",
-      "voice": "",
-      "transcription": "[b\u0259\u02c8n\u00e6n\u0259]",
-      "id": 52
-    },
-    {
-      "categoryId": 6,
-      "title": "Bread",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/53.png",
-      "voice": "",
-      "transcription": "[br\u025bd]",
-      "id": 53
-    },
-    {
-      "categoryId": 6,
-      "title": "Cheese",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/54.png",
-      "voice": "",
-      "transcription": "[t\u0283i\u02d0z]",
-      "id": 54
-    },
-    {
-      "categoryId": 6,
-      "title": "Egg",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/55.png",
-      "voice": "",
-      "transcription": "[\u025b\u0261]",
-      "id": 55
-    },
-    {
-      "categoryId": 6,
-      "title": "Fish",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/56.png",
-      "voice": "",
-      "transcription": "[f\u026a\u0283]",
-      "id": 56
-    },
-    {
-      "categoryId": 6,
-      "title": "Meat",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/57.png",
-      "voice": "",
-      "transcription": "[mi\u02d0t]",
-      "id": 57
-    },
-    {
-      "categoryId": 6,
-      "title": "Rice",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/58.png",
-      "voice": "",
-      "transcription": "[ra\u026as]",
-      "id": 58
-    },
-    {
-      "categoryId": 6,
-      "title": "Soup",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/59.png",
-      "voice": "",
-      "transcription": "[su\u02d0p]",
-      "id": 59
-    },
-    {
-      "categoryId": 6,
-      "title": "Vegetables",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/60.png",
-      "voice": "",
-      "transcription": "[\u02c8v\u025bd\u0292t\u0259blz]",
-      "id": 60
-    },
-    {
-      "categoryId": 7,
-      "title": "Shirt",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/61.png",
-      "voice": "",
-      "transcription": "[\u0283\u025c\u02d0rt]",
-      "id": 61
-    },
-    {
-      "categoryId": 7,
-      "title": "Pants",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/62.png",
-      "voice": "",
-      "transcription": "[p\u00e6nts]",
-      "id": 62
-    },
-    {
-      "categoryId": 7,
-      "title": "Jacket",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/63.png",
-      "voice": "",
-      "transcription": "[\u02c8d\u0292\u00e6k\u026at]",
-      "id": 63
-    },
-    {
-      "categoryId": 7,
-      "title": "Dress",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/64.png",
-      "voice": "",
-      "transcription": "[dr\u025bs]",
-      "id": 64
-    },
-    {
-      "categoryId": 7,
-      "title": "Shoes",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/65.png",
-      "voice": "",
-      "transcription": "[\u0283u\u02d0z]",
-      "id": 65
-    },
-    {
-      "categoryId": 7,
-      "title": "Hat",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/66.png",
-      "voice": "",
-      "transcription": "[h\u00e6t]",
-      "id": 66
-    },
-    {
-      "categoryId": 7,
-      "title": "Scarf",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/67.png",
-      "voice": "",
-      "transcription": "[sk\u0251\u02d0rf]",
-      "id": 67
-    },
-    {
-      "categoryId": 7,
-      "title": "Gloves",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/68.png",
-      "voice": "",
-      "transcription": "[\u0261l\u028cvz]",
-      "id": 68
-    },
-    {
-      "categoryId": 7,
-      "title": "Socks",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/69.png",
-      "voice": "",
-      "transcription": "[s\u0251\u02d0ks]",
-      "id": 69
-    },
-    {
-      "categoryId": 7,
-      "title": "Skirt",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/70.png",
-      "voice": "",
-      "transcription": "[sk\u025c\u02d0rt]",
-      "id": 70
-    },
-    {
-      "categoryId": 8,
-      "title": "Book",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/71.png",
-      "voice": "",
-      "transcription": "[b\u028ak]",
-      "id": 71
-    },
-    {
-      "categoryId": 8,
-      "title": "Pencil",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/72.png",
-      "voice": "",
-      "transcription": "[\u02c8p\u025bns\u0259l]",
-      "id": 72
-    },
-    {
-      "categoryId": 8,
-      "title": "Pen",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/73.png",
-      "voice": "",
-      "transcription": "[p\u025bn]",
-      "id": 73
-    },
-    {
-      "categoryId": 8,
-      "title": "Eraser",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/74.png",
-      "voice": "",
-      "transcription": "[\u026a\u02c8re\u026as\u0259r]",
-      "id": 74
-    },
-    {
-      "categoryId": 8,
-      "title": "Notebook",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/75.png",
-      "voice": "",
-      "transcription": "[\u02c8no\u028atb\u028ak]",
-      "id": 75
-    },
-    {
-      "categoryId": 8,
-      "title": "Desk",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/76.png",
-      "voice": "",
-      "transcription": "[d\u025bsk]",
-      "id": 76
-    },
-    {
-      "categoryId": 8,
-      "title": "Chair",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/77.png",
-      "voice": "",
-      "transcription": "[\u02a7\u025br]",
-      "id": 77
-    },
-    {
-      "categoryId": 8,
-      "title": "Teacher",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/78.png",
-      "voice": "",
-      "transcription": "[\u02c8ti\u02d0\u02a7\u0259r]",
-      "id": 78
-    },
-    {
-      "categoryId": 8,
-      "title": "Student",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/79.png",
-      "voice": "",
-      "transcription": "[\u02c8stu\u02d0d\u0259nt]",
-      "id": 79
-    },
-    {
-      "categoryId": 8,
-      "title": "Ruler",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/80.png",
-      "voice": "",
-      "transcription": "[\u02c8ru\u02d0l\u0259r]",
-      "id": 80
-    },
-    {
-      "categoryId": 9,
-      "title": "Soccer",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/81.png",
-      "voice": "",
-      "transcription": "[\u02c8s\u0252k\u0259r]",
-      "id": 81
-    },
-    {
-      "categoryId": 9,
-      "title": "Basketball",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/82.png",
-      "voice": "",
-      "transcription": "[\u02c8b\u00e6sk\u026atb\u0254\u02d0l]",
-      "id": 82
-    },
-    {
-      "categoryId": 9,
-      "title": "Tennis",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/83.png",
-      "voice": "",
-      "transcription": "[\u02c8t\u025bn\u026as]",
-      "id": 83
-    },
-    {
-      "categoryId": 9,
-      "title": "Baseball",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/84.png",
-      "voice": "",
-      "transcription": "[\u02c8be\u026asb\u0254\u02d0l]",
-      "id": 84
-    },
-    {
-      "categoryId": 9,
-      "title": "Swimming",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/85.png",
-      "voice": "",
-      "transcription": "[\u02c8sw\u026am\u026a\u014b]",
-      "id": 85
-    },
-    {
-      "categoryId": 9,
-      "title": "Running",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/86.png",
-      "voice": "",
-      "transcription": "[\u02c8r\u028cn\u026a\u014b]",
-      "id": 86
-    },
-    {
-      "categoryId": 9,
-      "title": "Cycling",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/87.png",
-      "voice": "",
-      "transcription": "[\u02c8sa\u026akl\u026a\u014b]",
-      "id": 87
-    },
-    {
-      "categoryId": 9,
-      "title": "Golf",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/88.png",
-      "voice": "",
-      "transcription": "[\u0261\u0252lf]",
-      "id": 88
-    },
-    {
-      "categoryId": 9,
-      "title": "Boxing",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/89.png",
-      "voice": "",
-      "transcription": "[\u02c8b\u0252ks\u026a\u014b]",
-      "id": 89
-    },
-    {
-      "categoryId": 9,
-      "title": "Volleyball",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/90.png",
-      "voice": "",
-      "transcription": "[\u02c8v\u0252lib\u0254\u02d0l]",
-      "id": 90
-    },
-    {
-      "categoryId": 10,
-      "title": "Computer",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/91.png",
-      "voice": "",
-      "transcription": "[k\u0259m\u02c8pju\u02d0t\u0259r]",
-      "id": 91
-    },
-    {
-      "categoryId": 10,
-      "title": "Phone",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/92.png",
-      "voice": "",
-      "transcription": "[fo\u028an]",
-      "id": 92
-    },
-    {
-      "categoryId": 10,
-      "title": "Tablet",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/93.png",
-      "voice": "",
-      "transcription": "[\u02c8t\u00e6bl\u026at]",
-      "id": 93
-    },
-    {
-      "categoryId": 10,
-      "title": "Laptop",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/94.png",
-      "voice": "",
-      "transcription": "[\u02c8l\u00e6pt\u0252p]",
-      "id": 94
-    },
-    {
-      "categoryId": 10,
-      "title": "Keyboard",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/95.png",
-      "voice": "",
-      "transcription": "[\u02c8ki\u02d0b\u0254\u02d0rd]",
-      "id": 95
-    },
-    {
-      "categoryId": 10,
-      "title": "Mouse",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/96.png",
-      "voice": "",
-      "transcription": "[ma\u028as]",
-      "id": 96
-    },
-    {
-      "categoryId": 10,
-      "title": "Printer",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/97.png",
-      "voice": "",
-      "transcription": "[\u02c8pr\u026ant\u0259r]",
-      "id": 97
-    },
-    {
-      "categoryId": 10,
-      "title": "Monitor",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/98.png",
-      "voice": "",
-      "transcription": "[\u02c8m\u0252n\u026at\u0259r]",
-      "id": 98
-    },
-    {
-      "categoryId": 10,
-      "title": "Headphones",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/99.png",
-      "voice": "",
-      "transcription": "[\u02c8h\u025bd\u02ccfo\u028anz]",
-      "id": 99
-    },
-    {
-      "categoryId": 10,
-      "title": "Camera",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/100.png",
-      "voice": "",
-      "transcription": "[\u02c8k\u00e6mr\u0259]",
-      "id": 100
-    },
-    {
-      "categoryId": 11,
-      "title": "Happiness",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/101.png",
-      "voice": "",
-      "transcription": "[\u02c8h\u00e6p\u026an\u026as]",
-      "id": 101
-    },
-    {
-      "categoryId": 11,
-      "title": "Sadness",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/102.png",
-      "voice": "",
-      "transcription": "[\u02c8s\u00e6dn\u026as]",
-      "id": 102
-    },
-    {
-      "categoryId": 11,
-      "title": "Anger",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/103.png",
-      "voice": "",
-      "transcription": "[\u02c8\u00e6\u014b\u0261\u0259r]",
-      "id": 103
-    },
-    {
-      "categoryId": 11,
-      "title": "Fear",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/104.png",
-      "voice": "",
-      "transcription": "[f\u026a\u0259r]",
-      "id": 104
-    },
-    {
-      "categoryId": 11,
-      "title": "Love",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/105.png",
-      "voice": "",
-      "transcription": "[l\u028cv]",
-      "id": 105
-    },
-    {
-      "categoryId": 11,
-      "title": "Jealousy",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/106.png",
-      "voice": "",
-      "transcription": "[\u02c8\u02a4\u025bl\u0259si]",
-      "id": 106
-    },
-    {
-      "categoryId": 11,
-      "title": "Excitement",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/107.png",
-      "voice": "",
-      "transcription": "[\u026ak\u02c8sa\u026atm\u0259nt]",
-      "id": 107
-    },
-    {
-      "categoryId": 11,
-      "title": "Surprise",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/108.png",
-      "voice": "",
-      "transcription": "[s\u0259r\u02c8pra\u026az]",
-      "id": 108
-    },
-    {
-      "categoryId": 11,
-      "title": "Disgust",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/109.png",
-      "voice": "",
-      "transcription": "[d\u026as\u02c8\u0261\u028cst]",
-      "id": 109
-    },
-    {
-      "categoryId": 11,
-      "title": "Confusion",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/110.png",
-      "voice": "",
-      "transcription": "[k\u0259n\u02c8fju\u02d0\u0292\u0259n]",
-      "id": 110
-    },
-    {
-      "categoryId": 12,
-      "title": "Morning",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/111.png",
-      "voice": "",
-      "transcription": "[\u02c8m\u0254\u02d0rn\u026a\u014b]",
-      "id": 111
-    },
-    {
-      "categoryId": 12,
-      "title": "Afternoon",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/112.png",
-      "voice": "",
-      "transcription": "[\u02cc\u00e6ft\u0259r\u02c8nu\u02d0n]",
-      "id": 112
-    },
-    {
-      "categoryId": 12,
-      "title": "Evening",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/113.png",
-      "voice": "",
-      "transcription": "[\u02c8i\u02d0vn\u026a\u014b]",
-      "id": 113
-    },
-    {
-      "categoryId": 12,
-      "title": "Night",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/114.png",
-      "voice": "",
-      "transcription": "[na\u026at]",
-      "id": 114
-    },
-    {
-      "categoryId": 12,
-      "title": "Day",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/115.png",
-      "voice": "",
-      "transcription": "[de\u026a]",
-      "id": 115
-    },
-    {
-      "categoryId": 12,
-      "title": "Week",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/116.png",
-      "voice": "",
-      "transcription": "[wi\u02d0k]",
-      "id": 116
-    },
-    {
-      "categoryId": 12,
-      "title": "Month",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/117.png",
-      "voice": "",
-      "transcription": "[m\u028cn\u03b8]",
-      "id": 117
-    },
-    {
-      "categoryId": 12,
-      "title": "Year",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/118.png",
-      "voice": "",
-      "transcription": "[j\u026a\u0259r]",
-      "id": 118
-    },
-    {
-      "categoryId": 12,
-      "title": "Yesterday",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/119.png",
-      "voice": "",
-      "transcription": "[\u02c8j\u025bst\u0259r\u02ccde\u026a]",
-      "id": 119
-    },
-    {
-      "categoryId": 12,
-      "title": "Tomorrow",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/120.png",
-      "voice": "",
-      "transcription": "[t\u0259\u02c8m\u0254\u02d0ro\u028a]",
-      "id": 120
-    },
-    {
-      "categoryId": 13,
-      "title": "Brave",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/121.png",
-      "voice": "",
-      "transcription": "[bre\u026av]",
-      "id": 121
-    },
-    {
-      "categoryId": 13,
-      "title": "Kind",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/122.png",
-      "voice": "",
-      "transcription": "[ka\u026and]",
-      "id": 122
-    },
-    {
-      "categoryId": 13,
-      "title": "Clever",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/123.png",
-      "voice": "",
-      "transcription": "[\u02c8kl\u025bv\u0259r]",
-      "id": 123
-    },
-    {
-      "categoryId": 13,
-      "title": "Funny",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/124.png",
-      "voice": "",
-      "transcription": "[\u02c8f\u028cni]",
-      "id": 124
-    },
-    {
-      "categoryId": 13,
-      "title": "Lazy",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/125.png",
-      "voice": "",
-      "transcription": "[\u02c8le\u026azi]",
-      "id": 125
-    },
-    {
-      "categoryId": 13,
-      "title": "Honest",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/126.png",
-      "voice": "",
-      "transcription": "[\u02c8\u0252n\u026ast]",
-      "id": 126
-    },
-    {
-      "categoryId": 13,
-      "title": "Shy",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/127.png",
-      "voice": "",
-      "transcription": "[\u0283a\u026a]",
-      "id": 127
-    },
-    {
-      "categoryId": 13,
-      "title": "Serious",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/128.png",
-      "voice": "",
-      "transcription": "[\u02c8s\u026a\u0259r\u026a\u0259s]",
-      "id": 128
-    },
-    {
-      "categoryId": 13,
-      "title": "Generous",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/129.png",
-      "voice": "",
-      "transcription": "[\u02c8\u02a4\u025bn\u0259r\u0259s]",
-      "id": 129
-    },
-    {
-      "categoryId": 13,
-      "title": "Confident",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/130.png",
-      "voice": "",
-      "transcription": "[\u02c8k\u0252nf\u026ad\u0259nt]",
-      "id": 130
-    },
-    {
-      "categoryId": 14,
-      "title": "Big",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/131.png",
-      "voice": "",
-      "transcription": "[b\u026a\u0261]",
-      "id": 131
-    },
-    {
-      "categoryId": 14,
-      "title": "Small",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/132.png",
-      "voice": "",
-      "transcription": "[sm\u0254\u02d0l]",
-      "id": 132
-    },
-    {
-      "categoryId": 14,
-      "title": "Fast",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/133.png",
-      "voice": "",
-      "transcription": "[f\u0251\u02d0st]",
-      "id": 133
-    },
-    {
-      "categoryId": 14,
-      "title": "Slow",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/134.png",
-      "voice": "",
-      "transcription": "[slo\u028a]",
-      "id": 134
-    },
-    {
-      "categoryId": 14,
-      "title": "Hot",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/135.png",
-      "voice": "",
-      "transcription": "[h\u0252t]",
-      "id": 135
-    },
-    {
-      "categoryId": 14,
-      "title": "Cold",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/136.png",
-      "voice": "",
-      "transcription": "[ko\u028ald]",
-      "id": 136
-    },
-    {
-      "categoryId": 14,
-      "title": "Good",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/137.png",
-      "voice": "",
-      "transcription": "[\u0261\u028ad]",
-      "id": 137
-    },
-    {
-      "categoryId": 14,
-      "title": "Bad",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/138.png",
-      "voice": "",
-      "transcription": "[b\u00e6d]",
-      "id": 138
-    },
-    {
-      "categoryId": 14,
-      "title": "Strong",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/139.png",
-      "voice": "",
-      "transcription": "[str\u0252\u014b]",
-      "id": 139
-    },
-    {
-      "categoryId": 14,
-      "title": "Weak",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/140.png",
-      "voice": "",
-      "transcription": "[wi\u02d0k]",
-      "id": 140
-    },
-    {
-      "categoryId": 15,
-      "title": "I",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/141.png",
-      "voice": "",
-      "transcription": "[a\u026a]",
-      "id": 141
-    },
-    {
-      "categoryId": 15,
-      "title": "You",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/142.png",
-      "voice": "",
-      "transcription": "[ju\u02d0]",
-      "id": 142
-    },
-    {
-      "categoryId": 15,
-      "title": "He",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/143.png",
-      "voice": "",
-      "transcription": "[hi\u02d0]",
-      "id": 143
-    },
-    {
-      "categoryId": 15,
-      "title": "She",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/144.png",
-      "voice": "",
-      "transcription": "[\u0283i\u02d0]",
-      "id": 144
-    },
-    {
-      "categoryId": 15,
-      "title": "It",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/145.png",
-      "voice": "",
-      "transcription": "[\u026at]",
-      "id": 145
-    },
-    {
-      "categoryId": 15,
-      "title": "We",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/146.png",
-      "voice": "",
-      "transcription": "[wi\u02d0]",
-      "id": 146
-    },
-    {
-      "categoryId": 15,
-      "title": "They",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/147.png",
-      "voice": "",
-      "transcription": "[\u00f0e\u026a]",
-      "id": 147
-    },
-    {
-      "categoryId": 15,
-      "title": "Me",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/148.png",
-      "voice": "",
-      "transcription": "[mi\u02d0]",
-      "id": 148
-    },
-    {
-      "categoryId": 15,
-      "title": "Him",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/149.png",
-      "voice": "",
-      "transcription": "[h\u026am]",
-      "id": 149
-    },
-    {
-      "categoryId": 15,
-      "title": "Her",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/150.png",
-      "voice": "",
-      "transcription": "[h\u025c\u02d0r]",
-      "id": 150
-    },
-    {
-      "categoryId": 16,
-      "title": "What",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/151.png",
-      "voice": "",
-      "transcription": "[w\u0252t]",
-      "id": 151
-    },
-    {
-      "categoryId": 16,
-      "title": "Who",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/152.png",
-      "voice": "",
-      "transcription": "[hu\u02d0]",
-      "id": 152
-    },
-    {
-      "categoryId": 16,
-      "title": "Where",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/153.png",
-      "voice": "",
-      "transcription": "[w\u025b\u0259r]",
-      "id": 153
-    },
-    {
-      "categoryId": 16,
-      "title": "When",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/154.png",
-      "voice": "",
-      "transcription": "[w\u025bn]",
-      "id": 154
-    },
-    {
-      "categoryId": 16,
-      "title": "Why",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/155.png",
-      "voice": "",
-      "transcription": "[wa\u026a]",
-      "id": 155
-    },
-    {
-      "categoryId": 16,
-      "title": "How",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/156.png",
-      "voice": "",
-      "transcription": "[ha\u028a]",
-      "id": 156
-    },
-    {
-      "categoryId": 16,
-      "title": "Which",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/157.png",
-      "voice": "",
-      "transcription": "[w\u026a\u02a7]",
-      "id": 157
-    },
-    {
-      "categoryId": 16,
-      "title": "Whose",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/158.png",
-      "voice": "",
-      "transcription": "[hu\u02d0z]",
-      "id": 158
-    },
-    {
-      "categoryId": 16,
-      "title": "How much",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/159.png",
-      "voice": "",
-      "transcription": "[ha\u028a m\u028c\u02a7]",
-      "id": 159
-    },
-    {
-      "categoryId": 16,
-      "title": "How many",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/160.png",
-      "voice": "",
-      "transcription": "[ha\u028a \u02c8m\u025bni]",
-      "id": 160
-    }
-  ]
+ "version": 1,
+ "lang": "it",
+ "list": [
+  {
+   "id": 1,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/1.png",
+   "voice": null,
+   "title": "Padre",
+   "transcription": "[padre]"
+  },
+  {
+   "id": 2,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/2.png",
+   "voice": null,
+   "title": "Madre",
+   "transcription": "[madre]"
+  },
+  {
+   "id": 3,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/3.png",
+   "voice": null,
+   "title": "Fratello",
+   "transcription": "[fratelːo]"
+  },
+  {
+   "id": 4,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/4.png",
+   "voice": null,
+   "title": "Sorella",
+   "transcription": "[sorelːa]"
+  },
+  {
+   "id": 5,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/5.png",
+   "voice": null,
+   "title": "Bambino",
+   "transcription": "[bambino]"
+  },
+  {
+   "id": 6,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/6.png",
+   "voice": null,
+   "title": "Nonna",
+   "transcription": "[nonːa]"
+  },
+  {
+   "id": 7,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/7.png",
+   "voice": null,
+   "title": "Nonno",
+   "transcription": "[nonːo]"
+  },
+  {
+   "id": 8,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/8.png",
+   "voice": null,
+   "title": "Zio",
+   "transcription": "[sio]"
+  },
+  {
+   "id": 9,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/9.png",
+   "voice": null,
+   "title": "Zia",
+   "transcription": "[sia]"
+  },
+  {
+   "id": 10,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/10.png",
+   "voice": null,
+   "title": "Cugino",
+   "transcription": "[kud͡ʒino]"
+  },
+  {
+   "id": 11,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/11.png",
+   "voice": null,
+   "title": "Piatto",
+   "transcription": "[piatːo]"
+  },
+  {
+   "id": 12,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/12.png",
+   "voice": null,
+   "title": "Tazza",
+   "transcription": "[tat͡sa]"
+  },
+  {
+   "id": 13,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/13.png",
+   "voice": null,
+   "title": "Forchetta",
+   "transcription": "[forketːa]"
+  },
+  {
+   "id": 14,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/14.png",
+   "voice": null,
+   "title": "Coltello",
+   "transcription": "[koltelːo]"
+  },
+  {
+   "id": 15,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/15.png",
+   "voice": null,
+   "title": "Cucchiaio",
+   "transcription": "[kukːiaio]"
+  },
+  {
+   "id": 16,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/16.png",
+   "voice": null,
+   "title": "Padella",
+   "transcription": "[padelːa]"
+  },
+  {
+   "id": 17,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/17.png",
+   "voice": null,
+   "title": "Stufa",
+   "transcription": "[stufa]"
+  },
+  {
+   "id": 18,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/18.png",
+   "voice": null,
+   "title": "Frigorifero",
+   "transcription": "[friɡorifero]"
+  },
+  {
+   "id": 19,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/19.png",
+   "voice": null,
+   "title": "Microonde",
+   "transcription": "[mikroonde]"
+  },
+  {
+   "id": 20,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/20.png",
+   "voice": null,
+   "title": "Lavello",
+   "transcription": "[lavelːo]"
+  },
+  {
+   "id": 21,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/21.png",
+   "voice": null,
+   "title": "Aeroporto",
+   "transcription": "[aeroporto]"
+  },
+  {
+   "id": 22,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/22.png",
+   "voice": null,
+   "title": "Passaporto",
+   "transcription": "[pasːaporto]"
+  },
+  {
+   "id": 23,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/23.png",
+   "voice": null,
+   "title": "Bagaglio",
+   "transcription": "[baɡaʎo]"
+  },
+  {
+   "id": 24,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/24.png",
+   "voice": null,
+   "title": "Biglietto",
+   "transcription": "[biʎetːo]"
+  },
+  {
+   "id": 25,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/25.png",
+   "voice": null,
+   "title": "Volo",
+   "transcription": "[volo]"
+  },
+  {
+   "id": 26,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/26.png",
+   "voice": null,
+   "title": "Albergo",
+   "transcription": "[alberɡo]"
+  },
+  {
+   "id": 27,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/27.png",
+   "voice": null,
+   "title": "Taxi",
+   "transcription": "[taxi]"
+  },
+  {
+   "id": 28,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/28.png",
+   "voice": null,
+   "title": "Treno",
+   "transcription": "[treno]"
+  },
+  {
+   "id": 29,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/29.png",
+   "voice": null,
+   "title": "Autobus",
+   "transcription": "[autobus]"
+  },
+  {
+   "id": 30,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/30.png",
+   "voice": null,
+   "title": "Mappa",
+   "transcription": "[mapːa]"
+  },
+  {
+   "id": 31,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/31.png",
+   "voice": null,
+   "title": "Cane",
+   "transcription": "[kane]"
+  },
+  {
+   "id": 32,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/32.png",
+   "voice": null,
+   "title": "Gatto",
+   "transcription": "[ɡatːo]"
+  },
+  {
+   "id": 33,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/33.png",
+   "voice": null,
+   "title": "Elefante",
+   "transcription": "[elefante]"
+  },
+  {
+   "id": 34,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/34.png",
+   "voice": null,
+   "title": "Tigre",
+   "transcription": "[tiɡre]"
+  },
+  {
+   "id": 35,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/35.png",
+   "voice": null,
+   "title": "Leone",
+   "transcription": "[leone]"
+  },
+  {
+   "id": 36,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/36.png",
+   "voice": null,
+   "title": "Uccello",
+   "transcription": "[ut͡ʃːelːo]"
+  },
+  {
+   "id": 37,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/37.png",
+   "voice": null,
+   "title": "Pescare",
+   "transcription": "[peʃare]"
+  },
+  {
+   "id": 38,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/38.png",
+   "voice": null,
+   "title": "Cavallo",
+   "transcription": "[kavalːo]"
+  },
+  {
+   "id": 39,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/39.png",
+   "voice": null,
+   "title": "Mucca",
+   "transcription": "[mukːa]"
+  },
+  {
+   "id": 40,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/40.png",
+   "voice": null,
+   "title": "Scimmia",
+   "transcription": "[st͡ʃimːia]"
+  },
+  {
+   "id": 41,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/41.png",
+   "voice": null,
+   "title": "Rosso",
+   "transcription": "[rosːo]"
+  },
+  {
+   "id": 42,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/42.png",
+   "voice": null,
+   "title": "Blu",
+   "transcription": "[blu]"
+  },
+  {
+   "id": 43,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/43.png",
+   "voice": null,
+   "title": "Verde",
+   "transcription": "[verde]"
+  },
+  {
+   "id": 44,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/44.png",
+   "voice": null,
+   "title": "Giallo",
+   "transcription": "[d͡ʒalːo]"
+  },
+  {
+   "id": 45,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/45.png",
+   "voice": null,
+   "title": "Nero",
+   "transcription": "[nero]"
+  },
+  {
+   "id": 46,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/46.png",
+   "voice": null,
+   "title": "Bianco",
+   "transcription": "[bianko]"
+  },
+  {
+   "id": 47,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/47.png",
+   "voice": null,
+   "title": "Viola",
+   "transcription": "[viola]"
+  },
+  {
+   "id": 48,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/48.png",
+   "voice": null,
+   "title": "Arancia",
+   "transcription": "[arant͡ʃa]"
+  },
+  {
+   "id": 49,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/49.png",
+   "voice": null,
+   "title": "Rosa",
+   "transcription": "[rosa]"
+  },
+  {
+   "id": 50,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/50.png",
+   "voice": null,
+   "title": "Marrone",
+   "transcription": "[marːone]"
+  },
+  {
+   "id": 51,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/51.png",
+   "voice": null,
+   "title": "Mela",
+   "transcription": "[mela]"
+  },
+  {
+   "id": 52,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/52.png",
+   "voice": null,
+   "title": "Banana",
+   "transcription": "[banana]"
+  },
+  {
+   "id": 53,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/53.png",
+   "voice": null,
+   "title": "Pane",
+   "transcription": "[pane]"
+  },
+  {
+   "id": 54,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/54.png",
+   "voice": null,
+   "title": "Formaggio",
+   "transcription": "[formad͡ʒːo]"
+  },
+  {
+   "id": 55,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/55.png",
+   "voice": null,
+   "title": "Uovo",
+   "transcription": "[uovo]"
+  },
+  {
+   "id": 56,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/56.png",
+   "voice": null,
+   "title": "Pescare",
+   "transcription": "[peʃare]"
+  },
+  {
+   "id": 57,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/57.png",
+   "voice": null,
+   "title": "Carne",
+   "transcription": "[karne]"
+  },
+  {
+   "id": 58,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/58.png",
+   "voice": null,
+   "title": "Riso",
+   "transcription": "[riso]"
+  },
+  {
+   "id": 59,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/59.png",
+   "voice": null,
+   "title": "Minestra",
+   "transcription": "[minestra]"
+  },
+  {
+   "id": 60,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/60.png",
+   "voice": null,
+   "title": "Verdure",
+   "transcription": "[verdure]"
+  },
+  {
+   "id": 61,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/61.png",
+   "voice": null,
+   "title": "Camicia",
+   "transcription": "[kamit͡ʃa]"
+  },
+  {
+   "id": 62,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/62.png",
+   "voice": null,
+   "title": "Pantaloni",
+   "transcription": "[pantaloni]"
+  },
+  {
+   "id": 63,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/63.png",
+   "voice": null,
+   "title": "Giacca",
+   "transcription": "[d͡ʒakːa]"
+  },
+  {
+   "id": 64,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/64.png",
+   "voice": null,
+   "title": "Vestito",
+   "transcription": "[vestito]"
+  },
+  {
+   "id": 65,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/65.png",
+   "voice": null,
+   "title": "Scarpe",
+   "transcription": "[ʃarpe]"
+  },
+  {
+   "id": 66,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/66.png",
+   "voice": null,
+   "title": "Cappello",
+   "transcription": "[kapːelːo]"
+  },
+  {
+   "id": 67,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/67.png",
+   "voice": null,
+   "title": "Sciarpa",
+   "transcription": "[st͡ʃarpa]"
+  },
+  {
+   "id": 68,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/68.png",
+   "voice": null,
+   "title": "Guanti",
+   "transcription": "[ɡuanti]"
+  },
+  {
+   "id": 69,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/69.png",
+   "voice": null,
+   "title": "Calzini",
+   "transcription": "[kalsini]"
+  },
+  {
+   "id": 70,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/70.png",
+   "voice": null,
+   "title": "Gonna",
+   "transcription": "[ɡonːa]"
+  },
+  {
+   "id": 71,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/71.png",
+   "voice": null,
+   "title": "Libro",
+   "transcription": "[libro]"
+  },
+  {
+   "id": 72,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/72.png",
+   "voice": null,
+   "title": "Matita",
+   "transcription": "[matita]"
+  },
+  {
+   "id": 73,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/73.png",
+   "voice": null,
+   "title": "Penna",
+   "transcription": "[penːa]"
+  },
+  {
+   "id": 74,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/74.png",
+   "voice": null,
+   "title": "Gomma Per Cancellare",
+   "transcription": "[ɡomːa per kant͡ʃelːare]"
+  },
+  {
+   "id": 75,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/75.png",
+   "voice": null,
+   "title": "Taccuino",
+   "transcription": "[takːuino]"
+  },
+  {
+   "id": 76,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/76.png",
+   "voice": null,
+   "title": "Scrivania",
+   "transcription": "[ʃrivania]"
+  },
+  {
+   "id": 77,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/77.png",
+   "voice": null,
+   "title": "Sedia",
+   "transcription": "[sedia]"
+  },
+  {
+   "id": 78,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/78.png",
+   "voice": null,
+   "title": "Insegnante",
+   "transcription": "[inseɲante]"
+  },
+  {
+   "id": 79,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/79.png",
+   "voice": null,
+   "title": "Studente",
+   "transcription": "[studente]"
+  },
+  {
+   "id": 80,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/80.png",
+   "voice": null,
+   "title": "Governate",
+   "transcription": "[ɡovernate]"
+  },
+  {
+   "id": 81,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/81.png",
+   "voice": null,
+   "title": "Calcio",
+   "transcription": "[kalt͡ʃo]"
+  },
+  {
+   "id": 82,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/82.png",
+   "voice": null,
+   "title": "Pallacanestro",
+   "transcription": "[palːakanestro]"
+  },
+  {
+   "id": 83,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/83.png",
+   "voice": null,
+   "title": "Tennis",
+   "transcription": "[tenːis]"
+  },
+  {
+   "id": 84,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/84.png",
+   "voice": null,
+   "title": "Baseball",
+   "transcription": "[basebalː]"
+  },
+  {
+   "id": 85,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/85.png",
+   "voice": null,
+   "title": "Nuoto",
+   "transcription": "[nuoto]"
+  },
+  {
+   "id": 86,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/86.png",
+   "voice": null,
+   "title": "Corsa",
+   "transcription": "[korsa]"
+  },
+  {
+   "id": 87,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/87.png",
+   "voice": null,
+   "title": "Ciclismo",
+   "transcription": "[t͡ʃiklizmo]"
+  },
+  {
+   "id": 88,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/88.png",
+   "voice": null,
+   "title": "Golf",
+   "transcription": "[ɡolf]"
+  },
+  {
+   "id": 89,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/89.png",
+   "voice": null,
+   "title": "Boxe",
+   "transcription": "[boxe]"
+  },
+  {
+   "id": 90,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/90.png",
+   "voice": null,
+   "title": "Pallavolo",
+   "transcription": "[palːavolo]"
+  },
+  {
+   "id": 91,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/91.png",
+   "voice": null,
+   "title": "Computer",
+   "transcription": "[komputer]"
+  },
+  {
+   "id": 92,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/92.png",
+   "voice": null,
+   "title": "Telefono",
+   "transcription": "[telefono]"
+  },
+  {
+   "id": 93,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/93.png",
+   "voice": null,
+   "title": "Tavoletta",
+   "transcription": "[tavoletːa]"
+  },
+  {
+   "id": 94,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/94.png",
+   "voice": null,
+   "title": "Computer Portatile",
+   "transcription": "[komputer portatile]"
+  },
+  {
+   "id": 95,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/95.png",
+   "voice": null,
+   "title": "Tastiera",
+   "transcription": "[tastiera]"
+  },
+  {
+   "id": 96,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/96.png",
+   "voice": null,
+   "title": "Topo",
+   "transcription": "[topo]"
+  },
+  {
+   "id": 97,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/97.png",
+   "voice": null,
+   "title": "Stampante",
+   "transcription": "[stampante]"
+  },
+  {
+   "id": 98,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/98.png",
+   "voice": null,
+   "title": "Monitorare",
+   "transcription": "[monitorare]"
+  },
+  {
+   "id": 99,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/99.png",
+   "voice": null,
+   "title": "Cuffie",
+   "transcription": "[kufːie]"
+  },
+  {
+   "id": 100,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/100.png",
+   "voice": null,
+   "title": "Telecamera",
+   "transcription": "[telekamera]"
+  },
+  {
+   "id": 101,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/101.png",
+   "voice": null,
+   "title": "Felicità",
+   "transcription": "[felit͡ʃita]"
+  },
+  {
+   "id": 102,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/102.png",
+   "voice": null,
+   "title": "Tristezza",
+   "transcription": "[tristet͡sa]"
+  },
+  {
+   "id": 103,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/103.png",
+   "voice": null,
+   "title": "Rabbia",
+   "transcription": "[rabːia]"
+  },
+  {
+   "id": 104,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/104.png",
+   "voice": null,
+   "title": "Paura",
+   "transcription": "[paura]"
+  },
+  {
+   "id": 105,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/105.png",
+   "voice": null,
+   "title": "Amore",
+   "transcription": "[amore]"
+  },
+  {
+   "id": 106,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/106.png",
+   "voice": null,
+   "title": "Gelosia",
+   "transcription": "[d͡ʒelosia]"
+  },
+  {
+   "id": 107,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/107.png",
+   "voice": null,
+   "title": "Eccitazione",
+   "transcription": "[et͡ʃːitasione]"
+  },
+  {
+   "id": 108,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/108.png",
+   "voice": null,
+   "title": "Sorpresa",
+   "transcription": "[sorpresa]"
+  },
+  {
+   "id": 109,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/109.png",
+   "voice": null,
+   "title": "Disgusto",
+   "transcription": "[disɡusto]"
+  },
+  {
+   "id": 110,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/110.png",
+   "voice": null,
+   "title": "Confusione",
+   "transcription": "[konfusione]"
+  },
+  {
+   "id": 111,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/111.png",
+   "voice": null,
+   "title": "Mattina",
+   "transcription": "[matːina]"
+  },
+  {
+   "id": 112,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/112.png",
+   "voice": null,
+   "title": "Pomeriggio",
+   "transcription": "[pomerid͡ʒːo]"
+  },
+  {
+   "id": 113,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/113.png",
+   "voice": null,
+   "title": "Sera",
+   "transcription": "[sera]"
+  },
+  {
+   "id": 114,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/114.png",
+   "voice": null,
+   "title": "Notte",
+   "transcription": "[notːe]"
+  },
+  {
+   "id": 115,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/115.png",
+   "voice": null,
+   "title": "Giorno",
+   "transcription": "[d͡ʒorno]"
+  },
+  {
+   "id": 116,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/116.png",
+   "voice": null,
+   "title": "Settimana",
+   "transcription": "[setːimana]"
+  },
+  {
+   "id": 117,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/117.png",
+   "voice": null,
+   "title": "Mese",
+   "transcription": "[mese]"
+  },
+  {
+   "id": 118,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/118.png",
+   "voice": null,
+   "title": "Anno",
+   "transcription": "[anːo]"
+  },
+  {
+   "id": 119,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/119.png",
+   "voice": null,
+   "title": "Ieri",
+   "transcription": "[ieri]"
+  },
+  {
+   "id": 120,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/120.png",
+   "voice": null,
+   "title": "Domani",
+   "transcription": "[domani]"
+  },
+  {
+   "id": 121,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/121.png",
+   "voice": null,
+   "title": "Coraggioso",
+   "transcription": "[korad͡ʒːoso]"
+  },
+  {
+   "id": 122,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/122.png",
+   "voice": null,
+   "title": "Tipo",
+   "transcription": "[tipo]"
+  },
+  {
+   "id": 123,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/123.png",
+   "voice": null,
+   "title": "Intelligente",
+   "transcription": "[intelːid͡ʒente]"
+  },
+  {
+   "id": 124,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/124.png",
+   "voice": null,
+   "title": "Divertente",
+   "transcription": "[divertente]"
+  },
+  {
+   "id": 125,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/125.png",
+   "voice": null,
+   "title": "Pigro",
+   "transcription": "[piɡro]"
+  },
+  {
+   "id": 126,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/126.png",
+   "voice": null,
+   "title": "Onesto",
+   "transcription": "[onesto]"
+  },
+  {
+   "id": 127,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/127.png",
+   "voice": null,
+   "title": "Timido",
+   "transcription": "[timido]"
+  },
+  {
+   "id": 128,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/128.png",
+   "voice": null,
+   "title": "Serio",
+   "transcription": "[serio]"
+  },
+  {
+   "id": 129,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/129.png",
+   "voice": null,
+   "title": "Generoso",
+   "transcription": "[d͡ʒeneroso]"
+  },
+  {
+   "id": 130,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/130.png",
+   "voice": null,
+   "title": "Fiducioso",
+   "transcription": "[fidut͡ʃoso]"
+  },
+  {
+   "id": 131,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/131.png",
+   "voice": null,
+   "title": "Grande",
+   "transcription": "[ɡrande]"
+  },
+  {
+   "id": 132,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/132.png",
+   "voice": null,
+   "title": "Piccolo",
+   "transcription": "[pikːolo]"
+  },
+  {
+   "id": 133,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/133.png",
+   "voice": null,
+   "title": "Veloce",
+   "transcription": "[velot͡ʃe]"
+  },
+  {
+   "id": 134,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/134.png",
+   "voice": null,
+   "title": "Lento",
+   "transcription": "[lento]"
+  },
+  {
+   "id": 135,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/135.png",
+   "voice": null,
+   "title": "Caldo",
+   "transcription": "[kaldo]"
+  },
+  {
+   "id": 136,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/136.png",
+   "voice": null,
+   "title": "Freddo",
+   "transcription": "[fredːo]"
+  },
+  {
+   "id": 137,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/137.png",
+   "voice": null,
+   "title": "Bene",
+   "transcription": "[bene]"
+  },
+  {
+   "id": 138,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/138.png",
+   "voice": null,
+   "title": "Cattivo",
+   "transcription": "[katːivo]"
+  },
+  {
+   "id": 139,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/139.png",
+   "voice": null,
+   "title": "Forte",
+   "transcription": "[forte]"
+  },
+  {
+   "id": 140,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/140.png",
+   "voice": null,
+   "title": "Debole",
+   "transcription": "[debole]"
+  },
+  {
+   "id": 141,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/141.png",
+   "voice": null,
+   "title": "Io",
+   "transcription": "[io]"
+  },
+  {
+   "id": 142,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/142.png",
+   "voice": null,
+   "title": "Voi",
+   "transcription": "[voi]"
+  },
+  {
+   "id": 143,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/143.png",
+   "voice": null,
+   "title": "Lui",
+   "transcription": "[lui]"
+  },
+  {
+   "id": 144,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/144.png",
+   "voice": null,
+   "title": "Lei",
+   "transcription": "[lei]"
+  },
+  {
+   "id": 145,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/145.png",
+   "voice": null,
+   "title": "Esso",
+   "transcription": "[esːo]"
+  },
+  {
+   "id": 146,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/146.png",
+   "voice": null,
+   "title": "Noi",
+   "transcription": "[noi]"
+  },
+  {
+   "id": 147,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/147.png",
+   "voice": null,
+   "title": "Essi",
+   "transcription": "[esːi]"
+  },
+  {
+   "id": 148,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/148.png",
+   "voice": null,
+   "title": "Me",
+   "transcription": "[me]"
+  },
+  {
+   "id": 149,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/149.png",
+   "voice": null,
+   "title": "Lui",
+   "transcription": "[lui]"
+  },
+  {
+   "id": 150,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/150.png",
+   "voice": null,
+   "title": "Suo",
+   "transcription": "[suo]"
+  },
+  {
+   "id": 151,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/151.png",
+   "voice": null,
+   "title": "Che Cosa?",
+   "transcription": "[ke kosa?]"
+  },
+  {
+   "id": 152,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/152.png",
+   "voice": null,
+   "title": "Chi È?",
+   "transcription": "[ki ɛ?]"
+  },
+  {
+   "id": 153,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/153.png",
+   "voice": null,
+   "title": "Dove?",
+   "transcription": "[dove?]"
+  },
+  {
+   "id": 154,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/154.png",
+   "voice": null,
+   "title": "Quando?",
+   "transcription": "[kuando?]"
+  },
+  {
+   "id": 155,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/155.png",
+   "voice": null,
+   "title": "Perché?",
+   "transcription": "[perke?]"
+  },
+  {
+   "id": 156,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/156.png",
+   "voice": null,
+   "title": "Come?",
+   "transcription": "[kome?]"
+  },
+  {
+   "id": 157,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/157.png",
+   "voice": null,
+   "title": "Quale?",
+   "transcription": "[kuale?]"
+  },
+  {
+   "id": 158,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/158.png",
+   "voice": null,
+   "title": "Di Chi?",
+   "transcription": "[di ki?]"
+  },
+  {
+   "id": 159,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/159.png",
+   "voice": null,
+   "title": "Quanto?",
+   "transcription": "[kuanto?]"
+  },
+  {
+   "id": 160,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/160.png",
+   "voice": null,
+   "title": "Quanti?",
+   "transcription": "[kuanti?]"
+  }
+ ]
 }
