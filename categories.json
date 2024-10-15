@@ -1,102 +1,102 @@
 {
-  "lang": "nl",
-  "version": 1,
-  "list": [
-    {
-      "id": 1,
-      "title": "Familie",
-      "picture": "https://loremflickr.com/640/480/family",
-      "order": 0
-    },
-    {
-      "id": 2,
-      "title": "Keuken",
-      "picture": "https://loremflickr.com/640/480/kitchen",
-      "order": 0
-    },
-    {
-      "id": 3,
-      "title": "Reis",
-      "picture": "https://loremflickr.com/640/480/travel",
-      "order": 0
-    },
-    {
-      "id": 4,
-      "title": "Dieren",
-      "picture": "https://loremflickr.com/640/480/animals",
-      "order": 0
-    },
-    {
-      "id": 5,
-      "title": "Kleuren",
-      "picture": "https://loremflickr.com/640/480/colors",
-      "order": 0
-    },
-    {
-      "id": 6,
-      "title": "Voedsel",
-      "picture": "https://loremflickr.com/640/480/food",
-      "order": 0
-    },
-    {
-      "id": 7,
-      "title": "Kleren",
-      "picture": "https://loremflickr.com/640/480/clothes",
-      "order": 0
-    },
-    {
-      "id": 8,
-      "title": "School",
-      "picture": "https://loremflickr.com/640/480/school",
-      "order": 0
-    },
-    {
-      "id": 9,
-      "title": "Sport",
-      "picture": "https://loremflickr.com/640/480/sport",
-      "order": 0
-    },
-    {
-      "id": 10,
-      "title": "Technologie",
-      "picture": "https://loremflickr.com/640/480/technology",
-      "order": 0
-    },
-    {
-      "id": 11,
-      "title": "Emotie",
-      "picture": "https://loremflickr.com/640/480/emotions",
-      "order": 0
-    },
-    {
-      "id": 12,
-      "title": "Tijd",
-      "picture": "https://loremflickr.com/640/480/time",
-      "order": 0
-    },
-    {
-      "id": 13,
-      "title": "Persoonlijkheid",
-      "picture": "https://loremflickr.com/640/480/personality",
-      "order": 0
-    },
-    {
-      "id": 14,
-      "title": "Antoniemen",
-      "picture": "https://loremflickr.com/640/480/antonyms",
-      "order": 0
-    },
-    {
-      "id": 15,
-      "title": "Voornaamwoorden",
-      "picture": "https://loremflickr.com/640/480/pronouns",
-      "order": 0
-    },
-    {
-      "id": 16,
-      "title": "Vragen",
-      "picture": "https://loremflickr.com/640/480/questions",
-      "order": 0
-    }
-  ]
+ "version": 1,
+ "lang": "nl",
+ "list": [
+  {
+   "id": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_1.png",
+   "order": 1,
+   "title": "Familie"
+  },
+  {
+   "id": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_2.png",
+   "order": 5,
+   "title": "Keuken"
+  },
+  {
+   "id": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_3.png",
+   "order": 5,
+   "title": "Reis"
+  },
+  {
+   "id": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_4.png",
+   "order": 5,
+   "title": "Dieren"
+  },
+  {
+   "id": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_5.png",
+   "order": 2,
+   "title": "Kleuren"
+  },
+  {
+   "id": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_6.png",
+   "order": 3,
+   "title": "Voedsel"
+  },
+  {
+   "id": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_7.png",
+   "order": 4,
+   "title": "Kleren"
+  },
+  {
+   "id": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_8.png",
+   "order": 3,
+   "title": "School"
+  },
+  {
+   "id": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_9.png",
+   "order": 3,
+   "title": "Sport"
+  },
+  {
+   "id": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_10.png",
+   "order": 4,
+   "title": "Technologie"
+  },
+  {
+   "id": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_11.png",
+   "order": 3,
+   "title": "Emoties"
+  },
+  {
+   "id": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_12.png",
+   "order": 2,
+   "title": "Tijd"
+  },
+  {
+   "id": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_13.png",
+   "order": 0,
+   "title": "Persoonlijkheid"
+  },
+  {
+   "id": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_14.png",
+   "order": 4,
+   "title": "Antoniemen"
+  },
+  {
+   "id": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_15.png",
+   "order": 4,
+   "title": "Voornaamwoorden"
+  },
+  {
+   "id": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_16.png",
+   "order": 3,
+   "title": "Vragen"
+  }
+ ]
 }
