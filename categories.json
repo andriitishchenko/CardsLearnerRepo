@@ -1,118 +1,102 @@
 {
-  "lang": "ua",
-  "version": 1,
-  "list": [
-    {
-      "id": 1,
-      "title": "Сім'я",
-      "picture": "https://loremflickr.com/640/480/family",
-      "order": 0,
-      "transcription": "sʲim'ɑ"
-    },
-    {
-      "id": 2,
-      "title": "Кухня",
-      "picture": "https://loremflickr.com/640/480/kitchen",
-      "order": 0,
-      "transcription": "kuxnʲɑ"
-    },
-    {
-      "id": 3,
-      "title": "Подорожі",
-      "picture": "https://loremflickr.com/640/480/travel",
-      "order": 0,
-      "transcription": "pɔdɔrɔʐuvɑtɪ"
-    },
-    {
-      "id": 4,
-      "title": "Тварини",
-      "picture": "https://loremflickr.com/640/480/animals",
-      "order": 0,
-      "transcription": "tvɑrɪnɪ"
-    },
-    {
-      "id": 5,
-      "title": "Кольори",
-      "picture": "https://loremflickr.com/640/480/colors",
-      "order": 0,
-      "transcription": "kɔlʲɔrɪ"
-    },
-    {
-      "id": 6,
-      "title": "Їжа",
-      "picture": "https://loremflickr.com/640/480/food",
-      "order": 0,
-      "transcription": "jiʐɑ"
-    },
-    {
-      "id": 7,
-      "title": "Одяг",
-      "picture": "https://loremflickr.com/640/480/clothes",
-      "order": 0,
-      "transcription": "ɔdʲɑɦ"
-    },
-    {
-      "id": 8,
-      "title": "Школа",
-      "picture": "https://loremflickr.com/640/480/school",
-      "order": 0,
-      "transcription": "ʂkɔlɑ"
-    },
-    {
-      "id": 9,
-      "title": "Спорт",
-      "picture": "https://loremflickr.com/640/480/sport",
-      "order": 0,
-      "transcription": "spɔrtɪvnɪj"
-    },
-    {
-      "id": 10,
-      "title": "Технології",
-      "picture": "https://loremflickr.com/640/480/technology",
-      "order": 0,
-      "transcription": "tɛxnɔlɔɦiɑ"
-    },
-    {
-      "id": 11,
-      "title": "Емоції",
-      "picture": "https://loremflickr.com/640/480/emotions",
-      "order": 0,
-      "transcription": "ɛmɔt͡sʲiji"
-    },
-    {
-      "id": 12,
-      "title": "Час",
-      "picture": "https://loremflickr.com/640/480/time",
-      "order": 0,
-      "transcription": "ʈ͡ʂɑs"
-    },
-    {
-      "id": 13,
-      "title": "Особистість",
-      "picture": "https://loremflickr.com/640/480/personality",
-      "order": 0,
-      "transcription": "ɔsɔbɪstʲistʲ"
-    },
-    {
-      "id": 14,
-      "title": "Прикметники",
-      "picture": "https://loremflickr.com/640/480/antonyms",
-      "order": 0,
-      "transcription": "ɑntɔnʲim"
-    },
-    {
-      "id": 15,
-      "title": "Займенники",
-      "picture": "https://loremflickr.com/640/480/pronouns",
-      "order": 0,
-      "transcription": "zɑjmɛnnɪkɪ"
-    },
-    {
-      "id": 16,
-      "title": "Питання",
-      "picture": "https://loremflickr.com/640/480/questions",
-      "order": 0,
-      "transcription": "pɪtɑnnʲɑ"
-    }
-  ]
+ "version": 1,
+ "lang": "ua",
+ "list": [
+  {
+   "id": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_1.png",
+   "order": 1,
+   "title": "Родина"
+  },
+  {
+   "id": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_2.png",
+   "order": 5,
+   "title": "Кухня"
+  },
+  {
+   "id": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_3.png",
+   "order": 5,
+   "title": "Подорожі"
+  },
+  {
+   "id": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_4.png",
+   "order": 5,
+   "title": "Тварини"
+  },
+  {
+   "id": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_5.png",
+   "order": 2,
+   "title": "Кольори"
+  },
+  {
+   "id": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_6.png",
+   "order": 3,
+   "title": "Їжа"
+  },
+  {
+   "id": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_7.png",
+   "order": 4,
+   "title": "Одяг"
+  },
+  {
+   "id": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_8.png",
+   "order": 3,
+   "title": "Школа"
+  },
+  {
+   "id": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_9.png",
+   "order": 3,
+   "title": "Спорт"
+  },
+  {
+   "id": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_10.png",
+   "order": 4,
+   "title": "Технології"
+  },
+  {
+   "id": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_11.png",
+   "order": 3,
+   "title": "Емоції"
+  },
+  {
+   "id": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_12.png",
+   "order": 2,
+   "title": "Час"
+  },
+  {
+   "id": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_13.png",
+   "order": 0,
+   "title": "Особистість"
+  },
+  {
+   "id": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_14.png",
+   "order": 4,
+   "title": "Антоніми"
+  },
+  {
+   "id": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_15.png",
+   "order": 4,
+   "title": "Займенники"
+  },
+  {
+   "id": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_16.png",
+   "order": 3,
+   "title": "Питання"
+  }
+ ]
 }
