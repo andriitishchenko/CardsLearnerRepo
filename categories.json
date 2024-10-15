@@ -1,102 +1,102 @@
 {
-  "lang": "en",
-  "version": 1,
-  "list": [
-    {
-      "id": 1,
-      "title": "Family",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_1.png",
-      "order": 0
-    },
-    {
-      "id": 2,
-      "title": "Kitchen",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_2.png",
-      "order": 0
-    },
-    {
-      "id": 3,
-      "title": "Travel",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_3.png",
-      "order": 0
-    },
-    {
-      "id": 4,
-      "title": "Animals",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_4.png",
-      "order": 0
-    },
-    {
-      "id": 5,
-      "title": "Colors",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_5.png",
-      "order": 0
-    },
-    {
-      "id": 6,
-      "title": "Food",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_6.png",
-      "order": 0
-    },
-    {
-      "id": 7,
-      "title": "Clothes",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_7.png",
-      "order": 0
-    },
-    {
-      "id": 8,
-      "title": "School",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_8.png",
-      "order": 0
-    },
-    {
-      "id": 9,
-      "title": "Sport",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_9.png",
-      "order": 0
-    },
-    {
-      "id": 10,
-      "title": "Technology",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_10.png",
-      "order": 0
-    },
-    {
-      "id": 11,
-      "title": "Emotions",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_11.png",
-      "order": 0
-    },
-    {
-      "id": 12,
-      "title": "Time",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_12.png",
-      "order": 0
-    },
-    {
-      "id": 13,
-      "title": "Personality",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_13.png",
-      "order": 0
-    },
-    {
-      "id": 14,
-      "title": "Antonyms",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_14.png",
-      "order": 0
-    },
-    {
-      "id": 15,
-      "title": "Pronouns",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_15.png",
-      "order": 0
-    },
-    {
-      "id": 16,
-      "title": "Questions",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_16.png",
-      "order": 0
-    }
-  ]
+ "version": 1,
+ "lang": "de",
+ "list": [
+  {
+   "id": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_1.png",
+   "order": 1,
+   "title": "Familie"
+  },
+  {
+   "id": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_2.png",
+   "order": 5,
+   "title": "Küche"
+  },
+  {
+   "id": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_3.png",
+   "order": 5,
+   "title": "Reisen"
+  },
+  {
+   "id": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_4.png",
+   "order": 5,
+   "title": "Tiere"
+  },
+  {
+   "id": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_5.png",
+   "order": 2,
+   "title": "Farben"
+  },
+  {
+   "id": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_6.png",
+   "order": 3,
+   "title": "Essen"
+  },
+  {
+   "id": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_7.png",
+   "order": 4,
+   "title": "Kleidung"
+  },
+  {
+   "id": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_8.png",
+   "order": 3,
+   "title": "Schule"
+  },
+  {
+   "id": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_9.png",
+   "order": 3,
+   "title": "Sport"
+  },
+  {
+   "id": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_10.png",
+   "order": 4,
+   "title": "Technologie"
+  },
+  {
+   "id": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_11.png",
+   "order": 3,
+   "title": "Emotionen"
+  },
+  {
+   "id": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_12.png",
+   "order": 2,
+   "title": "Zeit"
+  },
+  {
+   "id": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_13.png",
+   "order": 0,
+   "title": "Persönlichkeit"
+  },
+  {
+   "id": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_14.png",
+   "order": 4,
+   "title": "Antonyme"
+  },
+  {
+   "id": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_15.png",
+   "order": 4,
+   "title": "Pronomen"
+  },
+  {
+   "id": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_16.png",
+   "order": 3,
+   "title": "Fragen"
+  }
+ ]
 }
