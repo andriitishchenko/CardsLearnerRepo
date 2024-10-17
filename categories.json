@@ -97,6 +97,12 @@
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_16.png",
    "order": 3,
    "title": "Domande"
+  },
+  {
+   "id": 100,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/c_100.png",
+   "order": 100,
+   "title": "Frasi"
   }
  ]
 }
