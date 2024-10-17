@@ -1281,6 +1281,2406 @@
    "voice": null,
    "title": "Скільки?",
    "transcription": "[skilʲkɪ?]"
+  },
+  {
+   "id": 1000,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/medical-card",
+   "voice": null,
+   "title": "медична карта",
+   "transcription": "[mɛdɪʈ͡ʂnɑ kɑrtɑ]"
+  },
+  {
+   "id": 1001,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/dental-chair",
+   "voice": null,
+   "title": "стоматологічне крісло",
+   "transcription": "[stɔmɑtɔlɔɦiʈ͡ʂnɛ krʲislɔ]"
+  },
+  {
+   "id": 1002,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/medical-examination",
+   "voice": null,
+   "title": "лікарський огляд",
+   "transcription": "[lʲikɑrsʲkɪj ɔɦlʲɑd]"
+  },
+  {
+   "id": 1003,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/laboratory-analysis",
+   "voice": null,
+   "title": "лабораторний аналіз",
+   "transcription": "[lɑbɔrɑtɔrnɪj ɑnɑlʲiz]"
+  },
+  {
+   "id": 1004,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/medical-care",
+   "voice": null,
+   "title": "медична допомога",
+   "transcription": "[mɛdɪʈ͡ʂnɑ dɔpɔmɔɦɑ]"
+  },
+  {
+   "id": 1005,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/surgical-mask",
+   "voice": null,
+   "title": "хірургічна маска",
+   "transcription": "[xirurɦiʈ͡ʂnɑ mɑskɑ]"
+  },
+  {
+   "id": 1006,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sterile-instruments",
+   "voice": null,
+   "title": "стерильні інструменти",
+   "transcription": "[stɛrɪlʲnʲi instrumɛntɪ]"
+  },
+  {
+   "id": 1007,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/hospital-ward",
+   "voice": null,
+   "title": "лікарняна палата",
+   "transcription": "[lʲikɑrnʲɑnɑ pɑlɑtɑ]"
+  },
+  {
+   "id": 1008,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/ambulance",
+   "voice": null,
+   "title": "швидка допомога",
+   "transcription": "[ʂvɪdkɑ dɔpɔmɔɦɑ]"
+  },
+  {
+   "id": 1009,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/hospital-bed",
+   "voice": null,
+   "title": "лікарняне ліжко",
+   "transcription": "[lʲikɑrnʲɑnɛ lʲiʐkɔ]"
+  },
+  {
+   "id": 1010,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/restaurant-menu",
+   "voice": null,
+   "title": "ресторанне меню",
+   "transcription": "[rɛstɔrɑnnɛ mɛnʲu]"
+  },
+  {
+   "id": 1011,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fried-fish",
+   "voice": null,
+   "title": "смажена риба",
+   "transcription": "[smɑʐɛnɑ rɪbɑ]"
+  },
+  {
+   "id": 1012,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/glass-of-wine",
+   "voice": null,
+   "title": "келих вина",
+   "transcription": "[kɛlɪx vɪnɑ]"
+  },
+  {
+   "id": 1013,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/table-for-two",
+   "voice": null,
+   "title": "столик на двох",
+   "transcription": "[stɔlɪk nɑ dvɔx]"
+  },
+  {
+   "id": 1014,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fresh-vegetables",
+   "voice": null,
+   "title": "свіжі овочі",
+   "transcription": "[sviʐi ɔvɔʈ͡ʂi]"
+  },
+  {
+   "id": 1015,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/dessert-menu",
+   "voice": null,
+   "title": "десертне меню",
+   "transcription": "[dɛsɛrtnɛ mɛnʲu]"
+  },
+  {
+   "id": 1016,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/dining-table",
+   "voice": null,
+   "title": "обідній стіл",
+   "transcription": "[ɔbidnʲij stʲil]"
+  },
+  {
+   "id": 1017,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/ordering-food",
+   "voice": null,
+   "title": "замовлення їжі",
+   "transcription": "[zɑmɔvlɛnnʲɑ jiʐi]"
+  },
+  {
+   "id": 1018,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/restaurant-bill",
+   "voice": null,
+   "title": "ресторанний рахунок",
+   "transcription": "[rɛstɔrɑnnɪj rɑxunɔk]"
+  },
+  {
+   "id": 1019,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/cup-of-coffee",
+   "voice": null,
+   "title": "чашка кави",
+   "transcription": "[ʈ͡ʂɑʂkɑ kɑvɪ]"
+  },
+  {
+   "id": 1020,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/foreign-passport",
+   "voice": null,
+   "title": "закордонний паспорт",
+   "transcription": "[zɑkɔrdɔnnɪj pɑspɔrt]"
+  },
+  {
+   "id": 1021,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/train-ticket",
+   "voice": null,
+   "title": "квиток на поїзд",
+   "transcription": "[kvɪtɔk nɑ pɔjizd]"
+  },
+  {
+   "id": 1022,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/tourist-map",
+   "voice": null,
+   "title": "туристична карта",
+   "transcription": "[turɪstɪʈ͡ʂnɑ kɑrtɑ]"
+  },
+  {
+   "id": 1023,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/luggage-compartment",
+   "voice": null,
+   "title": "багажне відділення",
+   "transcription": "[bɑɦɑʐnɛ viddʲilɛnnʲɑ]"
+  },
+  {
+   "id": 1024,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/grand-hotel",
+   "voice": null,
+   "title": "гранд-готель",
+   "transcription": "[ɦrɑnd-ɦɔtɛlʲ]"
+  },
+  {
+   "id": 1025,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/guide",
+   "voice": null,
+   "title": "путівник",
+   "transcription": "[putʲivnɪk]"
+  },
+  {
+   "id": 1026,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sightseeing-bus",
+   "voice": null,
+   "title": "екскурсійний автобус",
+   "transcription": "[ɛkskursʲijnɪj ɑvtɔbus]"
+  },
+  {
+   "id": 1027,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/rented-car",
+   "voice": null,
+   "title": "орендована машина",
+   "transcription": "[ɔrɛndɔvɑnɑ mɑʂɪnɑ]"
+  },
+  {
+   "id": 1028,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/boarding-gate",
+   "voice": null,
+   "title": "вихід на посадку",
+   "transcription": "[vɪxid nɑ pɔsɑdku]"
+  },
+  {
+   "id": 1029,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/customs-control",
+   "voice": null,
+   "title": "митний контроль",
+   "transcription": "[mɪtnɪj kɔntrɔlʲ]"
+  },
+  {
+   "id": 1030,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/beach-umbrella",
+   "voice": null,
+   "title": "пляжна парасолька",
+   "transcription": "[plʲɑʐnɑ pɑrɑsɔlʲkɑ]"
+  },
+  {
+   "id": 1031,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/resort-sea",
+   "voice": null,
+   "title": "курортне море",
+   "transcription": "[kurɔrtnɛ mɔrɛ]"
+  },
+  {
+   "id": 1032,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sun-lounger-on-the-beach",
+   "voice": null,
+   "title": "шезлонг на пляжі",
+   "transcription": "[ʂɛzlɔnɦ nɑ plʲɑʐi]"
+  },
+  {
+   "id": 1033,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/tourist-tent",
+   "voice": null,
+   "title": "туристичний намет",
+   "transcription": "[turɪstɪʈ͡ʂnɪj nɑmɛt]"
+  },
+  {
+   "id": 1034,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/evening-sunset",
+   "voice": null,
+   "title": "вечірній захід сонця",
+   "transcription": "[vɛʈ͡ʂirnʲij zɑxid sɔnt͡sʲɑ]"
+  },
+  {
+   "id": 1035,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/mountain-lake",
+   "voice": null,
+   "title": "гірське озеро",
+   "transcription": "[ɦirsʲkɛ ɔzɛrɔ]"
+  },
+  {
+   "id": 1036,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/hiking",
+   "voice": null,
+   "title": "піший похід",
+   "transcription": "[piʂɪj pɔxid]"
+  },
+  {
+   "id": 1037,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/massage-room",
+   "voice": null,
+   "title": "масажний кабінет",
+   "transcription": "[mɑsɑʐnɪj kɑbinɛt]"
+  },
+  {
+   "id": 1038,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/holiday-at-the-hotel",
+   "voice": null,
+   "title": "відпочинок у готелі",
+   "transcription": "[vidpɔʈ͡ʂɪnɔk u ɦɔtɛlʲi]"
+  },
+  {
+   "id": 1039,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/summer-vacation",
+   "voice": null,
+   "title": "літня відпустка",
+   "transcription": "[lʲitnʲɑ vidpustkɑ]"
+  },
+  {
+   "id": 1040,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/classroom",
+   "voice": null,
+   "title": "навчальний клас",
+   "transcription": "[nɑvʈ͡ʂɑlʲnɪj klɑs]"
+  },
+  {
+   "id": 1041,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/written-assignment",
+   "voice": null,
+   "title": "письмове завдання",
+   "transcription": "[pɪsʲmɔvɛ zɑvdɑnnʲɑ]"
+  },
+  {
+   "id": 1042,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/student-scholarship",
+   "voice": null,
+   "title": "студентська стипендія",
+   "transcription": "[studɛntsʲkɑ stɪpɛndʲiɑ]"
+  },
+  {
+   "id": 1043,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/school-board",
+   "voice": null,
+   "title": "шкільна дошка",
+   "transcription": "[ʂkilʲnɑ dɔʂkɑ]"
+  },
+  {
+   "id": 1044,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/library-shelf",
+   "voice": null,
+   "title": "бібліотечна полиця",
+   "transcription": "[biblʲiɔtɛʈ͡ʂnɑ pɔlɪt͡sʲɑ]"
+  },
+  {
+   "id": 1045,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/examination-paper",
+   "voice": null,
+   "title": "екзаменаційна робота",
+   "transcription": "[ɛkzɑmɛnɑt͡sʲijnɑ rɔbɔtɑ]"
+  },
+  {
+   "id": 1046,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/academic-lecture",
+   "voice": null,
+   "title": "академічна лекція",
+   "transcription": "[ɑkɑdɛmiʈ͡ʂnɑ lɛkt͡sʲiɑ]"
+  },
+  {
+   "id": 1047,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/scientific-conference",
+   "voice": null,
+   "title": "наукова конференція",
+   "transcription": "[nɑukɔvɑ kɔnfɛrɛnt͡sʲiɑ]"
+  },
+  {
+   "id": 1048,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/student-dormitory",
+   "voice": null,
+   "title": "студентський гуртожиток",
+   "transcription": "[studɛntsʲkɪj ɦurtɔʐɪtɔk]"
+  },
+  {
+   "id": 1049,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/workbook",
+   "voice": null,
+   "title": "навчальний зошит",
+   "transcription": "[nɑvʈ͡ʂɑlʲnɪj zɔʂɪt]"
+  },
+  {
+   "id": 1050,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/honest-man",
+   "voice": null,
+   "title": "чесна людина",
+   "transcription": "[ʈ͡ʂɛsnɑ lʲudɪnɑ]"
+  },
+  {
+   "id": 1051,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/friendly-neighbor",
+   "voice": null,
+   "title": "доброзичливий сусід",
+   "transcription": "[dɔbrɔzɪʈ͡ʂlɪvɪj susʲid]"
+  },
+  {
+   "id": 1052,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/patient-teacher",
+   "voice": null,
+   "title": "терплячий учитель",
+   "transcription": "[tɛrplʲɑʈ͡ʂɪj uʈ͡ʂɪtɛlʲ]"
+  },
+  {
+   "id": 1053,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/confident-speaker",
+   "voice": null,
+   "title": "впевнений оратор",
+   "transcription": "[vpɛvnɛnɪj ɔrɑtɔr]"
+  },
+  {
+   "id": 1054,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/generous-gift",
+   "voice": null,
+   "title": "щедрий подарунок",
+   "transcription": "[ʂʈ͡ʂɛdrɪj pɔdɑrunɔk]"
+  },
+  {
+   "id": 1055,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/smart-student",
+   "voice": null,
+   "title": "розумний студент",
+   "transcription": "[rɔzumnɪj studɛnt]"
+  },
+  {
+   "id": 1056,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/cheerful-friend",
+   "voice": null,
+   "title": "веселий друг",
+   "transcription": "[vɛsɛlɪj druɦ]"
+  },
+  {
+   "id": 1057,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/brave-traveler",
+   "voice": null,
+   "title": "сміливий мандрівник",
+   "transcription": "[smilɪvɪj mɑndrʲivnɪk]"
+  },
+  {
+   "id": 1058,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/attentive-listener",
+   "voice": null,
+   "title": "уважний слухач",
+   "transcription": "[uvɑʐnɪj sluxɑʈ͡ʂ]"
+  },
+  {
+   "id": 1059,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/creative-artist",
+   "voice": null,
+   "title": "креативний художник",
+   "transcription": "[krɛɑtɪvnɪj xudɔʐnɪk]"
+  },
+  {
+   "id": 1060,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/simple-food",
+   "voice": null,
+   "title": "проста їжа",
+   "transcription": "[prɔstɑ jiʐɑ]"
+  },
+  {
+   "id": 1061,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/quiet-restaurant",
+   "voice": null,
+   "title": "тихий ресторан",
+   "transcription": "[tɪxɪj rɛstɔrɑn]"
+  },
+  {
+   "id": 1062,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/spacious-room",
+   "voice": null,
+   "title": "простора кімната",
+   "transcription": "[prɔstɔrɑ kimnɑtɑ]"
+  },
+  {
+   "id": 1063,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/high-chair",
+   "voice": null,
+   "title": "високий стілець",
+   "transcription": "[vɪsɔkɪj stʲilɛt͡sʲ]"
+  },
+  {
+   "id": 1064,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fried-meat",
+   "voice": null,
+   "title": "смажене м'ясо",
+   "transcription": "[smɑʐɛnɛ m'ɑsɔ]"
+  },
+  {
+   "id": 1065,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fruit-salad",
+   "voice": null,
+   "title": "фруктовий салат",
+   "transcription": "[fruktɔvɪj sɑlɑt]"
+  },
+  {
+   "id": 1066,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/warm-breakfast",
+   "voice": null,
+   "title": "теплий сніданок",
+   "transcription": "[tɛplɪj snʲidɑnɔk]"
+  },
+  {
+   "id": 1067,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/free-table",
+   "voice": null,
+   "title": "вільний стіл",
+   "transcription": "[vilʲnɪj stʲil]"
+  },
+  {
+   "id": 1068,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/hospitable-staff",
+   "voice": null,
+   "title": "гостинний персонал",
+   "transcription": "[ɦɔstɪnnɪj pɛrsɔnɑl]"
+  },
+  {
+   "id": 1069,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fresh-juice",
+   "voice": null,
+   "title": "свіжий сік",
+   "transcription": "[sviʐɪj sʲik]"
+  },
+  {
+   "id": 1070,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/city-​​map",
+   "voice": null,
+   "title": "карта міста",
+   "transcription": "[kɑrtɑ mistɑ]"
+  },
+  {
+   "id": 1071,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/new-hotel",
+   "voice": null,
+   "title": "новий готель",
+   "transcription": "[nɔvɪj ɦɔtɛlʲ]"
+  },
+  {
+   "id": 1072,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/museum-ticket",
+   "voice": null,
+   "title": "квиток у музей",
+   "transcription": "[kvɪtɔk u muzɛj]"
+  },
+  {
+   "id": 1073,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/tourist-group",
+   "voice": null,
+   "title": "туристична група",
+   "transcription": "[turɪstɪʈ͡ʂnɑ ɦrupɑ]"
+  },
+  {
+   "id": 1074,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/ticket-booking",
+   "voice": null,
+   "title": "бронювання квитків",
+   "transcription": "[brɔnʲuvɑnnʲɑ kvɪtkiv]"
+  },
+  {
+   "id": 1075,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/going-outside",
+   "voice": null,
+   "title": "вихід на вулицю",
+   "transcription": "[vɪxid nɑ vulɪt͡sʲu]"
+  },
+  {
+   "id": 1076,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/nightclub",
+   "voice": null,
+   "title": "нічний клуб",
+   "transcription": "[nʲiʈ͡ʂnɪj klub]"
+  },
+  {
+   "id": 1077,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/beach-volleyball",
+   "voice": null,
+   "title": "пляжний волейбол",
+   "transcription": "[plʲɑʐnɪj vɔlɛjbɔl]"
+  },
+  {
+   "id": 1078,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/evening-walk",
+   "voice": null,
+   "title": "вечірня прогулянка",
+   "transcription": "[vɛʈ͡ʂirnʲɑ prɔɦulʲɑnkɑ]"
+  },
+  {
+   "id": 1079,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/green-garden",
+   "voice": null,
+   "title": "зелений сад",
+   "transcription": "[zɛlɛnɪj sɑd]"
+  },
+  {
+   "id": 1080,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/amusement-park",
+   "voice": null,
+   "title": "парк розваг",
+   "transcription": "[pɑrk rɔzvɑɦ]"
+  },
+  {
+   "id": 1081,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/summer-camp",
+   "voice": null,
+   "title": "літній табір",
+   "transcription": "[lʲitnʲij tɑbir]"
+  },
+  {
+   "id": 1082,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/playground",
+   "voice": null,
+   "title": "спортивний майданчик",
+   "transcription": "[spɔrtɪvnɪj mɑjdɑnʈ͡ʂɪk]"
+  },
+  {
+   "id": 1083,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/creative-task",
+   "voice": null,
+   "title": "творче завдання",
+   "transcription": "[tvɔrʈ͡ʂɛ zɑvdɑnnʲɑ]"
+  },
+  {
+   "id": 1084,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/math-problem",
+   "voice": null,
+   "title": "математичне завдання",
+   "transcription": "[mɑtɛmɑtɪʈ͡ʂnɛ zɑvdɑnnʲɑ]"
+  },
+  {
+   "id": 1085,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/scientific-work",
+   "voice": null,
+   "title": "наукова робота",
+   "transcription": "[nɑukɔvɑ rɔbɔtɑ]"
+  },
+  {
+   "id": 1086,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/school-holidays",
+   "voice": null,
+   "title": "шкільні канікули",
+   "transcription": "[ʂkilʲnʲi kɑnʲikulɪ]"
+  },
+  {
+   "id": 1087,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/lecture-hall",
+   "voice": null,
+   "title": "лекційний зал",
+   "transcription": "[lɛkt͡sʲijnɪj zɑl]"
+  },
+  {
+   "id": 1088,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/school-uniform",
+   "voice": null,
+   "title": "шкільна форма",
+   "transcription": "[ʂkilʲnɑ fɔrmɑ]"
+  },
+  {
+   "id": 1089,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/neat-notebook",
+   "voice": null,
+   "title": "акуратний зошит",
+   "transcription": "[ɑkurɑtnɪj zɔʂɪt]"
+  },
+  {
+   "id": 1090,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/tolerance-towards-others",
+   "voice": null,
+   "title": "терпимість до інших",
+   "transcription": "[tɛrpɪmistʲ dɔ inʂɪx]"
+  },
+  {
+   "id": 1091,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sincere-friend",
+   "voice": null,
+   "title": "щирий друг",
+   "transcription": "[ʂʈ͡ʂɪrɪj druɦ]"
+  },
+  {
+   "id": 1092,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/active-participant",
+   "voice": null,
+   "title": "активний учасник",
+   "transcription": "[ɑktɪvnɪj uʈ͡ʂɑsnɪk]"
+  },
+  {
+   "id": 1093,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/respect-for-others",
+   "voice": null,
+   "title": "повага до інших",
+   "transcription": "[pɔvɑɦɑ dɔ inʂɪx]"
+  },
+  {
+   "id": 1094,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/willingness-to-help",
+   "voice": null,
+   "title": "готовність допомогти",
+   "transcription": "[ɦɔtɔvnʲistʲ dɔpɔmɔɦtɪ]"
+  },
+  {
+   "id": 1095,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/honest-behavior",
+   "voice": null,
+   "title": "чесна поведінка",
+   "transcription": "[ʈ͡ʂɛsnɑ pɔvɛdʲinkɑ]"
+  },
+  {
+   "id": 1096,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/bold-decision",
+   "voice": null,
+   "title": "сміливе рішення",
+   "transcription": "[smilɪvɛ rʲiʂɛnnʲɑ]"
+  },
+  {
+   "id": 1097,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/calm-character",
+   "voice": null,
+   "title": "спокійний характер",
+   "transcription": "[spɔkijnɪj xɑrɑktɛr]"
+  },
+  {
+   "id": 1098,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/proactive-thinking",
+   "voice": null,
+   "title": "ініціативне мислення",
+   "transcription": "[inʲit͡sʲiɑtɪvnɛ mɪslɛnnʲɑ]"
+  },
+  {
+   "id": 1099,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/friendly-smile",
+   "voice": null,
+   "title": "доброзичлива посмішка",
+   "transcription": "[dɔbrɔzɪʈ͡ʂlɪvɑ pɔsmiʂkɑ]"
+  },
+  {
+   "id": 1100,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/wooden-bench",
+   "voice": null,
+   "title": "дерев'яна лавка",
+   "transcription": "[dɛrɛv'ɑnɑ lɑvkɑ]"
+  },
+  {
+   "id": 1101,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/rectangular-table",
+   "voice": null,
+   "title": "прямокутний стіл",
+   "transcription": "[prʲɑmɔkutnɪj stʲil]"
+  },
+  {
+   "id": 1102,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/bright-light",
+   "voice": null,
+   "title": "яскраве світло",
+   "transcription": "[jɑskrɑvɛ svitlɔ]"
+  },
+  {
+   "id": 1103,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/red-hair",
+   "voice": null,
+   "title": "руде волосся",
+   "transcription": "[rudɛ vɔlɔssʲɑ]"
+  },
+  {
+   "id": 1104,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/clean-dishes",
+   "voice": null,
+   "title": "чистий посуд",
+   "transcription": "[ʈ͡ʂɪstɪj pɔsud]"
+  },
+  {
+   "id": 1105,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/Blue-eyes",
+   "voice": null,
+   "title": "блакитні очі",
+   "transcription": "[blɑkɪtnʲi ɔʈ͡ʂi]"
+  },
+  {
+   "id": 1106,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/cold-water",
+   "voice": null,
+   "title": "холодна вода",
+   "transcription": "[xɔlɔdnɑ vɔdɑ]"
+  },
+  {
+   "id": 1107,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/green-grass",
+   "voice": null,
+   "title": "зелена трава",
+   "transcription": "[zɛlɛnɑ trɑvɑ]"
+  },
+  {
+   "id": 1108,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/black-cat",
+   "voice": null,
+   "title": "чорна кішка",
+   "transcription": "[ʈ͡ʂɔrnɑ kiʂkɑ]"
+  },
+  {
+   "id": 1109,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/white-dog",
+   "voice": null,
+   "title": "білий собака",
+   "transcription": "[bilɪj sɔbɑkɑ]"
+  },
+  {
+   "id": 1110,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/warm-sweater",
+   "voice": null,
+   "title": "теплий светр",
+   "transcription": "[tɛplɪj svɛtr]"
+  },
+  {
+   "id": 1111,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/blue-ball",
+   "voice": null,
+   "title": "синій м'яч",
+   "transcription": "[sɪnʲij m'ɑʈ͡ʂ]"
+  },
+  {
+   "id": 1112,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/delicious-food",
+   "voice": null,
+   "title": "смачна їжа",
+   "transcription": "[smɑʈ͡ʂnɑ jiʐɑ]"
+  },
+  {
+   "id": 1113,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/long-way",
+   "voice": null,
+   "title": "довгий шлях",
+   "transcription": "[dɔvɦɪj ʂlʲɑx]"
+  },
+  {
+   "id": 1114,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/old-house",
+   "voice": null,
+   "title": "старий будинок",
+   "transcription": "[stɑrɪj budɪnɔk]"
+  },
+  {
+   "id": 1115,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/red-dress",
+   "voice": null,
+   "title": "червоне плаття",
+   "transcription": "[ʈ͡ʂɛrvɔnɛ plɑttʲɑ]"
+  },
+  {
+   "id": 1116,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/high-mountain",
+   "voice": null,
+   "title": "висока гора",
+   "transcription": "[vɪsɔkɑ ɦɔrɑ]"
+  },
+  {
+   "id": 1117,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/deep-lake",
+   "voice": null,
+   "title": "глибоке озеро",
+   "transcription": "[ɦlɪbɔkɛ ɔzɛrɔ]"
+  },
+  {
+   "id": 1118,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/wooden-chair",
+   "voice": null,
+   "title": "дерев'яний стілець",
+   "transcription": "[dɛrɛv'ɑnɪj stʲilɛt͡sʲ]"
+  },
+  {
+   "id": 1119,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/bright-day",
+   "voice": null,
+   "title": "світлий день",
+   "transcription": "[svitlɪj dɛnʲ]"
+  },
+  {
+   "id": 1120,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/happy-holiday",
+   "voice": null,
+   "title": "веселе свято",
+   "transcription": "[vɛsɛlɛ svɑtɔ]"
+  },
+  {
+   "id": 1121,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/quiet-night",
+   "voice": null,
+   "title": "тиха ніч",
+   "transcription": "[tɪxɑ nʲiʈ͡ʂ]"
+  },
+  {
+   "id": 1122,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/short-hair",
+   "voice": null,
+   "title": "коротке волосся",
+   "transcription": "[kɔrɔtkɛ vɔlɔssʲɑ]"
+  },
+  {
+   "id": 1123,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/loud-sound",
+   "voice": null,
+   "title": "гучний звук",
+   "transcription": "[ɦuʈ͡ʂnɪj zvuk]"
+  },
+  {
+   "id": 1124,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/big-city",
+   "voice": null,
+   "title": "велике місто",
+   "transcription": "[vɛlɪkɛ mistɔ]"
+  },
+  {
+   "id": 1125,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/small-child",
+   "voice": null,
+   "title": "маленька дитина",
+   "transcription": "[mɑlɛnʲkɑ dɪtɪnɑ]"
+  },
+  {
+   "id": 1126,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sweet-cake",
+   "voice": null,
+   "title": "солодкий торт",
+   "transcription": "[sɔlɔdkɪj tɔrt]"
+  },
+  {
+   "id": 1127,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fast-car",
+   "voice": null,
+   "title": "швидка машина",
+   "transcription": "[ʂvɪdkɑ mɑʂɪnɑ]"
+  },
+  {
+   "id": 1128,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/green-leaves",
+   "voice": null,
+   "title": "зелене листя",
+   "transcription": "[zɛlɛnɛ lɪstʲɑ]"
+  },
+  {
+   "id": 1129,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/wide-bridge",
+   "voice": null,
+   "title": "широкий міст",
+   "transcription": "[ʂɪrɔkɪj mist]"
+  },
+  {
+   "id": 1130,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/new-book",
+   "voice": null,
+   "title": "нова книга",
+   "transcription": "[nɔvɑ knɪɦɑ]"
+  },
+  {
+   "id": 1131,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/thin-paper",
+   "voice": null,
+   "title": "тонкий папір",
+   "transcription": "[tɔnkɪj pɑpir]"
+  },
+  {
+   "id": 1132,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/black-glasses",
+   "voice": null,
+   "title": "чорні окуляри",
+   "transcription": "[ʈ͡ʂɔrnʲi ɔkulʲɑrɪ]"
+  },
+  {
+   "id": 1133,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/soft-pillow",
+   "voice": null,
+   "title": "м'яка подушка",
+   "transcription": "[m'ɑkɑ pɔduʂkɑ]"
+  },
+  {
+   "id": 1134,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/bright-lamp",
+   "voice": null,
+   "title": "яскрава лампа",
+   "transcription": "[jɑskrɑvɑ lɑmpɑ]"
+  },
+  {
+   "id": 1135,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/cheap-ticket",
+   "voice": null,
+   "title": "дешевий квиток",
+   "transcription": "[dɛʂɛvɪj kvɪtɔk]"
+  },
+  {
+   "id": 1136,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/loud-laughter",
+   "voice": null,
+   "title": "гучний сміх",
+   "transcription": "[ɦuʈ͡ʂnɪj smix]"
+  },
+  {
+   "id": 1137,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/hot-tea",
+   "voice": null,
+   "title": "гарячий чай",
+   "transcription": "[ɦɑrʲɑʈ͡ʂɪj ʈ͡ʂɑj]"
+  },
+  {
+   "id": 1138,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/clear-sky",
+   "voice": null,
+   "title": "чисте небо",
+   "transcription": "[ʈ͡ʂɪstɛ nɛbɔ]"
+  },
+  {
+   "id": 1139,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sweet-honey",
+   "voice": null,
+   "title": "солодкий мед",
+   "transcription": "[sɔlɔdkɪj mɛd]"
+  },
+  {
+   "id": 1140,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/long-dress",
+   "voice": null,
+   "title": "довга сукня",
+   "transcription": "[dɔvɦɑ suknʲɑ]"
+  },
+  {
+   "id": 1141,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/dark-beer",
+   "voice": null,
+   "title": "темне пиво",
+   "transcription": "[tɛmnɛ pɪvɔ]"
+  },
+  {
+   "id": 1142,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/yellow-flowers",
+   "voice": null,
+   "title": "жовті квіти",
+   "transcription": "[ʐɔvtʲi kvitɪ]"
+  },
+  {
+   "id": 1143,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/spring-rain",
+   "voice": null,
+   "title": "весняний дощ",
+   "transcription": "[vɛsnʲɑnɪj dɔʂʈ͡ʂ]"
+  },
+  {
+   "id": 1144,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/heavy-bag",
+   "voice": null,
+   "title": "важка сумка",
+   "transcription": "[vɑʐkɑ sumkɑ]"
+  },
+  {
+   "id": 1145,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/soft-carpet",
+   "voice": null,
+   "title": "м'який килим",
+   "transcription": "[m'ɑkɪj kɪlɪm]"
+  },
+  {
+   "id": 1146,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fast-train",
+   "voice": null,
+   "title": "швидкий поїзд",
+   "transcription": "[ʂvɪdkɪj pɔjizd]"
+  },
+  {
+   "id": 1147,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fresh-bread",
+   "voice": null,
+   "title": "свіжий хліб",
+   "transcription": "[sviʐɪj xlʲib]"
+  },
+  {
+   "id": 1148,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/warm-weather",
+   "voice": null,
+   "title": "тепла погода",
+   "transcription": "[tɛplɑ pɔɦɔdɑ]"
+  },
+  {
+   "id": 1149,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/pink-roses",
+   "voice": null,
+   "title": "рожеві троянди",
+   "transcription": "[rɔʐɛvi trɔɑndɪ]"
+  },
+  {
+   "id": 1150,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/delicious-dinner",
+   "voice": null,
+   "title": "смачна вечеря",
+   "transcription": "[smɑʈ͡ʂnɑ vɛʈ͡ʂɛrʲɑ]"
+  },
+  {
+   "id": 1151,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/quiet-voice",
+   "voice": null,
+   "title": "тихий голос",
+   "transcription": "[tɪxɪj ɦɔlɔs]"
+  },
+  {
+   "id": 1152,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/green-apple",
+   "voice": null,
+   "title": "зелене яблуко",
+   "transcription": "[zɛlɛnɛ ɑblukɔ]"
+  },
+  {
+   "id": 1153,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/soft-blanket",
+   "voice": null,
+   "title": "м'яка ковдра",
+   "transcription": "[m'ɑkɑ kɔvdrɑ]"
+  },
+  {
+   "id": 1154,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/white-snow",
+   "voice": null,
+   "title": "білий сніг",
+   "transcription": "[bilɪj snʲiɦ]"
+  },
+  {
+   "id": 1155,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/bright-sunset",
+   "voice": null,
+   "title": "яскравий захід сонця",
+   "transcription": "[jɑskrɑvɪj zɑxid sɔnt͡sʲɑ]"
+  },
+  {
+   "id": 1156,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/empty-room",
+   "voice": null,
+   "title": "порожня кімната",
+   "transcription": "[pɔrɔʐnʲɑ kimnɑtɑ]"
+  },
+  {
+   "id": 1157,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/old-phone",
+   "voice": null,
+   "title": "старий телефон",
+   "transcription": "[stɑrɪj tɛlɛfɔn]"
+  },
+  {
+   "id": 1158,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/blue-bike",
+   "voice": null,
+   "title": "синій велосипед",
+   "transcription": "[sɪnʲij vɛlɔsɪpɛd]"
+  },
+  {
+   "id": 1159,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/wet-hair",
+   "voice": null,
+   "title": "мокре волосся",
+   "transcription": "[mɔkrɛ vɔlɔssʲɑ]"
+  },
+  {
+   "id": 1160,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/green-car",
+   "voice": null,
+   "title": "зелена машина",
+   "transcription": "[zɛlɛnɑ mɑʂɪnɑ]"
+  },
+  {
+   "id": 1161,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/short-letter",
+   "voice": null,
+   "title": "короткий лист",
+   "transcription": "[kɔrɔtkɪj lɪst]"
+  },
+  {
+   "id": 1162,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/clean-window",
+   "voice": null,
+   "title": "чисте вікно",
+   "transcription": "[ʈ͡ʂɪstɛ viknɔ]"
+  },
+  {
+   "id": 1163,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/easy-chair",
+   "voice": null,
+   "title": "м'яке крісло",
+   "transcription": "[m'ɑkɛ krʲislɔ]"
+  },
+  {
+   "id": 1164,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/dark-chocolate",
+   "voice": null,
+   "title": "гіркий шоколад",
+   "transcription": "[ɦirkɪj ʂɔkɔlɑd]"
+  },
+  {
+   "id": 1165,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/hot-day",
+   "voice": null,
+   "title": "спекотний день",
+   "transcription": "[spɛkɔtnɪj dɛnʲ]"
+  },
+  {
+   "id": 1166,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/gold-ring",
+   "voice": null,
+   "title": "золоте кільце",
+   "transcription": "[zɔlɔtɛ kilʲt͡sɛ]"
+  },
+  {
+   "id": 1167,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/cold-wind",
+   "voice": null,
+   "title": "холодний вітер",
+   "transcription": "[xɔlɔdnɪj vitɛr]"
+  },
+  {
+   "id": 1168,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/strong-coffee",
+   "voice": null,
+   "title": "міцна кава",
+   "transcription": "[mit͡snɑ kɑvɑ]"
+  },
+  {
+   "id": 1169,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fast-internet",
+   "voice": null,
+   "title": "швидкий інтернет",
+   "transcription": "[ʂvɪdkɪj intɛrnɛt]"
+  },
+  {
+   "id": 1170,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/heavy-backpack",
+   "voice": null,
+   "title": "важкий рюкзак",
+   "transcription": "[vɑʐkɪj rʲukzɑk]"
+  },
+  {
+   "id": 1171,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sweet-fruits",
+   "voice": null,
+   "title": "солодкі фрукти",
+   "transcription": "[sɔlɔdki fruktɪ]"
+  },
+  {
+   "id": 1172,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/red-car",
+   "voice": null,
+   "title": "червона машина",
+   "transcription": "[ʈ͡ʂɛrvɔnɑ mɑʂɪnɑ]"
+  },
+  {
+   "id": 1173,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/narrow-street",
+   "voice": null,
+   "title": "вузька вулиця",
+   "transcription": "[vuzʲkɑ vulɪt͡sʲɑ]"
+  },
+  {
+   "id": 1174,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/big-lake",
+   "voice": null,
+   "title": "велике озеро",
+   "transcription": "[vɛlɪkɛ ɔzɛrɔ]"
+  },
+  {
+   "id": 1175,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/long-train",
+   "voice": null,
+   "title": "довгий поїзд",
+   "transcription": "[dɔvɦɪj pɔjizd]"
+  },
+  {
+   "id": 1176,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/blue-ocean",
+   "voice": null,
+   "title": "синій океан",
+   "transcription": "[sɪnʲij ɔkɛɑn]"
+  },
+  {
+   "id": 1177,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/bright-moon",
+   "voice": null,
+   "title": "яскравий місяць",
+   "transcription": "[jɑskrɑvɪj misʲɑt͡sʲ]"
+  },
+  {
+   "id": 1178,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/white-bear",
+   "voice": null,
+   "title": "білий ведмедик",
+   "transcription": "[bilɪj vɛdmɛdɪk]"
+  },
+  {
+   "id": 1179,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/little-bird",
+   "voice": null,
+   "title": "маленький птах",
+   "transcription": "[mɑlɛnʲkɪj ptɑx]"
+  },
+  {
+   "id": 1180,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/strong-tea",
+   "voice": null,
+   "title": "міцний чай",
+   "transcription": "[mit͡snɪj ʈ͡ʂɑj]"
+  },
+  {
+   "id": 1181,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/wide-road",
+   "voice": null,
+   "title": "широка дорога",
+   "transcription": "[ʂɪrɔkɑ dɔrɔɦɑ]"
+  },
+  {
+   "id": 1182,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/old-bridge",
+   "voice": null,
+   "title": "старий міст",
+   "transcription": "[stɑrɪj mist]"
+  },
+  {
+   "id": 1183,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/tall-building",
+   "voice": null,
+   "title": "висока будівля",
+   "transcription": "[vɪsɔkɑ budʲivlʲɑ]"
+  },
+  {
+   "id": 1184,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/green-mountains",
+   "voice": null,
+   "title": "зелені гори",
+   "transcription": "[zɛlɛnʲi ɦɔrɪ]"
+  },
+  {
+   "id": 1185,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/clean-table",
+   "voice": null,
+   "title": "чистий стіл",
+   "transcription": "[ʈ͡ʂɪstɪj stʲil]"
+  },
+  {
+   "id": 1186,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sweet-ice-cream",
+   "voice": null,
+   "title": "солодке морозиво",
+   "transcription": "[sɔlɔdkɛ mɔrɔzɪvɔ]"
+  },
+  {
+   "id": 1187,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/soft-toy",
+   "voice": null,
+   "title": "м'яка іграшка",
+   "transcription": "[m'ɑkɑ iɦrɑʂkɑ]"
+  },
+  {
+   "id": 1188,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/blue-sky",
+   "voice": null,
+   "title": "Синє небо",
+   "transcription": "[sɪnʲɛ nɛbɔ]"
+  },
+  {
+   "id": 1189,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/quiet-park",
+   "voice": null,
+   "title": "тихий парк",
+   "transcription": "[tɪxɪj pɑrk]"
+  },
+  {
+   "id": 1190,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/red-apples",
+   "voice": null,
+   "title": "червоні яблука",
+   "transcription": "[ʈ͡ʂɛrvɔnʲi ɑblukɑ]"
+  },
+  {
+   "id": 1191,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/strong-walls",
+   "voice": null,
+   "title": "міцні стіни",
+   "transcription": "[mit͡snʲi stʲinɪ]"
+  },
+  {
+   "id": 1192,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/loud-laughter",
+   "voice": null,
+   "title": "гучний сміх",
+   "transcription": "[ɦuʈ͡ʂnɪj smix]"
+  },
+  {
+   "id": 1193,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sunny-day",
+   "voice": null,
+   "title": "сонячний день",
+   "transcription": "[sɔnʲɑʈ͡ʂnɪj dɛnʲ]"
+  },
+  {
+   "id": 1194,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/spring-wind",
+   "voice": null,
+   "title": "весняний вітер",
+   "transcription": "[vɛsnʲɑnɪj vitɛr]"
+  },
+  {
+   "id": 1195,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/long-line",
+   "voice": null,
+   "title": "довга черга",
+   "transcription": "[dɔvɦɑ ʈ͡ʂɛrɦɑ]"
+  },
+  {
+   "id": 1196,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/black-gloves",
+   "voice": null,
+   "title": "чорні рукавички",
+   "transcription": "[ʈ͡ʂɔrnʲi rukɑvɪʈ͡ʂkɪ]"
+  },
+  {
+   "id": 1197,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sweet-drink",
+   "voice": null,
+   "title": "солодкий напій",
+   "transcription": "[sɔlɔdkɪj nɑpij]"
+  },
+  {
+   "id": 1198,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/hot-soup",
+   "voice": null,
+   "title": "гарячий суп",
+   "transcription": "[ɦɑrʲɑʈ͡ʂɪj sup]"
+  },
+  {
+   "id": 1199,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fast-river",
+   "voice": null,
+   "title": "швидка річка",
+   "transcription": "[ʂvɪdkɑ rʲiʈ͡ʂkɑ]"
+  },
+  {
+   "id": 1200,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/engineering-project",
+   "voice": null,
+   "title": "інженерний проект",
+   "transcription": "[inʐɛnɛrnɪj prɔɛkt]"
+  },
+  {
+   "id": 1201,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/construction-plan",
+   "voice": null,
+   "title": "будівельний план",
+   "transcription": "[budʲivɛlʲnɪj plɑn]"
+  },
+  {
+   "id": 1202,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/medical-consultation",
+   "voice": null,
+   "title": "медична консультація",
+   "transcription": "[mɛdɪʈ͡ʂnɑ kɔnsulʲtɑt͡sʲiɑ]"
+  },
+  {
+   "id": 1203,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/teaching-lecture",
+   "voice": null,
+   "title": "викладацька лекція",
+   "transcription": "[vɪklɑdɑt͡sʲkɑ lɛkt͡sʲiɑ]"
+  },
+  {
+   "id": 1204,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/accounting-report",
+   "voice": null,
+   "title": "бухгалтерський звіт",
+   "transcription": "[buxɦɑltɛrsʲkɪj zvit]"
+  },
+  {
+   "id": 1205,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/legal-advice",
+   "voice": null,
+   "title": "юридична консультація",
+   "transcription": "[jurɪdɪʈ͡ʂnɑ kɔnsulʲtɑt͡sʲiɑ]"
+  },
+  {
+   "id": 1206,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/doctor's-prescription",
+   "voice": null,
+   "title": "лікарський рецепт",
+   "transcription": "[lʲikɑrsʲkɪj rɛt͡sɛpt]"
+  },
+  {
+   "id": 1207,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/computer-code",
+   "voice": null,
+   "title": "комп'ютерний код",
+   "transcription": "[kɔmp'utɛrnɪj kɔd]"
+  },
+  {
+   "id": 1208,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/trade-agreement",
+   "voice": null,
+   "title": "торговий договір",
+   "transcription": "[tɔrɦɔvɪj dɔɦɔvir]"
+  },
+  {
+   "id": 1209,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/culinary-arts",
+   "voice": null,
+   "title": "кулінарне мистецтво",
+   "transcription": "[kulʲinɑrnɛ mɪstɛt͡stvɔ]"
+  },
+  {
+   "id": 1210,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/building-design",
+   "voice": null,
+   "title": "проектування будівель",
+   "transcription": "[prɔɛktuvɑnnʲɑ budʲivɛlʲ]"
+  },
+  {
+   "id": 1211,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/data-processing",
+   "voice": null,
+   "title": "обробка даних",
+   "transcription": "[ɔbrɔbkɑ dɑnɪx]"
+  },
+  {
+   "id": 1212,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/scientific-research",
+   "voice": null,
+   "title": "наукові дослідження",
+   "transcription": "[nɑukɔvi dɔslʲidʐɛnnʲɑ]"
+  },
+  {
+   "id": 1213,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/police-operation",
+   "voice": null,
+   "title": "поліцейська операція",
+   "transcription": "[pɔlʲit͡sɛjsʲkɑ ɔpɛrɑt͡sʲiɑ]"
+  },
+  {
+   "id": 1214,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/car-repair",
+   "voice": null,
+   "title": "ремонт автомобілів",
+   "transcription": "[rɛmɔnt ɑvtɔmɔbilʲiv]"
+  },
+  {
+   "id": 1215,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/quality-control",
+   "voice": null,
+   "title": "контроль якості",
+   "transcription": "[kɔntrɔlʲ ɑkɔstʲi]"
+  },
+  {
+   "id": 1216,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/editorial-edit",
+   "voice": null,
+   "title": "редакторське виправлення",
+   "transcription": "[rɛdɑktɔrsʲkɛ vɪprɑvlɛnnʲɑ]"
+  },
+  {
+   "id": 1217,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/artistic-creativity",
+   "voice": null,
+   "title": "художня творчість",
+   "transcription": "[xudɔʐnʲɑ tvɔrʈ͡ʂistʲ]"
+  },
+  {
+   "id": 1218,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/film-script",
+   "voice": null,
+   "title": "сценарій фільму",
+   "transcription": "[st͡sɛnɑrʲij filʲmu]"
+  },
+  {
+   "id": 1219,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/journalistic-report",
+   "voice": null,
+   "title": "журналістський репортаж",
+   "transcription": "[ʐurnɑlʲistsʲkɪj rɛpɔrtɑʐ]"
+  },
+  {
+   "id": 1220,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/biologist",
+   "voice": null,
+   "title": "вчений-біолог",
+   "transcription": "[vʈ͡ʂɛnɪj-biɔlɔɦ]"
+  },
+  {
+   "id": 1221,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/real-estate-sales",
+   "voice": null,
+   "title": "продаж нерухомості",
+   "transcription": "[prɔdɑʐ nɛruxɔmɔstʲi]"
+  },
+  {
+   "id": 1222,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/legal-documentation",
+   "voice": null,
+   "title": "юридична документація",
+   "transcription": "[jurɪdɪʈ͡ʂnɑ dɔkumɛntɑt͡sʲiɑ]"
+  },
+  {
+   "id": 1223,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/transport-logistics",
+   "voice": null,
+   "title": "транспортна логістика",
+   "transcription": "[trɑnspɔrtnɑ lɔɦistɪkɑ]"
+  },
+  {
+   "id": 1224,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/chemical-analysis",
+   "voice": null,
+   "title": "хімічний аналіз",
+   "transcription": "[ximiʈ͡ʂnɪj ɑnɑlʲiz]"
+  },
+  {
+   "id": 1225,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/banking-transaction",
+   "voice": null,
+   "title": "банківська операція",
+   "transcription": "[bɑnkivsʲkɑ ɔpɛrɑt͡sʲiɑ]"
+  },
+  {
+   "id": 1226,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/primary-school-teacher",
+   "voice": null,
+   "title": "вчитель молодших класів",
+   "transcription": "[vʈ͡ʂɪtɛlʲ mɔlɔdʂɪx klɑsʲiv]"
+  },
+  {
+   "id": 1227,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/electrical-installation-work",
+   "voice": null,
+   "title": "електромонтажні роботи",
+   "transcription": "[ɛlɛktrɔmɔntɑʐnʲi rɔbɔtɪ]"
+  },
+  {
+   "id": 1228,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/interior-designer",
+   "voice": null,
+   "title": "дизайнер інтер'єрів",
+   "transcription": "[dɪzɑjnɛr intɛr'ɛrʲiv]"
+  },
+  {
+   "id": 1229,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/veterinary-care",
+   "voice": null,
+   "title": "ветеринарна допомога",
+   "transcription": "[vɛtɛrɪnɑrnɑ dɔpɔmɔɦɑ]"
+  },
+  {
+   "id": 1230,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/lawyer's-case",
+   "voice": null,
+   "title": "адвокатська справа",
+   "transcription": "[ɑdvɔkɑtsʲkɑ sprɑvɑ]"
+  },
+  {
+   "id": 1231,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/household-appliance-repair",
+   "voice": null,
+   "title": "ремонт побутової техніки",
+   "transcription": "[rɛmɔnt pɔbutɔvɔji tɛxnʲikɪ]"
+  },
+  {
+   "id": 1232,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/scientific-experiments",
+   "voice": null,
+   "title": "наукові експерименти",
+   "transcription": "[nɑukɔvi ɛkspɛrɪmɛntɪ]"
+  },
+  {
+   "id": 1233,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/computer-repair",
+   "voice": null,
+   "title": "ремонт комп'ютерів",
+   "transcription": "[rɛmɔnt kɔmp'utɛrʲiv]"
+  },
+  {
+   "id": 1234,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/medical-diagnostics",
+   "voice": null,
+   "title": "медична діагностика",
+   "transcription": "[mɛdɪʈ͡ʂnɑ dʲiɑɦnɔstɪkɑ]"
+  },
+  {
+   "id": 1235,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/translation-of-technical-texts",
+   "voice": null,
+   "title": "переклад технічних текстів",
+   "transcription": "[pɛrɛklɑd tɛxnʲiʈ͡ʂnɪx tɛkstʲiv]"
+  },
+  {
+   "id": 1236,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/marketing-campaign",
+   "voice": null,
+   "title": "маркетингова кампанія",
+   "transcription": "[mɑrkɛtɪnɦɔvɑ kɑmpɑnʲiɑ]"
+  },
+  {
+   "id": 1237,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/language-teaching",
+   "voice": null,
+   "title": "навчання мов",
+   "transcription": "[nɑvʈ͡ʂɑnnʲɑ mɔv]"
+  },
+  {
+   "id": 1238,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/application-programming",
+   "voice": null,
+   "title": "програмування додатків",
+   "transcription": "[prɔɦrɑmuvɑnnʲɑ dɔdɑtkiv]"
+  },
+  {
+   "id": 1239,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/musical-composition",
+   "voice": null,
+   "title": "музична композиція",
+   "transcription": "[muzɪʈ͡ʂnɑ kɔmpɔzɪt͡sʲiɑ]"
+  },
+  {
+   "id": 1240,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/psychological-assistance",
+   "voice": null,
+   "title": "психологічна допомога",
+   "transcription": "[psɪxɔlɔɦiʈ͡ʂnɑ dɔpɔmɔɦɑ]"
+  },
+  {
+   "id": 1241,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/project-management",
+   "voice": null,
+   "title": "управління проектами",
+   "transcription": "[uprɑvlʲinnʲɑ prɔɛktɑmɪ]"
+  },
+  {
+   "id": 1242,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/legal-advice",
+   "voice": null,
+   "title": "юридична консультація",
+   "transcription": "[jurɪdɪʈ͡ʂnɑ kɔnsulʲtɑt͡sʲiɑ]"
+  },
+  {
+   "id": 1243,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sports-coaching",
+   "voice": null,
+   "title": "спортивне тренерство",
+   "transcription": "[spɔrtɪvnɛ trɛnɛrstvɔ]"
+  },
+  {
+   "id": 1244,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/international-transportation",
+   "voice": null,
+   "title": "міжнародні перевезення",
+   "transcription": "[miʐnɑrɔdnʲi pɛrɛvɛzɛnnʲɑ]"
+  },
+  {
+   "id": 1245,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/architectural-design",
+   "voice": null,
+   "title": "архітектурне проектування",
+   "transcription": "[ɑrxitɛkturnɛ prɔɛktuvɑnnʲɑ]"
+  },
+  {
+   "id": 1246,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/statistical-analytics",
+   "voice": null,
+   "title": "статистична аналітика",
+   "transcription": "[stɑtɪstɪʈ͡ʂnɑ ɑnɑlʲitɪkɑ]"
+  },
+  {
+   "id": 1247,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/web-development",
+   "voice": null,
+   "title": "веб-розробка",
+   "transcription": "[vɛb-rɔzrɔbkɑ]"
+  },
+  {
+   "id": 1248,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/accounting-audit",
+   "voice": null,
+   "title": "бухгалтерський аудит",
+   "transcription": "[buxɦɑltɛrsʲkɪj ɑudɪt]"
+  },
+  {
+   "id": 1249,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/computer-graphics",
+   "voice": null,
+   "title": "комп'ютерна графіка",
+   "transcription": "[kɔmp'utɛrnɑ ɦrɑfikɑ]"
+  },
+  {
+   "id": 1250,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/market-research",
+   "voice": null,
+   "title": "дослідження ринку",
+   "transcription": "[dɔslʲidʐɛnnʲɑ rɪnku]"
+  },
+  {
+   "id": 1251,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/car-sales",
+   "voice": null,
+   "title": "продаж автомобілів",
+   "transcription": "[prɔdɑʐ ɑvtɔmɔbilʲiv]"
+  },
+  {
+   "id": 1252,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/driving-lessons",
+   "voice": null,
+   "title": "навчання водінню",
+   "transcription": "[nɑvʈ͡ʂɑnnʲɑ vɔdʲinnʲu]"
+  },
+  {
+   "id": 1253,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/personnel-management",
+   "voice": null,
+   "title": "управління персоналом",
+   "transcription": "[uprɑvlʲinnʲɑ pɛrsɔnɑlɔm]"
+  },
+  {
+   "id": 1254,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/equipment-operation",
+   "voice": null,
+   "title": "експлуатація обладнання",
+   "transcription": "[ɛkspluɑtɑt͡sʲiɑ ɔblɑdnɑnnʲɑ]"
+  },
+  {
+   "id": 1255,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/medical-equipment",
+   "voice": null,
+   "title": "медичне обладнання",
+   "transcription": "[mɛdɪʈ͡ʂnɛ ɔblɑdnɑnnʲɑ]"
+  },
+  {
+   "id": 1256,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/labor-protection",
+   "voice": null,
+   "title": "охорона праці",
+   "transcription": "[ɔxɔrɔnɑ prɑt͡sʲi]"
+  },
+  {
+   "id": 1257,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/video-editing",
+   "voice": null,
+   "title": "монтаж відео",
+   "transcription": "[mɔntɑʐ vidɛɔ]"
+  },
+  {
+   "id": 1258,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/staff-training",
+   "voice": null,
+   "title": "навчання персоналу",
+   "transcription": "[nɑvʈ͡ʂɑnnʲɑ pɛrsɔnɑlu]"
+  },
+  {
+   "id": 1259,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/agronomic-research",
+   "voice": null,
+   "title": "агрономічне дослідження",
+   "transcription": "[ɑɦrɔnɔmiʈ͡ʂnɛ dɔslʲidʐɛnnʲɑ]"
+  },
+  {
+   "id": 1260,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/architectural-model",
+   "voice": null,
+   "title": "архітектурна модель",
+   "transcription": "[ɑrxitɛkturnɑ mɔdɛlʲ]"
+  },
+  {
+   "id": 1261,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/event-organization",
+   "voice": null,
+   "title": "організація заходів",
+   "transcription": "[ɔrɦɑnʲizɑt͡sʲiɑ zɑxɔdʲiv]"
+  },
+  {
+   "id": 1262,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/dance-studio",
+   "voice": null,
+   "title": "танцювальна студія",
+   "transcription": "[tɑnt͡sʲuvɑlʲnɑ studʲiɑ]"
+  },
+  {
+   "id": 1263,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/film-directing",
+   "voice": null,
+   "title": "режисура фільму",
+   "transcription": "[rɛʐɪsurɑ filʲmu]"
+  },
+  {
+   "id": 1264,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/creation-of-commercials",
+   "voice": null,
+   "title": "створення рекламних роликів",
+   "transcription": "[stvɔrɛnnʲɑ rɛklɑmnɪx rɔlɪkiv]"
+  },
+  {
+   "id": 1265,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/music-teaching",
+   "voice": null,
+   "title": "викладання музики",
+   "transcription": "[vɪklɑdɑnnʲɑ muzɪkɪ]"
+  },
+  {
+   "id": 1266,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/furniture-restoration",
+   "voice": null,
+   "title": "реставрація меблів",
+   "transcription": "[rɛstɑvrɑt͡sʲiɑ mɛblʲiv]"
+  },
+  {
+   "id": 1267,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/plumbing-work",
+   "voice": null,
+   "title": "сантехнічні роботи",
+   "transcription": "[sɑntɛxnʲiʈ͡ʂnʲi rɔbɔtɪ]"
+  },
+  {
+   "id": 1268,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/law-enforcement",
+   "voice": null,
+   "title": "охорона правопорядку",
+   "transcription": "[ɔxɔrɔnɑ prɑvɔpɔrʲɑdku]"
+  },
+  {
+   "id": 1269,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/logistics-support",
+   "voice": null,
+   "title": "логістичне супроводження",
+   "transcription": "[lɔɦistɪʈ͡ʂnɛ suprɔvɔdʐɛnnʲɑ]"
+  },
+  {
+   "id": 1270,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/architectural-bureau",
+   "voice": null,
+   "title": "архітектурне бюро",
+   "transcription": "[ɑrxitɛkturnɛ burɔ]"
+  },
+  {
+   "id": 1271,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/pharmaceutical-plant",
+   "voice": null,
+   "title": "фармацевтичний завод",
+   "transcription": "[fɑrmɑt͡sɛvtɪʈ͡ʂnɪj zɑvɔd]"
+  },
+  {
+   "id": 1272,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/customer-service",
+   "voice": null,
+   "title": "обслуговування клієнтів",
+   "transcription": "[ɔbsluɦɔvuvɑnnʲɑ klʲiɛntʲiv]"
+  },
+  {
+   "id": 1273,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/server-administration",
+   "voice": null,
+   "title": "адміністрування серверів",
+   "transcription": "[ɑdminʲistruvɑnnʲɑ sɛrvɛrʲiv]"
+  },
+  {
+   "id": 1274,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/website-creation",
+   "voice": null,
+   "title": "створення веб-сайтів",
+   "transcription": "[stvɔrɛnnʲɑ vɛb-sɑjtʲiv]"
+  },
+  {
+   "id": 1275,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/clothing-production",
+   "voice": null,
+   "title": "виробництво одягу",
+   "transcription": "[vɪrɔbnɪt͡stvɔ ɔdʲɑɦu]"
+  },
+  {
+   "id": 1276,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/work-with-clients",
+   "voice": null,
+   "title": "робота з клієнтами",
+   "transcription": "[rɔbɔtɑ z klʲiɛntɑmɪ]"
+  },
+  {
+   "id": 1277,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/warehouse-operations",
+   "voice": null,
+   "title": "складські операції",
+   "transcription": "[sklɑdsʲki ɔpɛrɑt͡sʲiji]"
+  },
+  {
+   "id": 1278,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/excavation-work",
+   "voice": null,
+   "title": "екскаваторні роботи",
+   "transcription": "[ɛkskɑvɑtɔrnʲi rɔbɔtɪ]"
+  },
+  {
+   "id": 1279,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/process-management",
+   "voice": null,
+   "title": "управління процесами",
+   "transcription": "[uprɑvlʲinnʲɑ prɔt͡sɛsɑmɪ]"
+  },
+  {
+   "id": 1280,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/installation-of-air-conditioners",
+   "voice": null,
+   "title": "монтаж кондиціонерів",
+   "transcription": "[mɔntɑʐ kɔndɪt͡sʲiɔnɛrʲiv]"
+  },
+  {
+   "id": 1281,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fire-safety",
+   "voice": null,
+   "title": "пожежна безпека",
+   "transcription": "[pɔʐɛʐnɑ bɛzpɛkɑ]"
+  },
+  {
+   "id": 1282,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/logistics-company",
+   "voice": null,
+   "title": "логістична компанія",
+   "transcription": "[lɔɦistɪʈ͡ʂnɑ kɔmpɑnʲiɑ]"
+  },
+  {
+   "id": 1283,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/chemical-laboratory",
+   "voice": null,
+   "title": "хімічна лабораторія",
+   "transcription": "[ximiʈ͡ʂnɑ lɑbɔrɑtɔrʲiɑ]"
+  },
+  {
+   "id": 1284,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/agricultural-technologies",
+   "voice": null,
+   "title": "аграрні технології",
+   "transcription": "[ɑɦrɑrnʲi tɛxnɔlɔɦiji]"
+  },
+  {
+   "id": 1285,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/medical-rehabilitation",
+   "voice": null,
+   "title": "медична реабілітація",
+   "transcription": "[mɛdɪʈ͡ʂnɑ rɛɑbilʲitɑt͡sʲiɑ]"
+  },
+  {
+   "id": 1286,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/marketing-agency",
+   "voice": null,
+   "title": "маркетингове агентство",
+   "transcription": "[mɑrkɛtɪnɦɔvɛ ɑɦɛntstvɔ]"
+  },
+  {
+   "id": 1287,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/architectural-design",
+   "voice": null,
+   "title": "архітектурне проектування",
+   "transcription": "[ɑrxitɛkturnɛ prɔɛktuvɑnnʲɑ]"
+  },
+  {
+   "id": 1288,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/photographic-service",
+   "voice": null,
+   "title": "фотографічний сервіс",
+   "transcription": "[fɔtɔɦrɑfiʈ͡ʂnɪj sɛrvis]"
+  },
+  {
+   "id": 1289,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/veterinary-clinic",
+   "voice": null,
+   "title": "ветеринарна клініка",
+   "transcription": "[vɛtɛrɪnɑrnɑ klʲinʲikɑ]"
+  },
+  {
+   "id": 1290,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/metal-production",
+   "voice": null,
+   "title": "виробництво металів",
+   "transcription": "[vɪrɔbnɪt͡stvɔ mɛtɑlʲiv]"
+  },
+  {
+   "id": 1291,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/aerospace-manufacturing",
+   "voice": null,
+   "title": "аерокосмічне виробництво",
+   "transcription": "[ɑɛrɔkɔsmiʈ͡ʂnɛ vɪrɔbnɪt͡stvɔ]"
+  },
+  {
+   "id": 1292,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/working-with-materials",
+   "voice": null,
+   "title": "робота з матеріалами",
+   "transcription": "[rɔbɔtɑ z mɑtɛrʲiɑlɑmɪ]"
+  },
+  {
+   "id": 1293,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/development-of-new-technologies",
+   "voice": null,
+   "title": "розробка нових технологій",
+   "transcription": "[rɔzrɔbkɑ nɔvɪx tɛxnɔlɔɦij]"
+  },
+  {
+   "id": 1294,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/work-in-production",
+   "voice": null,
+   "title": "робота на виробництві",
+   "transcription": "[rɔbɔtɑ nɑ vɪrɔbnɪt͡stvi]"
+  },
+  {
+   "id": 1295,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/transport-management",
+   "voice": null,
+   "title": "керування транспортом",
+   "transcription": "[kɛruvɑnnʲɑ trɑnspɔrtɔm]"
+  },
+  {
+   "id": 1296,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/shipbuilding",
+   "voice": null,
+   "title": "суднобудування",
+   "transcription": "[sudnɔbuduvɑnnʲɑ]"
+  },
+  {
+   "id": 1297,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/mineral-extraction",
+   "voice": null,
+   "title": "екстракція корисних копалин",
+   "transcription": "[ɛkstrɑkt͡sʲiɑ kɔrɪsnɪx kɔpɑlɪn]"
+  },
+  {
+   "id": 1298,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/water-management",
+   "voice": null,
+   "title": "управління водними ресурсами",
+   "transcription": "[uprɑvlʲinnʲɑ vɔdnɪmɪ rɛsursɑmɪ]"
+  },
+  {
+   "id": 1299,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/architectural-design",
+   "voice": null,
+   "title": "архітектурний дизайн",
+   "transcription": "[ɑrxitɛkturnɪj dɪzɑjn]"
   }
  ]
 }
