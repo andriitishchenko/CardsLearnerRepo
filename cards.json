@@ -1,1286 +1,3686 @@
 {
-  "version": 1,
-  "lang": "en",
-  "list": [
-    {
-      "categoryId": 1,
-      "title": "Father",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/1.png",
-      "voice": "",
-      "transcription": "[\u02c8f\u0251\u02d0\u00f0\u0259r]",
-      "id": 1
-    },
-    {
-      "categoryId": 1,
-      "title": "Mother",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/2.png",
-      "voice": "",
-      "transcription": "[\u02c8m\u028c\u00f0\u0259r]",
-      "id": 2
-    },
-    {
-      "categoryId": 1,
-      "title": "Brother",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/3.png",
-      "voice": "",
-      "transcription": "[\u02c8br\u028c\u00f0\u0259r]",
-      "id": 3
-    },
-    {
-      "categoryId": 1,
-      "title": "Sister",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/4.png",
-      "voice": "",
-      "transcription": "[\u02c8s\u026ast\u0259r]",
-      "id": 4
-    },
-    {
-      "categoryId": 1,
-      "title": "Child",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/5.png",
-      "voice": "",
-      "transcription": "[t\u0283a\u026ald]",
-      "id": 5
-    },
-    {
-      "categoryId": 1,
-      "title": "Grandmother",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/6.png",
-      "voice": "",
-      "transcription": "[\u02c8\u0261r\u00e6nm\u028c\u00f0\u0259r]",
-      "id": 6
-    },
-    {
-      "categoryId": 1,
-      "title": "Grandfather",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/7.png",
-      "voice": "",
-      "transcription": "[\u02c8\u0261r\u00e6nf\u0251\u02d0\u00f0\u0259r]",
-      "id": 7
-    },
-    {
-      "categoryId": 1,
-      "title": "Uncle",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/8.png",
-      "voice": "",
-      "transcription": "[\u02c8\u028c\u014bkl]",
-      "id": 8
-    },
-    {
-      "categoryId": 1,
-      "title": "Aunt",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/9.png",
-      "voice": "",
-      "transcription": "[\u00e6nt]",
-      "id": 9
-    },
-    {
-      "categoryId": 1,
-      "title": "Cousin",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/10.png",
-      "voice": "",
-      "transcription": "[\u02c8k\u028cz\u026an]",
-      "id": 10
-    },
-    {
-      "categoryId": 2,
-      "title": "Plate",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/11.png",
-      "voice": "",
-      "transcription": "[ple\u026at]",
-      "id": 11
-    },
-    {
-      "categoryId": 2,
-      "title": "Cup",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/12.png",
-      "voice": "",
-      "transcription": "[k\u028cp]",
-      "id": 12
-    },
-    {
-      "categoryId": 2,
-      "title": "Fork",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/13.png",
-      "voice": "",
-      "transcription": "[f\u0254\u02d0rk]",
-      "id": 13
-    },
-    {
-      "categoryId": 2,
-      "title": "Knife",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/14.png",
-      "voice": "",
-      "transcription": "[na\u026af]",
-      "id": 14
-    },
-    {
-      "categoryId": 2,
-      "title": "Spoon",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/15.png",
-      "voice": "",
-      "transcription": "[spu\u02d0n]",
-      "id": 15
-    },
-    {
-      "categoryId": 2,
-      "title": "Pan",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/16.png",
-      "voice": "",
-      "transcription": "[p\u00e6n]",
-      "id": 16
-    },
-    {
-      "categoryId": 2,
-      "title": "Stove",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/17.png",
-      "voice": "",
-      "transcription": "[sto\u028av]",
-      "id": 17
-    },
-    {
-      "categoryId": 2,
-      "title": "Refrigerator",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/18.png",
-      "voice": "",
-      "transcription": "[r\u026a\u02c8fr\u026ad\u0292\u0259re\u026at\u0259r]",
-      "id": 18
-    },
-    {
-      "categoryId": 2,
-      "title": "Microwave",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/19.png",
-      "voice": "",
-      "transcription": "[\u02c8ma\u026akr\u0259\u02ccwe\u026av]",
-      "id": 19
-    },
-    {
-      "categoryId": 2,
-      "title": "Sink",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/20.png",
-      "voice": "",
-      "transcription": "[s\u026a\u014bk]",
-      "id": 20
-    },
-    {
-      "categoryId": 3,
-      "title": "Airport",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/21.png",
-      "voice": "",
-      "transcription": "[\u02c8\u025b\u0259rp\u0254\u02d0rt]",
-      "id": 21
-    },
-    {
-      "categoryId": 3,
-      "title": "Passport",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/22.png",
-      "voice": "",
-      "transcription": "[\u02c8p\u00e6sp\u0254\u02d0rt]",
-      "id": 22
-    },
-    {
-      "categoryId": 3,
-      "title": "Luggage",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/23.png",
-      "voice": "",
-      "transcription": "[\u02c8l\u028c\u0261\u026ad\u0292]",
-      "id": 23
-    },
-    {
-      "categoryId": 3,
-      "title": "Ticket",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/24.png",
-      "voice": "",
-      "transcription": "[\u02c8t\u026ak\u026at]",
-      "id": 24
-    },
-    {
-      "categoryId": 3,
-      "title": "Flight",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/25.png",
-      "voice": "",
-      "transcription": "[fla\u026at]",
-      "id": 25
-    },
-    {
-      "categoryId": 3,
-      "title": "Hotel",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/26.png",
-      "voice": "",
-      "transcription": "[ho\u028a\u02c8t\u025bl]",
-      "id": 26
-    },
-    {
-      "categoryId": 3,
-      "title": "Taxi",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/27.png",
-      "voice": "",
-      "transcription": "[\u02c8t\u00e6ksi]",
-      "id": 27
-    },
-    {
-      "categoryId": 3,
-      "title": "Train",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/28.png",
-      "voice": "",
-      "transcription": "[tre\u026an]",
-      "id": 28
-    },
-    {
-      "categoryId": 3,
-      "title": "Bus",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/29.png",
-      "voice": "",
-      "transcription": "[b\u028cs]",
-      "id": 29
-    },
-    {
-      "categoryId": 3,
-      "title": "Map",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/30.png",
-      "voice": "",
-      "transcription": "[m\u00e6p]",
-      "id": 30
-    },
-    {
-      "categoryId": 4,
-      "title": "Dog",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/31.png",
-      "voice": "",
-      "transcription": "[d\u0254\u02d0\u0261]",
-      "id": 31
-    },
-    {
-      "categoryId": 4,
-      "title": "Cat",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/32.png",
-      "voice": "",
-      "transcription": "[k\u00e6t]",
-      "id": 32
-    },
-    {
-      "categoryId": 4,
-      "title": "Elephant",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/33.png",
-      "voice": "",
-      "transcription": "[\u02c8\u025bl\u026af\u0259nt]",
-      "id": 33
-    },
-    {
-      "categoryId": 4,
-      "title": "Tiger",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/34.png",
-      "voice": "",
-      "transcription": "[\u02c8ta\u026a\u0261\u0259r]",
-      "id": 34
-    },
-    {
-      "categoryId": 4,
-      "title": "Lion",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/35.png",
-      "voice": "",
-      "transcription": "[\u02c8la\u026a\u0259n]",
-      "id": 35
-    },
-    {
-      "categoryId": 4,
-      "title": "Bird",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/36.png",
-      "voice": "",
-      "transcription": "[b\u025c\u02d0rd]",
-      "id": 36
-    },
-    {
-      "categoryId": 4,
-      "title": "Fish",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/37.png",
-      "voice": "",
-      "transcription": "[f\u026a\u0283]",
-      "id": 37
-    },
-    {
-      "categoryId": 4,
-      "title": "Horse",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/38.png",
-      "voice": "",
-      "transcription": "[h\u0254\u02d0rs]",
-      "id": 38
-    },
-    {
-      "categoryId": 4,
-      "title": "Cow",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/39.png",
-      "voice": "",
-      "transcription": "[ka\u028a]",
-      "id": 39
-    },
-    {
-      "categoryId": 4,
-      "title": "Monkey",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/40.png",
-      "voice": "",
-      "transcription": "[\u02c8m\u028c\u014bki]",
-      "id": 40
-    },
-    {
-      "categoryId": 5,
-      "title": "Red",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/41.png",
-      "voice": "",
-      "transcription": "[r\u025bd]",
-      "id": 41
-    },
-    {
-      "categoryId": 5,
-      "title": "Blue",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/42.png",
-      "voice": "",
-      "transcription": "[blu\u02d0]",
-      "id": 42
-    },
-    {
-      "categoryId": 5,
-      "title": "Green",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/43.png",
-      "voice": "",
-      "transcription": "[\u0261ri\u02d0n]",
-      "id": 43
-    },
-    {
-      "categoryId": 5,
-      "title": "Yellow",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/44.png",
-      "voice": "",
-      "transcription": "[\u02c8j\u025blo\u028a]",
-      "id": 44
-    },
-    {
-      "categoryId": 5,
-      "title": "Black",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/45.png",
-      "voice": "",
-      "transcription": "[bl\u00e6k]",
-      "id": 45
-    },
-    {
-      "categoryId": 5,
-      "title": "White",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/46.png",
-      "voice": "",
-      "transcription": "[wa\u026at]",
-      "id": 46
-    },
-    {
-      "categoryId": 5,
-      "title": "Purple",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/47.png",
-      "voice": "",
-      "transcription": "[\u02c8p\u025c\u02d0rp\u0259l]",
-      "id": 47
-    },
-    {
-      "categoryId": 5,
-      "title": "Orange",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/48.png",
-      "voice": "",
-      "transcription": "[\u02c8\u0254\u02d0r\u026and\u0292]",
-      "id": 48
-    },
-    {
-      "categoryId": 5,
-      "title": "Pink",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/49.png",
-      "voice": "",
-      "transcription": "[p\u026a\u014bk]",
-      "id": 49
-    },
-    {
-      "categoryId": 5,
-      "title": "Brown",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/50.png",
-      "voice": "",
-      "transcription": "[bra\u028an]",
-      "id": 50
-    },
-    {
-      "categoryId": 6,
-      "title": "Apple",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/51.png",
-      "voice": "",
-      "transcription": "[\u02c8\u00e6p\u0259l]",
-      "id": 51
-    },
-    {
-      "categoryId": 6,
-      "title": "Banana",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/52.png",
-      "voice": "",
-      "transcription": "[b\u0259\u02c8n\u00e6n\u0259]",
-      "id": 52
-    },
-    {
-      "categoryId": 6,
-      "title": "Bread",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/53.png",
-      "voice": "",
-      "transcription": "[br\u025bd]",
-      "id": 53
-    },
-    {
-      "categoryId": 6,
-      "title": "Cheese",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/54.png",
-      "voice": "",
-      "transcription": "[t\u0283i\u02d0z]",
-      "id": 54
-    },
-    {
-      "categoryId": 6,
-      "title": "Egg",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/55.png",
-      "voice": "",
-      "transcription": "[\u025b\u0261]",
-      "id": 55
-    },
-    {
-      "categoryId": 6,
-      "title": "Fish",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/56.png",
-      "voice": "",
-      "transcription": "[f\u026a\u0283]",
-      "id": 56
-    },
-    {
-      "categoryId": 6,
-      "title": "Meat",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/57.png",
-      "voice": "",
-      "transcription": "[mi\u02d0t]",
-      "id": 57
-    },
-    {
-      "categoryId": 6,
-      "title": "Rice",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/58.png",
-      "voice": "",
-      "transcription": "[ra\u026as]",
-      "id": 58
-    },
-    {
-      "categoryId": 6,
-      "title": "Soup",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/59.png",
-      "voice": "",
-      "transcription": "[su\u02d0p]",
-      "id": 59
-    },
-    {
-      "categoryId": 6,
-      "title": "Vegetables",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/60.png",
-      "voice": "",
-      "transcription": "[\u02c8v\u025bd\u0292t\u0259blz]",
-      "id": 60
-    },
-    {
-      "categoryId": 7,
-      "title": "Shirt",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/61.png",
-      "voice": "",
-      "transcription": "[\u0283\u025c\u02d0rt]",
-      "id": 61
-    },
-    {
-      "categoryId": 7,
-      "title": "Pants",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/62.png",
-      "voice": "",
-      "transcription": "[p\u00e6nts]",
-      "id": 62
-    },
-    {
-      "categoryId": 7,
-      "title": "Jacket",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/63.png",
-      "voice": "",
-      "transcription": "[\u02c8d\u0292\u00e6k\u026at]",
-      "id": 63
-    },
-    {
-      "categoryId": 7,
-      "title": "Dress",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/64.png",
-      "voice": "",
-      "transcription": "[dr\u025bs]",
-      "id": 64
-    },
-    {
-      "categoryId": 7,
-      "title": "Shoes",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/65.png",
-      "voice": "",
-      "transcription": "[\u0283u\u02d0z]",
-      "id": 65
-    },
-    {
-      "categoryId": 7,
-      "title": "Hat",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/66.png",
-      "voice": "",
-      "transcription": "[h\u00e6t]",
-      "id": 66
-    },
-    {
-      "categoryId": 7,
-      "title": "Scarf",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/67.png",
-      "voice": "",
-      "transcription": "[sk\u0251\u02d0rf]",
-      "id": 67
-    },
-    {
-      "categoryId": 7,
-      "title": "Gloves",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/68.png",
-      "voice": "",
-      "transcription": "[\u0261l\u028cvz]",
-      "id": 68
-    },
-    {
-      "categoryId": 7,
-      "title": "Socks",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/69.png",
-      "voice": "",
-      "transcription": "[s\u0251\u02d0ks]",
-      "id": 69
-    },
-    {
-      "categoryId": 7,
-      "title": "Skirt",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/70.png",
-      "voice": "",
-      "transcription": "[sk\u025c\u02d0rt]",
-      "id": 70
-    },
-    {
-      "categoryId": 8,
-      "title": "Book",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/71.png",
-      "voice": "",
-      "transcription": "[b\u028ak]",
-      "id": 71
-    },
-    {
-      "categoryId": 8,
-      "title": "Pencil",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/72.png",
-      "voice": "",
-      "transcription": "[\u02c8p\u025bns\u0259l]",
-      "id": 72
-    },
-    {
-      "categoryId": 8,
-      "title": "Pen",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/73.png",
-      "voice": "",
-      "transcription": "[p\u025bn]",
-      "id": 73
-    },
-    {
-      "categoryId": 8,
-      "title": "Eraser",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/74.png",
-      "voice": "",
-      "transcription": "[\u026a\u02c8re\u026as\u0259r]",
-      "id": 74
-    },
-    {
-      "categoryId": 8,
-      "title": "Notebook",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/75.png",
-      "voice": "",
-      "transcription": "[\u02c8no\u028atb\u028ak]",
-      "id": 75
-    },
-    {
-      "categoryId": 8,
-      "title": "Desk",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/76.png",
-      "voice": "",
-      "transcription": "[d\u025bsk]",
-      "id": 76
-    },
-    {
-      "categoryId": 8,
-      "title": "Chair",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/77.png",
-      "voice": "",
-      "transcription": "[\u02a7\u025br]",
-      "id": 77
-    },
-    {
-      "categoryId": 8,
-      "title": "Teacher",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/78.png",
-      "voice": "",
-      "transcription": "[\u02c8ti\u02d0\u02a7\u0259r]",
-      "id": 78
-    },
-    {
-      "categoryId": 8,
-      "title": "Student",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/79.png",
-      "voice": "",
-      "transcription": "[\u02c8stu\u02d0d\u0259nt]",
-      "id": 79
-    },
-    {
-      "categoryId": 8,
-      "title": "Ruler",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/80.png",
-      "voice": "",
-      "transcription": "[\u02c8ru\u02d0l\u0259r]",
-      "id": 80
-    },
-    {
-      "categoryId": 9,
-      "title": "Soccer",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/81.png",
-      "voice": "",
-      "transcription": "[\u02c8s\u0252k\u0259r]",
-      "id": 81
-    },
-    {
-      "categoryId": 9,
-      "title": "Basketball",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/82.png",
-      "voice": "",
-      "transcription": "[\u02c8b\u00e6sk\u026atb\u0254\u02d0l]",
-      "id": 82
-    },
-    {
-      "categoryId": 9,
-      "title": "Tennis",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/83.png",
-      "voice": "",
-      "transcription": "[\u02c8t\u025bn\u026as]",
-      "id": 83
-    },
-    {
-      "categoryId": 9,
-      "title": "Baseball",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/84.png",
-      "voice": "",
-      "transcription": "[\u02c8be\u026asb\u0254\u02d0l]",
-      "id": 84
-    },
-    {
-      "categoryId": 9,
-      "title": "Swimming",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/85.png",
-      "voice": "",
-      "transcription": "[\u02c8sw\u026am\u026a\u014b]",
-      "id": 85
-    },
-    {
-      "categoryId": 9,
-      "title": "Running",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/86.png",
-      "voice": "",
-      "transcription": "[\u02c8r\u028cn\u026a\u014b]",
-      "id": 86
-    },
-    {
-      "categoryId": 9,
-      "title": "Cycling",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/87.png",
-      "voice": "",
-      "transcription": "[\u02c8sa\u026akl\u026a\u014b]",
-      "id": 87
-    },
-    {
-      "categoryId": 9,
-      "title": "Golf",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/88.png",
-      "voice": "",
-      "transcription": "[\u0261\u0252lf]",
-      "id": 88
-    },
-    {
-      "categoryId": 9,
-      "title": "Boxing",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/89.png",
-      "voice": "",
-      "transcription": "[\u02c8b\u0252ks\u026a\u014b]",
-      "id": 89
-    },
-    {
-      "categoryId": 9,
-      "title": "Volleyball",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/90.png",
-      "voice": "",
-      "transcription": "[\u02c8v\u0252lib\u0254\u02d0l]",
-      "id": 90
-    },
-    {
-      "categoryId": 10,
-      "title": "Computer",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/91.png",
-      "voice": "",
-      "transcription": "[k\u0259m\u02c8pju\u02d0t\u0259r]",
-      "id": 91
-    },
-    {
-      "categoryId": 10,
-      "title": "Phone",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/92.png",
-      "voice": "",
-      "transcription": "[fo\u028an]",
-      "id": 92
-    },
-    {
-      "categoryId": 10,
-      "title": "Tablet",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/93.png",
-      "voice": "",
-      "transcription": "[\u02c8t\u00e6bl\u026at]",
-      "id": 93
-    },
-    {
-      "categoryId": 10,
-      "title": "Laptop",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/94.png",
-      "voice": "",
-      "transcription": "[\u02c8l\u00e6pt\u0252p]",
-      "id": 94
-    },
-    {
-      "categoryId": 10,
-      "title": "Keyboard",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/95.png",
-      "voice": "",
-      "transcription": "[\u02c8ki\u02d0b\u0254\u02d0rd]",
-      "id": 95
-    },
-    {
-      "categoryId": 10,
-      "title": "Mouse",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/96.png",
-      "voice": "",
-      "transcription": "[ma\u028as]",
-      "id": 96
-    },
-    {
-      "categoryId": 10,
-      "title": "Printer",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/97.png",
-      "voice": "",
-      "transcription": "[\u02c8pr\u026ant\u0259r]",
-      "id": 97
-    },
-    {
-      "categoryId": 10,
-      "title": "Monitor",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/98.png",
-      "voice": "",
-      "transcription": "[\u02c8m\u0252n\u026at\u0259r]",
-      "id": 98
-    },
-    {
-      "categoryId": 10,
-      "title": "Headphones",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/99.png",
-      "voice": "",
-      "transcription": "[\u02c8h\u025bd\u02ccfo\u028anz]",
-      "id": 99
-    },
-    {
-      "categoryId": 10,
-      "title": "Camera",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/100.png",
-      "voice": "",
-      "transcription": "[\u02c8k\u00e6mr\u0259]",
-      "id": 100
-    },
-    {
-      "categoryId": 11,
-      "title": "Happiness",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/101.png",
-      "voice": "",
-      "transcription": "[\u02c8h\u00e6p\u026an\u026as]",
-      "id": 101
-    },
-    {
-      "categoryId": 11,
-      "title": "Sadness",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/102.png",
-      "voice": "",
-      "transcription": "[\u02c8s\u00e6dn\u026as]",
-      "id": 102
-    },
-    {
-      "categoryId": 11,
-      "title": "Anger",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/103.png",
-      "voice": "",
-      "transcription": "[\u02c8\u00e6\u014b\u0261\u0259r]",
-      "id": 103
-    },
-    {
-      "categoryId": 11,
-      "title": "Fear",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/104.png",
-      "voice": "",
-      "transcription": "[f\u026a\u0259r]",
-      "id": 104
-    },
-    {
-      "categoryId": 11,
-      "title": "Love",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/105.png",
-      "voice": "",
-      "transcription": "[l\u028cv]",
-      "id": 105
-    },
-    {
-      "categoryId": 11,
-      "title": "Jealousy",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/106.png",
-      "voice": "",
-      "transcription": "[\u02c8\u02a4\u025bl\u0259si]",
-      "id": 106
-    },
-    {
-      "categoryId": 11,
-      "title": "Excitement",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/107.png",
-      "voice": "",
-      "transcription": "[\u026ak\u02c8sa\u026atm\u0259nt]",
-      "id": 107
-    },
-    {
-      "categoryId": 11,
-      "title": "Surprise",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/108.png",
-      "voice": "",
-      "transcription": "[s\u0259r\u02c8pra\u026az]",
-      "id": 108
-    },
-    {
-      "categoryId": 11,
-      "title": "Disgust",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/109.png",
-      "voice": "",
-      "transcription": "[d\u026as\u02c8\u0261\u028cst]",
-      "id": 109
-    },
-    {
-      "categoryId": 11,
-      "title": "Confusion",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/110.png",
-      "voice": "",
-      "transcription": "[k\u0259n\u02c8fju\u02d0\u0292\u0259n]",
-      "id": 110
-    },
-    {
-      "categoryId": 12,
-      "title": "Morning",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/111.png",
-      "voice": "",
-      "transcription": "[\u02c8m\u0254\u02d0rn\u026a\u014b]",
-      "id": 111
-    },
-    {
-      "categoryId": 12,
-      "title": "Afternoon",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/112.png",
-      "voice": "",
-      "transcription": "[\u02cc\u00e6ft\u0259r\u02c8nu\u02d0n]",
-      "id": 112
-    },
-    {
-      "categoryId": 12,
-      "title": "Evening",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/113.png",
-      "voice": "",
-      "transcription": "[\u02c8i\u02d0vn\u026a\u014b]",
-      "id": 113
-    },
-    {
-      "categoryId": 12,
-      "title": "Night",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/114.png",
-      "voice": "",
-      "transcription": "[na\u026at]",
-      "id": 114
-    },
-    {
-      "categoryId": 12,
-      "title": "Day",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/115.png",
-      "voice": "",
-      "transcription": "[de\u026a]",
-      "id": 115
-    },
-    {
-      "categoryId": 12,
-      "title": "Week",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/116.png",
-      "voice": "",
-      "transcription": "[wi\u02d0k]",
-      "id": 116
-    },
-    {
-      "categoryId": 12,
-      "title": "Month",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/117.png",
-      "voice": "",
-      "transcription": "[m\u028cn\u03b8]",
-      "id": 117
-    },
-    {
-      "categoryId": 12,
-      "title": "Year",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/118.png",
-      "voice": "",
-      "transcription": "[j\u026a\u0259r]",
-      "id": 118
-    },
-    {
-      "categoryId": 12,
-      "title": "Yesterday",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/119.png",
-      "voice": "",
-      "transcription": "[\u02c8j\u025bst\u0259r\u02ccde\u026a]",
-      "id": 119
-    },
-    {
-      "categoryId": 12,
-      "title": "Tomorrow",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/120.png",
-      "voice": "",
-      "transcription": "[t\u0259\u02c8m\u0254\u02d0ro\u028a]",
-      "id": 120
-    },
-    {
-      "categoryId": 13,
-      "title": "Brave",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/121.png",
-      "voice": "",
-      "transcription": "[bre\u026av]",
-      "id": 121
-    },
-    {
-      "categoryId": 13,
-      "title": "Kind",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/122.png",
-      "voice": "",
-      "transcription": "[ka\u026and]",
-      "id": 122
-    },
-    {
-      "categoryId": 13,
-      "title": "Clever",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/123.png",
-      "voice": "",
-      "transcription": "[\u02c8kl\u025bv\u0259r]",
-      "id": 123
-    },
-    {
-      "categoryId": 13,
-      "title": "Funny",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/124.png",
-      "voice": "",
-      "transcription": "[\u02c8f\u028cni]",
-      "id": 124
-    },
-    {
-      "categoryId": 13,
-      "title": "Lazy",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/125.png",
-      "voice": "",
-      "transcription": "[\u02c8le\u026azi]",
-      "id": 125
-    },
-    {
-      "categoryId": 13,
-      "title": "Honest",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/126.png",
-      "voice": "",
-      "transcription": "[\u02c8\u0252n\u026ast]",
-      "id": 126
-    },
-    {
-      "categoryId": 13,
-      "title": "Shy",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/127.png",
-      "voice": "",
-      "transcription": "[\u0283a\u026a]",
-      "id": 127
-    },
-    {
-      "categoryId": 13,
-      "title": "Serious",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/128.png",
-      "voice": "",
-      "transcription": "[\u02c8s\u026a\u0259r\u026a\u0259s]",
-      "id": 128
-    },
-    {
-      "categoryId": 13,
-      "title": "Generous",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/129.png",
-      "voice": "",
-      "transcription": "[\u02c8\u02a4\u025bn\u0259r\u0259s]",
-      "id": 129
-    },
-    {
-      "categoryId": 13,
-      "title": "Confident",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/130.png",
-      "voice": "",
-      "transcription": "[\u02c8k\u0252nf\u026ad\u0259nt]",
-      "id": 130
-    },
-    {
-      "categoryId": 14,
-      "title": "Big",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/131.png",
-      "voice": "",
-      "transcription": "[b\u026a\u0261]",
-      "id": 131
-    },
-    {
-      "categoryId": 14,
-      "title": "Small",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/132.png",
-      "voice": "",
-      "transcription": "[sm\u0254\u02d0l]",
-      "id": 132
-    },
-    {
-      "categoryId": 14,
-      "title": "Fast",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/133.png",
-      "voice": "",
-      "transcription": "[f\u0251\u02d0st]",
-      "id": 133
-    },
-    {
-      "categoryId": 14,
-      "title": "Slow",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/134.png",
-      "voice": "",
-      "transcription": "[slo\u028a]",
-      "id": 134
-    },
-    {
-      "categoryId": 14,
-      "title": "Hot",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/135.png",
-      "voice": "",
-      "transcription": "[h\u0252t]",
-      "id": 135
-    },
-    {
-      "categoryId": 14,
-      "title": "Cold",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/136.png",
-      "voice": "",
-      "transcription": "[ko\u028ald]",
-      "id": 136
-    },
-    {
-      "categoryId": 14,
-      "title": "Good",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/137.png",
-      "voice": "",
-      "transcription": "[\u0261\u028ad]",
-      "id": 137
-    },
-    {
-      "categoryId": 14,
-      "title": "Bad",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/138.png",
-      "voice": "",
-      "transcription": "[b\u00e6d]",
-      "id": 138
-    },
-    {
-      "categoryId": 14,
-      "title": "Strong",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/139.png",
-      "voice": "",
-      "transcription": "[str\u0252\u014b]",
-      "id": 139
-    },
-    {
-      "categoryId": 14,
-      "title": "Weak",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/140.png",
-      "voice": "",
-      "transcription": "[wi\u02d0k]",
-      "id": 140
-    },
-    {
-      "categoryId": 15,
-      "title": "I",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/141.png",
-      "voice": "",
-      "transcription": "[a\u026a]",
-      "id": 141
-    },
-    {
-      "categoryId": 15,
-      "title": "You",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/142.png",
-      "voice": "",
-      "transcription": "[ju\u02d0]",
-      "id": 142
-    },
-    {
-      "categoryId": 15,
-      "title": "He",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/143.png",
-      "voice": "",
-      "transcription": "[hi\u02d0]",
-      "id": 143
-    },
-    {
-      "categoryId": 15,
-      "title": "She",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/144.png",
-      "voice": "",
-      "transcription": "[\u0283i\u02d0]",
-      "id": 144
-    },
-    {
-      "categoryId": 15,
-      "title": "It",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/145.png",
-      "voice": "",
-      "transcription": "[\u026at]",
-      "id": 145
-    },
-    {
-      "categoryId": 15,
-      "title": "We",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/146.png",
-      "voice": "",
-      "transcription": "[wi\u02d0]",
-      "id": 146
-    },
-    {
-      "categoryId": 15,
-      "title": "They",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/147.png",
-      "voice": "",
-      "transcription": "[\u00f0e\u026a]",
-      "id": 147
-    },
-    {
-      "categoryId": 15,
-      "title": "Me",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/148.png",
-      "voice": "",
-      "transcription": "[mi\u02d0]",
-      "id": 148
-    },
-    {
-      "categoryId": 15,
-      "title": "Him",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/149.png",
-      "voice": "",
-      "transcription": "[h\u026am]",
-      "id": 149
-    },
-    {
-      "categoryId": 15,
-      "title": "Her",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/150.png",
-      "voice": "",
-      "transcription": "[h\u025c\u02d0r]",
-      "id": 150
-    },
-    {
-      "categoryId": 16,
-      "title": "What",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/151.png",
-      "voice": "",
-      "transcription": "[w\u0252t]",
-      "id": 151
-    },
-    {
-      "categoryId": 16,
-      "title": "Who",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/152.png",
-      "voice": "",
-      "transcription": "[hu\u02d0]",
-      "id": 152
-    },
-    {
-      "categoryId": 16,
-      "title": "Where",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/153.png",
-      "voice": "",
-      "transcription": "[w\u025b\u0259r]",
-      "id": 153
-    },
-    {
-      "categoryId": 16,
-      "title": "When",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/154.png",
-      "voice": "",
-      "transcription": "[w\u025bn]",
-      "id": 154
-    },
-    {
-      "categoryId": 16,
-      "title": "Why",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/155.png",
-      "voice": "",
-      "transcription": "[wa\u026a]",
-      "id": 155
-    },
-    {
-      "categoryId": 16,
-      "title": "How",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/156.png",
-      "voice": "",
-      "transcription": "[ha\u028a]",
-      "id": 156
-    },
-    {
-      "categoryId": 16,
-      "title": "Which",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/157.png",
-      "voice": "",
-      "transcription": "[w\u026a\u02a7]",
-      "id": 157
-    },
-    {
-      "categoryId": 16,
-      "title": "Whose",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/158.png",
-      "voice": "",
-      "transcription": "[hu\u02d0z]",
-      "id": 158
-    },
-    {
-      "categoryId": 16,
-      "title": "How much",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/159.png",
-      "voice": "",
-      "transcription": "[ha\u028a m\u028c\u02a7]",
-      "id": 159
-    },
-    {
-      "categoryId": 16,
-      "title": "How many",
-      "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/160.png",
-      "voice": "",
-      "transcription": "[ha\u028a \u02c8m\u025bni]",
-      "id": 160
-    }
-  ]
+ "version": 1,
+ "lang": "en",
+ "list": [
+  {
+   "id": 1,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/1.png",
+   "voice": null,
+   "title": "Father",
+   "transcription": "[fɑðɹ̩]"
+  },
+  {
+   "id": 2,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/2.png",
+   "voice": null,
+   "title": "Mother",
+   "transcription": "[mʌðɹ̩]"
+  },
+  {
+   "id": 3,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/3.png",
+   "voice": null,
+   "title": "Brother",
+   "transcription": "[bɹʌðɹ̩]"
+  },
+  {
+   "id": 4,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/4.png",
+   "voice": null,
+   "title": "Sister",
+   "transcription": "[sɪstɹ̩]"
+  },
+  {
+   "id": 5,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/5.png",
+   "voice": null,
+   "title": "Child",
+   "transcription": "[t͡ʃajld]"
+  },
+  {
+   "id": 6,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/6.png",
+   "voice": null,
+   "title": "Grandmother",
+   "transcription": "[ɡɹændmʌðɹ̩]"
+  },
+  {
+   "id": 7,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/7.png",
+   "voice": null,
+   "title": "Grandfather",
+   "transcription": "[ɡɹændfɑðɹ̩]"
+  },
+  {
+   "id": 8,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/8.png",
+   "voice": null,
+   "title": "Uncle",
+   "transcription": "[ʌŋkəl]"
+  },
+  {
+   "id": 9,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/9.png",
+   "voice": null,
+   "title": "Aunt",
+   "transcription": "[ænt]"
+  },
+  {
+   "id": 10,
+   "categoryId": 1,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/10.png",
+   "voice": null,
+   "title": "Cousin",
+   "transcription": "[kʌzən]"
+  },
+  {
+   "id": 11,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/11.png",
+   "voice": null,
+   "title": "Plate",
+   "transcription": "[plejt]"
+  },
+  {
+   "id": 12,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/12.png",
+   "voice": null,
+   "title": "Cup",
+   "transcription": "[kʌp]"
+  },
+  {
+   "id": 13,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/13.png",
+   "voice": null,
+   "title": "Fork",
+   "transcription": "[fɔɹk]"
+  },
+  {
+   "id": 14,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/14.png",
+   "voice": null,
+   "title": "Knife",
+   "transcription": "[najf]"
+  },
+  {
+   "id": 15,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/15.png",
+   "voice": null,
+   "title": "Spoon",
+   "transcription": "[spun]"
+  },
+  {
+   "id": 16,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/16.png",
+   "voice": null,
+   "title": "Pan",
+   "transcription": "[pæn]"
+  },
+  {
+   "id": 17,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/17.png",
+   "voice": null,
+   "title": "Stove",
+   "transcription": "[stowv]"
+  },
+  {
+   "id": 18,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/18.png",
+   "voice": null,
+   "title": "Refrigerator",
+   "transcription": "[ɹəfɹɪd͡ʒɹ̩ejtɹ̩]"
+  },
+  {
+   "id": 19,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/19.png",
+   "voice": null,
+   "title": "Microwave",
+   "transcription": "[majkɹəwejv]"
+  },
+  {
+   "id": 20,
+   "categoryId": 2,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/20.png",
+   "voice": null,
+   "title": "Sink",
+   "transcription": "[sɪŋk]"
+  },
+  {
+   "id": 21,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/21.png",
+   "voice": null,
+   "title": "Airport",
+   "transcription": "[ɛɹpɔɹt]"
+  },
+  {
+   "id": 22,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/22.png",
+   "voice": null,
+   "title": "Passport",
+   "transcription": "[pæspɔɹt]"
+  },
+  {
+   "id": 23,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/23.png",
+   "voice": null,
+   "title": "Luggage",
+   "transcription": "[lʌɡəd͡ʒ]"
+  },
+  {
+   "id": 24,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/24.png",
+   "voice": null,
+   "title": "Ticket",
+   "transcription": "[tɪkət]"
+  },
+  {
+   "id": 25,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/25.png",
+   "voice": null,
+   "title": "Flight",
+   "transcription": "[flajt]"
+  },
+  {
+   "id": 26,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/26.png",
+   "voice": null,
+   "title": "Hotel",
+   "transcription": "[howtɛl]"
+  },
+  {
+   "id": 27,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/27.png",
+   "voice": null,
+   "title": "Taxi",
+   "transcription": "[tæksi]"
+  },
+  {
+   "id": 28,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/28.png",
+   "voice": null,
+   "title": "Train",
+   "transcription": "[tɹejn]"
+  },
+  {
+   "id": 29,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/29.png",
+   "voice": null,
+   "title": "Bus",
+   "transcription": "[bʌs]"
+  },
+  {
+   "id": 30,
+   "categoryId": 3,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/30.png",
+   "voice": null,
+   "title": "Map",
+   "transcription": "[mæp]"
+  },
+  {
+   "id": 31,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/31.png",
+   "voice": null,
+   "title": "Dog",
+   "transcription": "[dɔɡ]"
+  },
+  {
+   "id": 32,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/32.png",
+   "voice": null,
+   "title": "Cat",
+   "transcription": "[kæt]"
+  },
+  {
+   "id": 33,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/33.png",
+   "voice": null,
+   "title": "Elephant",
+   "transcription": "[ɛləfənt]"
+  },
+  {
+   "id": 34,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/34.png",
+   "voice": null,
+   "title": "Tiger",
+   "transcription": "[tajɡɹ̩]"
+  },
+  {
+   "id": 35,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/35.png",
+   "voice": null,
+   "title": "Lion",
+   "transcription": "[lajən]"
+  },
+  {
+   "id": 36,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/36.png",
+   "voice": null,
+   "title": "Bird",
+   "transcription": "[bɹ̩d]"
+  },
+  {
+   "id": 37,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/37.png",
+   "voice": null,
+   "title": "Fish",
+   "transcription": "[fɪʃ]"
+  },
+  {
+   "id": 38,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/38.png",
+   "voice": null,
+   "title": "Horse",
+   "transcription": "[hɔɹs]"
+  },
+  {
+   "id": 39,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/39.png",
+   "voice": null,
+   "title": "Cow",
+   "transcription": "[kaw]"
+  },
+  {
+   "id": 40,
+   "categoryId": 4,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/40.png",
+   "voice": null,
+   "title": "Monkey",
+   "transcription": "[mʌŋki]"
+  },
+  {
+   "id": 41,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/41.png",
+   "voice": null,
+   "title": "Red",
+   "transcription": "[ɹɛd]"
+  },
+  {
+   "id": 42,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/42.png",
+   "voice": null,
+   "title": "Blue",
+   "transcription": "[blu]"
+  },
+  {
+   "id": 43,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/43.png",
+   "voice": null,
+   "title": "Green",
+   "transcription": "[ɡɹin]"
+  },
+  {
+   "id": 44,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/44.png",
+   "voice": null,
+   "title": "Yellow",
+   "transcription": "[jɛlow]"
+  },
+  {
+   "id": 45,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/45.png",
+   "voice": null,
+   "title": "Black",
+   "transcription": "[blæk]"
+  },
+  {
+   "id": 46,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/46.png",
+   "voice": null,
+   "title": "White",
+   "transcription": "[wajt]"
+  },
+  {
+   "id": 47,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/47.png",
+   "voice": null,
+   "title": "Purple",
+   "transcription": "[pɹ̩pəl]"
+  },
+  {
+   "id": 48,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/48.png",
+   "voice": null,
+   "title": "Orange",
+   "transcription": "[ɔɹənd͡ʒ]"
+  },
+  {
+   "id": 49,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/49.png",
+   "voice": null,
+   "title": "Pink",
+   "transcription": "[pɪŋk]"
+  },
+  {
+   "id": 50,
+   "categoryId": 5,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/50.png",
+   "voice": null,
+   "title": "Brown",
+   "transcription": "[bɹawn]"
+  },
+  {
+   "id": 51,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/51.png",
+   "voice": null,
+   "title": "Apple",
+   "transcription": "[æpəl]"
+  },
+  {
+   "id": 52,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/52.png",
+   "voice": null,
+   "title": "Banana",
+   "transcription": "[bənænə]"
+  },
+  {
+   "id": 53,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/53.png",
+   "voice": null,
+   "title": "Bread",
+   "transcription": "[bɹɛd]"
+  },
+  {
+   "id": 54,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/54.png",
+   "voice": null,
+   "title": "Cheese",
+   "transcription": "[t͡ʃiz]"
+  },
+  {
+   "id": 55,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/55.png",
+   "voice": null,
+   "title": "Egg",
+   "transcription": "[ɛɡ]"
+  },
+  {
+   "id": 56,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/56.png",
+   "voice": null,
+   "title": "Fish",
+   "transcription": "[fɪʃ]"
+  },
+  {
+   "id": 57,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/57.png",
+   "voice": null,
+   "title": "Meat",
+   "transcription": "[mit]"
+  },
+  {
+   "id": 58,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/58.png",
+   "voice": null,
+   "title": "Rice",
+   "transcription": "[ɹajs]"
+  },
+  {
+   "id": 59,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/59.png",
+   "voice": null,
+   "title": "Soup",
+   "transcription": "[sup]"
+  },
+  {
+   "id": 60,
+   "categoryId": 6,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/60.png",
+   "voice": null,
+   "title": "Vegetables",
+   "transcription": "[vɛd͡ʒtəbəlz]"
+  },
+  {
+   "id": 61,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/61.png",
+   "voice": null,
+   "title": "Shirt",
+   "transcription": "[ʃɹ̩t]"
+  },
+  {
+   "id": 62,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/62.png",
+   "voice": null,
+   "title": "Pants",
+   "transcription": "[pænts]"
+  },
+  {
+   "id": 63,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/63.png",
+   "voice": null,
+   "title": "Jacket",
+   "transcription": "[d͡ʒækət]"
+  },
+  {
+   "id": 64,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/64.png",
+   "voice": null,
+   "title": "Dress",
+   "transcription": "[dɹɛs]"
+  },
+  {
+   "id": 65,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/65.png",
+   "voice": null,
+   "title": "Shoes",
+   "transcription": "[ʃuz]"
+  },
+  {
+   "id": 66,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/66.png",
+   "voice": null,
+   "title": "Hat",
+   "transcription": "[hæt]"
+  },
+  {
+   "id": 67,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/67.png",
+   "voice": null,
+   "title": "Scarf",
+   "transcription": "[skɑɹf]"
+  },
+  {
+   "id": 68,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/68.png",
+   "voice": null,
+   "title": "Gloves",
+   "transcription": "[ɡlʌvz]"
+  },
+  {
+   "id": 69,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/69.png",
+   "voice": null,
+   "title": "Socks",
+   "transcription": "[sɑks]"
+  },
+  {
+   "id": 70,
+   "categoryId": 7,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/70.png",
+   "voice": null,
+   "title": "Skirt",
+   "transcription": "[skɹ̩t]"
+  },
+  {
+   "id": 71,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/71.png",
+   "voice": null,
+   "title": "Book",
+   "transcription": "[bʊk]"
+  },
+  {
+   "id": 72,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/72.png",
+   "voice": null,
+   "title": "Pencil",
+   "transcription": "[pɛnsəl]"
+  },
+  {
+   "id": 73,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/73.png",
+   "voice": null,
+   "title": "Pen",
+   "transcription": "[pɛn]"
+  },
+  {
+   "id": 74,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/74.png",
+   "voice": null,
+   "title": "Eraser",
+   "transcription": "[ɪɹejsɹ̩]"
+  },
+  {
+   "id": 75,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/75.png",
+   "voice": null,
+   "title": "Notebook",
+   "transcription": "[nowtbʊk]"
+  },
+  {
+   "id": 76,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/76.png",
+   "voice": null,
+   "title": "Desk",
+   "transcription": "[dɛsk]"
+  },
+  {
+   "id": 77,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/77.png",
+   "voice": null,
+   "title": "Chair",
+   "transcription": "[t͡ʃɛɹ]"
+  },
+  {
+   "id": 78,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/78.png",
+   "voice": null,
+   "title": "Teacher",
+   "transcription": "[tit͡ʃɹ̩]"
+  },
+  {
+   "id": 79,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/79.png",
+   "voice": null,
+   "title": "Student",
+   "transcription": "[studənt]"
+  },
+  {
+   "id": 80,
+   "categoryId": 8,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/80.png",
+   "voice": null,
+   "title": "Ruler",
+   "transcription": "[ɹulɹ̩]"
+  },
+  {
+   "id": 81,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/81.png",
+   "voice": null,
+   "title": "Soccer",
+   "transcription": "[sɑkɹ̩]"
+  },
+  {
+   "id": 82,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/82.png",
+   "voice": null,
+   "title": "Basketball",
+   "transcription": "[bæskətbɔl]"
+  },
+  {
+   "id": 83,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/83.png",
+   "voice": null,
+   "title": "Tennis",
+   "transcription": "[tɛnəs]"
+  },
+  {
+   "id": 84,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/84.png",
+   "voice": null,
+   "title": "Baseball",
+   "transcription": "[bejsbɔl]"
+  },
+  {
+   "id": 85,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/85.png",
+   "voice": null,
+   "title": "Swimming",
+   "transcription": "[swɪmɪŋ]"
+  },
+  {
+   "id": 86,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/86.png",
+   "voice": null,
+   "title": "Running",
+   "transcription": "[ɹʌnɪŋ]"
+  },
+  {
+   "id": 87,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/87.png",
+   "voice": null,
+   "title": "Cycling",
+   "transcription": "[sajkəlɪŋ]"
+  },
+  {
+   "id": 88,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/88.png",
+   "voice": null,
+   "title": "Golf",
+   "transcription": "[ɡɑlf]"
+  },
+  {
+   "id": 89,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/89.png",
+   "voice": null,
+   "title": "Boxing",
+   "transcription": "[bɑksɪŋ]"
+  },
+  {
+   "id": 90,
+   "categoryId": 9,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/90.png",
+   "voice": null,
+   "title": "Volleyball",
+   "transcription": "[vɑlibɔl]"
+  },
+  {
+   "id": 91,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/91.png",
+   "voice": null,
+   "title": "Computer",
+   "transcription": "[kəmpjutɹ̩]"
+  },
+  {
+   "id": 92,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/92.png",
+   "voice": null,
+   "title": "Phone",
+   "transcription": "[fown]"
+  },
+  {
+   "id": 93,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/93.png",
+   "voice": null,
+   "title": "Tablet",
+   "transcription": "[tæblət]"
+  },
+  {
+   "id": 94,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/94.png",
+   "voice": null,
+   "title": "Laptop",
+   "transcription": "[læptɑp]"
+  },
+  {
+   "id": 95,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/95.png",
+   "voice": null,
+   "title": "Keyboard",
+   "transcription": "[kibɔɹd]"
+  },
+  {
+   "id": 96,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/96.png",
+   "voice": null,
+   "title": "Mouse",
+   "transcription": "[maws]"
+  },
+  {
+   "id": 97,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/97.png",
+   "voice": null,
+   "title": "Printer",
+   "transcription": "[pɹɪntɹ̩]"
+  },
+  {
+   "id": 98,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/98.png",
+   "voice": null,
+   "title": "Monitor",
+   "transcription": "[mɑnətɹ̩]"
+  },
+  {
+   "id": 99,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/99.png",
+   "voice": null,
+   "title": "Headphones",
+   "transcription": "[hɛdfownz]"
+  },
+  {
+   "id": 100,
+   "categoryId": 10,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/100.png",
+   "voice": null,
+   "title": "Camera",
+   "transcription": "[kæmɹ̩ə]"
+  },
+  {
+   "id": 101,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/101.png",
+   "voice": null,
+   "title": "Happiness",
+   "transcription": "[hæpinəs]"
+  },
+  {
+   "id": 102,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/102.png",
+   "voice": null,
+   "title": "Sadness",
+   "transcription": "[sædnəs]"
+  },
+  {
+   "id": 103,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/103.png",
+   "voice": null,
+   "title": "Anger",
+   "transcription": "[æŋɡɹ̩]"
+  },
+  {
+   "id": 104,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/104.png",
+   "voice": null,
+   "title": "Fear",
+   "transcription": "[fɪɹ]"
+  },
+  {
+   "id": 105,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/105.png",
+   "voice": null,
+   "title": "Love",
+   "transcription": "[lʌv]"
+  },
+  {
+   "id": 106,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/106.png",
+   "voice": null,
+   "title": "Jealousy",
+   "transcription": "[d͡ʒɛləsi]"
+  },
+  {
+   "id": 107,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/107.png",
+   "voice": null,
+   "title": "Excitement",
+   "transcription": "[ɪksajtmənt]"
+  },
+  {
+   "id": 108,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/108.png",
+   "voice": null,
+   "title": "Surprise",
+   "transcription": "[sɹ̩pɹajz]"
+  },
+  {
+   "id": 109,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/109.png",
+   "voice": null,
+   "title": "Disgust",
+   "transcription": "[dɪsɡʌst]"
+  },
+  {
+   "id": 110,
+   "categoryId": 11,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/110.png",
+   "voice": null,
+   "title": "Confusion",
+   "transcription": "[kənfjuʒən]"
+  },
+  {
+   "id": 111,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/111.png",
+   "voice": null,
+   "title": "Morning",
+   "transcription": "[mɔɹnɪŋ]"
+  },
+  {
+   "id": 112,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/112.png",
+   "voice": null,
+   "title": "Afternoon",
+   "transcription": "[æftɹ̩nun]"
+  },
+  {
+   "id": 113,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/113.png",
+   "voice": null,
+   "title": "Evening",
+   "transcription": "[ivnɪŋ]"
+  },
+  {
+   "id": 114,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/114.png",
+   "voice": null,
+   "title": "Night",
+   "transcription": "[najt]"
+  },
+  {
+   "id": 115,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/115.png",
+   "voice": null,
+   "title": "Day",
+   "transcription": "[dej]"
+  },
+  {
+   "id": 116,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/116.png",
+   "voice": null,
+   "title": "Week",
+   "transcription": "[wik]"
+  },
+  {
+   "id": 117,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/117.png",
+   "voice": null,
+   "title": "Month",
+   "transcription": "[mʌnθ]"
+  },
+  {
+   "id": 118,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/118.png",
+   "voice": null,
+   "title": "Year",
+   "transcription": "[jɪɹ]"
+  },
+  {
+   "id": 119,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/119.png",
+   "voice": null,
+   "title": "Yesterday",
+   "transcription": "[jɛstɹ̩dej]"
+  },
+  {
+   "id": 120,
+   "categoryId": 12,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/120.png",
+   "voice": null,
+   "title": "Tomorrow",
+   "transcription": "[təmɑɹow]"
+  },
+  {
+   "id": 121,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/121.png",
+   "voice": null,
+   "title": "Brave",
+   "transcription": "[bɹejv]"
+  },
+  {
+   "id": 122,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/122.png",
+   "voice": null,
+   "title": "Kind",
+   "transcription": "[kajnd]"
+  },
+  {
+   "id": 123,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/123.png",
+   "voice": null,
+   "title": "Clever",
+   "transcription": "[klɛvɹ̩]"
+  },
+  {
+   "id": 124,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/124.png",
+   "voice": null,
+   "title": "Funny",
+   "transcription": "[fʌni]"
+  },
+  {
+   "id": 125,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/125.png",
+   "voice": null,
+   "title": "Lazy",
+   "transcription": "[lejzi]"
+  },
+  {
+   "id": 126,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/126.png",
+   "voice": null,
+   "title": "Honest",
+   "transcription": "[ɑnəst]"
+  },
+  {
+   "id": 127,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/127.png",
+   "voice": null,
+   "title": "Shy",
+   "transcription": "[ʃaj]"
+  },
+  {
+   "id": 128,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/128.png",
+   "voice": null,
+   "title": "Serious",
+   "transcription": "[sɪɹiəs]"
+  },
+  {
+   "id": 129,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/129.png",
+   "voice": null,
+   "title": "Generous",
+   "transcription": "[d͡ʒɛnɹ̩əs]"
+  },
+  {
+   "id": 130,
+   "categoryId": 13,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/130.png",
+   "voice": null,
+   "title": "Confident",
+   "transcription": "[kɑnfədənt]"
+  },
+  {
+   "id": 131,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/131.png",
+   "voice": null,
+   "title": "Big",
+   "transcription": "[bɪɡ]"
+  },
+  {
+   "id": 132,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/132.png",
+   "voice": null,
+   "title": "Small",
+   "transcription": "[smɔl]"
+  },
+  {
+   "id": 133,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/133.png",
+   "voice": null,
+   "title": "Fast",
+   "transcription": "[fæst]"
+  },
+  {
+   "id": 134,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/134.png",
+   "voice": null,
+   "title": "Slow",
+   "transcription": "[slow]"
+  },
+  {
+   "id": 135,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/135.png",
+   "voice": null,
+   "title": "Hot",
+   "transcription": "[hɑt]"
+  },
+  {
+   "id": 136,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/136.png",
+   "voice": null,
+   "title": "Cold",
+   "transcription": "[kowld]"
+  },
+  {
+   "id": 137,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/137.png",
+   "voice": null,
+   "title": "Good",
+   "transcription": "[ɡʊd]"
+  },
+  {
+   "id": 138,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/138.png",
+   "voice": null,
+   "title": "Bad",
+   "transcription": "[bæd]"
+  },
+  {
+   "id": 139,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/139.png",
+   "voice": null,
+   "title": "Strong",
+   "transcription": "[stɹɔŋ]"
+  },
+  {
+   "id": 140,
+   "categoryId": 14,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/140.png",
+   "voice": null,
+   "title": "Weak",
+   "transcription": "[wik]"
+  },
+  {
+   "id": 141,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/141.png",
+   "voice": null,
+   "title": "I",
+   "transcription": "[aj]"
+  },
+  {
+   "id": 142,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/142.png",
+   "voice": null,
+   "title": "You",
+   "transcription": "[ju]"
+  },
+  {
+   "id": 143,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/143.png",
+   "voice": null,
+   "title": "He",
+   "transcription": "[hi]"
+  },
+  {
+   "id": 144,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/144.png",
+   "voice": null,
+   "title": "She",
+   "transcription": "[ʃi]"
+  },
+  {
+   "id": 145,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/145.png",
+   "voice": null,
+   "title": "It",
+   "transcription": "[ɪt]"
+  },
+  {
+   "id": 146,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/146.png",
+   "voice": null,
+   "title": "We",
+   "transcription": "[wi]"
+  },
+  {
+   "id": 147,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/147.png",
+   "voice": null,
+   "title": "They",
+   "transcription": "[ðej]"
+  },
+  {
+   "id": 148,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/148.png",
+   "voice": null,
+   "title": "Me",
+   "transcription": "[mi]"
+  },
+  {
+   "id": 149,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/149.png",
+   "voice": null,
+   "title": "Him",
+   "transcription": "[hɪm]"
+  },
+  {
+   "id": 150,
+   "categoryId": 15,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/150.png",
+   "voice": null,
+   "title": "Her",
+   "transcription": "[hɹ̩]"
+  },
+  {
+   "id": 151,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/151.png",
+   "voice": null,
+   "title": "What?",
+   "transcription": "[wʌt?]"
+  },
+  {
+   "id": 152,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/152.png",
+   "voice": null,
+   "title": "Who is?",
+   "transcription": "[hu ɪz?]"
+  },
+  {
+   "id": 153,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/153.png",
+   "voice": null,
+   "title": "Where?",
+   "transcription": "[wɛɹ?]"
+  },
+  {
+   "id": 154,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/154.png",
+   "voice": null,
+   "title": "When?",
+   "transcription": "[wɛn?]"
+  },
+  {
+   "id": 155,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/155.png",
+   "voice": null,
+   "title": "Why?",
+   "transcription": "[waj?]"
+  },
+  {
+   "id": 156,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/156.png",
+   "voice": null,
+   "title": "How?",
+   "transcription": "[haw?]"
+  },
+  {
+   "id": 157,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/157.png",
+   "voice": null,
+   "title": "Which?",
+   "transcription": "[wɪt͡ʃ?]"
+  },
+  {
+   "id": 158,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/158.png",
+   "voice": null,
+   "title": "Whose?",
+   "transcription": "[huz?]"
+  },
+  {
+   "id": 159,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/159.png",
+   "voice": null,
+   "title": "How much?",
+   "transcription": "[haw mʌt͡ʃ?]"
+  },
+  {
+   "id": 160,
+   "categoryId": 16,
+   "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/160.png",
+   "voice": null,
+   "title": "How many?",
+   "transcription": "[haw mɛni?]"
+  },
+  {
+   "id": 1000,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/medical-card",
+   "voice": null,
+   "title": "medical card",
+   "transcription": "[mɛdəkəl kɑɹd]"
+  },
+  {
+   "id": 1001,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/dental-chair",
+   "voice": null,
+   "title": "dental chair",
+   "transcription": "[dɛntəl t͡ʃɛɹ]"
+  },
+  {
+   "id": 1002,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/medical-examination",
+   "voice": null,
+   "title": "medical examination",
+   "transcription": "[mɛdəkəl ɪɡzæmənejʃən]"
+  },
+  {
+   "id": 1003,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/laboratory-analysis",
+   "voice": null,
+   "title": "laboratory analysis",
+   "transcription": "[læbɹətɔɹi ənæləsəs]"
+  },
+  {
+   "id": 1004,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/medical-care",
+   "voice": null,
+   "title": "medical care",
+   "transcription": "[mɛdəkəl kɛɹ]"
+  },
+  {
+   "id": 1005,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/surgical-mask",
+   "voice": null,
+   "title": "surgical mask",
+   "transcription": "[sɹ̩d͡ʒɪkəl mæsk]"
+  },
+  {
+   "id": 1006,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sterile-instruments",
+   "voice": null,
+   "title": "sterile instruments",
+   "transcription": "[stɛɹəl ɪnstɹəmənts]"
+  },
+  {
+   "id": 1007,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/hospital-ward",
+   "voice": null,
+   "title": "hospital ward",
+   "transcription": "[hɑspɪtəl wɔɹd]"
+  },
+  {
+   "id": 1008,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/ambulance",
+   "voice": null,
+   "title": "ambulance",
+   "transcription": "[æmbjələns]"
+  },
+  {
+   "id": 1009,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/hospital-bed",
+   "voice": null,
+   "title": "hospital bed",
+   "transcription": "[hɑspɪtəl bɛd]"
+  },
+  {
+   "id": 1010,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/restaurant-menu",
+   "voice": null,
+   "title": "restaurant menu",
+   "transcription": "[ɹɛstɹ̩ɑnt mɛnju]"
+  },
+  {
+   "id": 1011,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fried-fish",
+   "voice": null,
+   "title": "fried fish",
+   "transcription": "[fɹajd fɪʃ]"
+  },
+  {
+   "id": 1012,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/glass-of-wine",
+   "voice": null,
+   "title": "glass of wine",
+   "transcription": "[ɡlæs ʌv wajn]"
+  },
+  {
+   "id": 1013,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/table-for-two",
+   "voice": null,
+   "title": "table for two",
+   "transcription": "[tejbəl fɔɹ tu]"
+  },
+  {
+   "id": 1014,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fresh-vegetables",
+   "voice": null,
+   "title": "fresh vegetables",
+   "transcription": "[fɹɛʃ vɛd͡ʒtəbəlz]"
+  },
+  {
+   "id": 1015,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/dessert-menu",
+   "voice": null,
+   "title": "dessert menu",
+   "transcription": "[dɪzɹ̩t mɛnju]"
+  },
+  {
+   "id": 1016,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/dining-table",
+   "voice": null,
+   "title": "dining table",
+   "transcription": "[dajnɪŋ tejbəl]"
+  },
+  {
+   "id": 1017,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/ordering-food",
+   "voice": null,
+   "title": "ordering food",
+   "transcription": "[ɔɹdɹ̩ɪŋ fud]"
+  },
+  {
+   "id": 1018,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/restaurant-bill",
+   "voice": null,
+   "title": "restaurant bill",
+   "transcription": "[ɹɛstɹ̩ɑnt bɪl]"
+  },
+  {
+   "id": 1019,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/cup-of-coffee",
+   "voice": null,
+   "title": "cup of coffee",
+   "transcription": "[kʌp ʌv kɑfi]"
+  },
+  {
+   "id": 1020,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/foreign-passport",
+   "voice": null,
+   "title": "foreign passport",
+   "transcription": "[fɔɹən pæspɔɹt]"
+  },
+  {
+   "id": 1021,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/train-ticket",
+   "voice": null,
+   "title": "train ticket",
+   "transcription": "[tɹejn tɪkət]"
+  },
+  {
+   "id": 1022,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/tourist-map",
+   "voice": null,
+   "title": "tourist map",
+   "transcription": "[tʊɹəst mæp]"
+  },
+  {
+   "id": 1023,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/luggage-compartment",
+   "voice": null,
+   "title": "luggage compartment",
+   "transcription": "[lʌɡəd͡ʒ kəmpɑɹtmənt]"
+  },
+  {
+   "id": 1024,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/grand-hotel",
+   "voice": null,
+   "title": "grand hotel",
+   "transcription": "[ɡɹænd howtɛl]"
+  },
+  {
+   "id": 1025,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/guide",
+   "voice": null,
+   "title": "guide",
+   "transcription": "[ɡajd]"
+  },
+  {
+   "id": 1026,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sightseeing-bus",
+   "voice": null,
+   "title": "sightseeing bus",
+   "transcription": "[sajtsiɪŋ bʌs]"
+  },
+  {
+   "id": 1027,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/rented-car",
+   "voice": null,
+   "title": "rented car",
+   "transcription": "[ɹɛntəd kɑɹ]"
+  },
+  {
+   "id": 1028,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/boarding-gate",
+   "voice": null,
+   "title": "boarding gate",
+   "transcription": "[bɔɹdɪŋ ɡejt]"
+  },
+  {
+   "id": 1029,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/customs-control",
+   "voice": null,
+   "title": "customs control",
+   "transcription": "[kʌstəmz kəntɹowl]"
+  },
+  {
+   "id": 1030,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/beach-umbrella",
+   "voice": null,
+   "title": "beach umbrella",
+   "transcription": "[bit͡ʃ əmbɹɛlə]"
+  },
+  {
+   "id": 1031,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/resort-sea",
+   "voice": null,
+   "title": "resort sea",
+   "transcription": "[ɹɪzɔɹt si]"
+  },
+  {
+   "id": 1032,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sun-lounger-on-the-beach",
+   "voice": null,
+   "title": "sun lounger on the beach",
+   "transcription": "[sʌn lawŋɹ̩ ɑn ðə bit͡ʃ]"
+  },
+  {
+   "id": 1033,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/tourist-tent",
+   "voice": null,
+   "title": "tourist tent",
+   "transcription": "[tʊɹəst tɛnt]"
+  },
+  {
+   "id": 1034,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/evening-sunset",
+   "voice": null,
+   "title": "evening sunset",
+   "transcription": "[ivnɪŋ sʌnsɛt]"
+  },
+  {
+   "id": 1035,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/mountain-lake",
+   "voice": null,
+   "title": "mountain lake",
+   "transcription": "[mawntən lejk]"
+  },
+  {
+   "id": 1036,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/hiking",
+   "voice": null,
+   "title": "hiking",
+   "transcription": "[hajkɪŋ]"
+  },
+  {
+   "id": 1037,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/massage-room",
+   "voice": null,
+   "title": "massage room",
+   "transcription": "[məsɑʒ ɹum]"
+  },
+  {
+   "id": 1038,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/holiday-at-the-hotel",
+   "voice": null,
+   "title": "holiday at the hotel",
+   "transcription": "[hɑlədej æt ðə howtɛl]"
+  },
+  {
+   "id": 1039,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/summer-vacation",
+   "voice": null,
+   "title": "summer vacation",
+   "transcription": "[sʌmɹ̩ vejkejʃən]"
+  },
+  {
+   "id": 1040,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/classroom",
+   "voice": null,
+   "title": "classroom",
+   "transcription": "[klæsɹum]"
+  },
+  {
+   "id": 1041,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/written-assignment",
+   "voice": null,
+   "title": "written assignment",
+   "transcription": "[ɹɪtən əsajnmənt]"
+  },
+  {
+   "id": 1042,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/student-scholarship",
+   "voice": null,
+   "title": "student scholarship",
+   "transcription": "[studənt skɑlɹ̩ʃɪp]"
+  },
+  {
+   "id": 1043,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/school-board",
+   "voice": null,
+   "title": "school board",
+   "transcription": "[skul bɔɹd]"
+  },
+  {
+   "id": 1044,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/library-shelf",
+   "voice": null,
+   "title": "library shelf",
+   "transcription": "[lajbɹɛɹi ʃɛlf]"
+  },
+  {
+   "id": 1045,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/examination-paper",
+   "voice": null,
+   "title": "examination paper",
+   "transcription": "[ɪɡzæmənejʃən pejpɹ̩]"
+  },
+  {
+   "id": 1046,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/academic-lecture",
+   "voice": null,
+   "title": "academic lecture",
+   "transcription": "[ækədɛmɪk lɛkt͡ʃɹ̩]"
+  },
+  {
+   "id": 1047,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/scientific-conference",
+   "voice": null,
+   "title": "scientific conference",
+   "transcription": "[sajəntɪfɪk kɑnfɹ̩əns]"
+  },
+  {
+   "id": 1048,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/student-dormitory",
+   "voice": null,
+   "title": "student dormitory",
+   "transcription": "[studənt dɔɹmətɔɹi]"
+  },
+  {
+   "id": 1049,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/workbook",
+   "voice": null,
+   "title": "workbook",
+   "transcription": "[wɹ̩kbʊk]"
+  },
+  {
+   "id": 1050,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/honest-man",
+   "voice": null,
+   "title": "honest man",
+   "transcription": "[ɑnəst mæn]"
+  },
+  {
+   "id": 1051,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/friendly-neighbor",
+   "voice": null,
+   "title": "friendly neighbor",
+   "transcription": "[fɹɛndli nejbɹ̩]"
+  },
+  {
+   "id": 1052,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/patient-teacher",
+   "voice": null,
+   "title": "patient teacher",
+   "transcription": "[pejʃənt tit͡ʃɹ̩]"
+  },
+  {
+   "id": 1053,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/confident-speaker",
+   "voice": null,
+   "title": "confident speaker",
+   "transcription": "[kɑnfədənt spikɹ̩]"
+  },
+  {
+   "id": 1054,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/generous-gift",
+   "voice": null,
+   "title": "generous gift",
+   "transcription": "[d͡ʒɛnɹ̩əs ɡɪft]"
+  },
+  {
+   "id": 1055,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/smart-student",
+   "voice": null,
+   "title": "smart student",
+   "transcription": "[smɑɹt studənt]"
+  },
+  {
+   "id": 1056,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/cheerful-friend",
+   "voice": null,
+   "title": "cheerful friend",
+   "transcription": "[t͡ʃɪɹfəl fɹɛnd]"
+  },
+  {
+   "id": 1057,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/brave-traveler",
+   "voice": null,
+   "title": "brave traveler",
+   "transcription": "[bɹejv tɹævəlɹ̩]"
+  },
+  {
+   "id": 1058,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/attentive-listener",
+   "voice": null,
+   "title": "attentive listener",
+   "transcription": "[ətɛntɪv lɪsənɹ̩]"
+  },
+  {
+   "id": 1059,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/creative-artist",
+   "voice": null,
+   "title": "creative artist",
+   "transcription": "[kɹiejtɪv ɑɹtəst]"
+  },
+  {
+   "id": 1060,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/simple-food",
+   "voice": null,
+   "title": "simple food",
+   "transcription": "[sɪmpəl fud]"
+  },
+  {
+   "id": 1061,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/quiet-restaurant",
+   "voice": null,
+   "title": "quiet restaurant",
+   "transcription": "[kwajət ɹɛstɹ̩ɑnt]"
+  },
+  {
+   "id": 1062,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/spacious-room",
+   "voice": null,
+   "title": "spacious room",
+   "transcription": "[spejʃəs ɹum]"
+  },
+  {
+   "id": 1063,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/high-chair",
+   "voice": null,
+   "title": "high chair",
+   "transcription": "[haj t͡ʃɛɹ]"
+  },
+  {
+   "id": 1064,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fried-meat",
+   "voice": null,
+   "title": "fried meat",
+   "transcription": "[fɹajd mit]"
+  },
+  {
+   "id": 1065,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fruit-salad",
+   "voice": null,
+   "title": "fruit salad",
+   "transcription": "[fɹut sæləd]"
+  },
+  {
+   "id": 1066,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/warm-breakfast",
+   "voice": null,
+   "title": "warm breakfast",
+   "transcription": "[wɔɹm bɹɛkfəst]"
+  },
+  {
+   "id": 1067,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/free-table",
+   "voice": null,
+   "title": "free table",
+   "transcription": "[fɹi tejbəl]"
+  },
+  {
+   "id": 1068,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/hospitable-staff",
+   "voice": null,
+   "title": "hospitable staff",
+   "transcription": "[hɑspɪtəbəl stæf]"
+  },
+  {
+   "id": 1069,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fresh-juice",
+   "voice": null,
+   "title": "fresh juice",
+   "transcription": "[fɹɛʃ d͡ʒus]"
+  },
+  {
+   "id": 1070,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/city-​​map",
+   "voice": null,
+   "title": "city ​​map",
+   "transcription": "[sɪti ​​mæp]"
+  },
+  {
+   "id": 1071,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/new-hotel",
+   "voice": null,
+   "title": "new hotel",
+   "transcription": "[nu howtɛl]"
+  },
+  {
+   "id": 1072,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/museum-ticket",
+   "voice": null,
+   "title": "museum ticket",
+   "transcription": "[mjuziəm tɪkət]"
+  },
+  {
+   "id": 1073,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/tourist-group",
+   "voice": null,
+   "title": "tourist group",
+   "transcription": "[tʊɹəst ɡɹup]"
+  },
+  {
+   "id": 1074,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/ticket-booking",
+   "voice": null,
+   "title": "ticket booking",
+   "transcription": "[tɪkət bʊkɪŋ]"
+  },
+  {
+   "id": 1075,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/going-outside",
+   "voice": null,
+   "title": "going outside",
+   "transcription": "[ɡowɪŋ awtsajd]"
+  },
+  {
+   "id": 1076,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/nightclub",
+   "voice": null,
+   "title": "nightclub",
+   "transcription": "[najtklʌb]"
+  },
+  {
+   "id": 1077,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/beach-volleyball",
+   "voice": null,
+   "title": "beach volleyball",
+   "transcription": "[bit͡ʃ vɑlibɔl]"
+  },
+  {
+   "id": 1078,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/evening-walk",
+   "voice": null,
+   "title": "evening walk",
+   "transcription": "[ivnɪŋ wɔk]"
+  },
+  {
+   "id": 1079,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/green-garden",
+   "voice": null,
+   "title": "green garden",
+   "transcription": "[ɡɹin ɡɑɹdən]"
+  },
+  {
+   "id": 1080,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/amusement-park",
+   "voice": null,
+   "title": "amusement park",
+   "transcription": "[əmjuzmənt pɑɹk]"
+  },
+  {
+   "id": 1081,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/summer-camp",
+   "voice": null,
+   "title": "summer camp",
+   "transcription": "[sʌmɹ̩ kæmp]"
+  },
+  {
+   "id": 1082,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/playground",
+   "voice": null,
+   "title": "playground",
+   "transcription": "[plejɡɹawnd]"
+  },
+  {
+   "id": 1083,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/creative-task",
+   "voice": null,
+   "title": "creative task",
+   "transcription": "[kɹiejtɪv tæsk]"
+  },
+  {
+   "id": 1084,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/math-problem",
+   "voice": null,
+   "title": "math problem",
+   "transcription": "[mæθ pɹɑbləm]"
+  },
+  {
+   "id": 1085,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/scientific-work",
+   "voice": null,
+   "title": "scientific work",
+   "transcription": "[sajəntɪfɪk wɹ̩k]"
+  },
+  {
+   "id": 1086,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/school-holidays",
+   "voice": null,
+   "title": "school holidays",
+   "transcription": "[skul hɑlədejz]"
+  },
+  {
+   "id": 1087,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/lecture-hall",
+   "voice": null,
+   "title": "lecture hall",
+   "transcription": "[lɛkt͡ʃɹ̩ hɔl]"
+  },
+  {
+   "id": 1088,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/school-uniform",
+   "voice": null,
+   "title": "school uniform",
+   "transcription": "[skul junəfɔɹm]"
+  },
+  {
+   "id": 1089,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/neat-notebook",
+   "voice": null,
+   "title": "neat notebook",
+   "transcription": "[nit nowtbʊk]"
+  },
+  {
+   "id": 1090,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/tolerance-towards-others",
+   "voice": null,
+   "title": "tolerance towards others",
+   "transcription": "[tɑlɹ̩əns təwɔɹdz ʌðɹ̩z]"
+  },
+  {
+   "id": 1091,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sincere-friend",
+   "voice": null,
+   "title": "sincere friend",
+   "transcription": "[sənsɪɹ fɹɛnd]"
+  },
+  {
+   "id": 1092,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/active-participant",
+   "voice": null,
+   "title": "active participant",
+   "transcription": "[æktɪv pɑɹtɪsəpənt]"
+  },
+  {
+   "id": 1093,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/respect-for-others",
+   "voice": null,
+   "title": "respect for others",
+   "transcription": "[ɹɪspɛkt fɔɹ ʌðɹ̩z]"
+  },
+  {
+   "id": 1094,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/willingness-to-help",
+   "voice": null,
+   "title": "willingness to help",
+   "transcription": "[wɪlɪŋnəs tə hɛlp]"
+  },
+  {
+   "id": 1095,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/honest-behavior",
+   "voice": null,
+   "title": "honest behavior",
+   "transcription": "[ɑnəst bɪhejvjɹ̩]"
+  },
+  {
+   "id": 1096,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/bold-decision",
+   "voice": null,
+   "title": "bold decision",
+   "transcription": "[bowld dɪsɪʒən]"
+  },
+  {
+   "id": 1097,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/calm-character",
+   "voice": null,
+   "title": "calm character",
+   "transcription": "[kɑm kɛɹɪktɹ̩]"
+  },
+  {
+   "id": 1098,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/proactive-thinking",
+   "voice": null,
+   "title": "proactive thinking",
+   "transcription": "[pɹowæktɪv θɪŋkɪŋ]"
+  },
+  {
+   "id": 1099,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/friendly-smile",
+   "voice": null,
+   "title": "friendly smile",
+   "transcription": "[fɹɛndli smajl]"
+  },
+  {
+   "id": 1100,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/wooden-bench",
+   "voice": null,
+   "title": "wooden bench",
+   "transcription": "[wʊdən bɛnt͡ʃ]"
+  },
+  {
+   "id": 1101,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/rectangular-table",
+   "voice": null,
+   "title": "rectangular table",
+   "transcription": "[ɹɛktæŋɡjəlɹ̩ tejbəl]"
+  },
+  {
+   "id": 1102,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/bright-light",
+   "voice": null,
+   "title": "bright light",
+   "transcription": "[bɹajt lajt]"
+  },
+  {
+   "id": 1103,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/red-hair",
+   "voice": null,
+   "title": "red hair",
+   "transcription": "[ɹɛd hɛɹ]"
+  },
+  {
+   "id": 1104,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/clean-dishes",
+   "voice": null,
+   "title": "clean dishes",
+   "transcription": "[klin dɪʃəz]"
+  },
+  {
+   "id": 1105,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/Blue-eyes",
+   "voice": null,
+   "title": "Blue eyes",
+   "transcription": "[blu ajz]"
+  },
+  {
+   "id": 1106,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/cold-water",
+   "voice": null,
+   "title": "cold water",
+   "transcription": "[kowld wɔtɹ̩]"
+  },
+  {
+   "id": 1107,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/green-grass",
+   "voice": null,
+   "title": "green grass",
+   "transcription": "[ɡɹin ɡɹæs]"
+  },
+  {
+   "id": 1108,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/black-cat",
+   "voice": null,
+   "title": "black cat",
+   "transcription": "[blæk kæt]"
+  },
+  {
+   "id": 1109,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/white-dog",
+   "voice": null,
+   "title": "white dog",
+   "transcription": "[wajt dɔɡ]"
+  },
+  {
+   "id": 1110,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/warm-sweater",
+   "voice": null,
+   "title": "warm sweater",
+   "transcription": "[wɔɹm swɛtɹ̩]"
+  },
+  {
+   "id": 1111,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/blue-ball",
+   "voice": null,
+   "title": "blue ball",
+   "transcription": "[blu bɔl]"
+  },
+  {
+   "id": 1112,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/delicious-food",
+   "voice": null,
+   "title": "delicious food",
+   "transcription": "[dɪlɪʃəs fud]"
+  },
+  {
+   "id": 1113,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/long-way",
+   "voice": null,
+   "title": "long way",
+   "transcription": "[lɔŋ wej]"
+  },
+  {
+   "id": 1114,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/old-house",
+   "voice": null,
+   "title": "old house",
+   "transcription": "[owld haws]"
+  },
+  {
+   "id": 1115,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/red-dress",
+   "voice": null,
+   "title": "red dress",
+   "transcription": "[ɹɛd dɹɛs]"
+  },
+  {
+   "id": 1116,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/high-mountain",
+   "voice": null,
+   "title": "high mountain",
+   "transcription": "[haj mawntən]"
+  },
+  {
+   "id": 1117,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/deep-lake",
+   "voice": null,
+   "title": "deep lake",
+   "transcription": "[dip lejk]"
+  },
+  {
+   "id": 1118,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/wooden-chair",
+   "voice": null,
+   "title": "wooden chair",
+   "transcription": "[wʊdən t͡ʃɛɹ]"
+  },
+  {
+   "id": 1119,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/bright-day",
+   "voice": null,
+   "title": "bright day",
+   "transcription": "[bɹajt dej]"
+  },
+  {
+   "id": 1120,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/happy-holiday",
+   "voice": null,
+   "title": "happy holiday",
+   "transcription": "[hæpi hɑlədej]"
+  },
+  {
+   "id": 1121,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/quiet-night",
+   "voice": null,
+   "title": "quiet night",
+   "transcription": "[kwajət najt]"
+  },
+  {
+   "id": 1122,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/short-hair",
+   "voice": null,
+   "title": "short hair",
+   "transcription": "[ʃɔɹt hɛɹ]"
+  },
+  {
+   "id": 1123,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/loud-sound",
+   "voice": null,
+   "title": "loud sound",
+   "transcription": "[lawd sawnd]"
+  },
+  {
+   "id": 1124,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/big-city",
+   "voice": null,
+   "title": "big city",
+   "transcription": "[bɪɡ sɪti]"
+  },
+  {
+   "id": 1125,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/small-child",
+   "voice": null,
+   "title": "small child",
+   "transcription": "[smɔl t͡ʃajld]"
+  },
+  {
+   "id": 1126,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sweet-cake",
+   "voice": null,
+   "title": "sweet cake",
+   "transcription": "[swit kejk]"
+  },
+  {
+   "id": 1127,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fast-car",
+   "voice": null,
+   "title": "fast car",
+   "transcription": "[fæst kɑɹ]"
+  },
+  {
+   "id": 1128,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/green-leaves",
+   "voice": null,
+   "title": "green leaves",
+   "transcription": "[ɡɹin livz]"
+  },
+  {
+   "id": 1129,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/wide-bridge",
+   "voice": null,
+   "title": "wide bridge",
+   "transcription": "[wajd bɹɪd͡ʒ]"
+  },
+  {
+   "id": 1130,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/new-book",
+   "voice": null,
+   "title": "new book",
+   "transcription": "[nu bʊk]"
+  },
+  {
+   "id": 1131,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/thin-paper",
+   "voice": null,
+   "title": "thin paper",
+   "transcription": "[θɪn pejpɹ̩]"
+  },
+  {
+   "id": 1132,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/black-glasses",
+   "voice": null,
+   "title": "black glasses",
+   "transcription": "[blæk ɡlæsəz]"
+  },
+  {
+   "id": 1133,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/soft-pillow",
+   "voice": null,
+   "title": "soft pillow",
+   "transcription": "[sɑft pɪlow]"
+  },
+  {
+   "id": 1134,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/bright-lamp",
+   "voice": null,
+   "title": "bright lamp",
+   "transcription": "[bɹajt læmp]"
+  },
+  {
+   "id": 1135,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/cheap-ticket",
+   "voice": null,
+   "title": "cheap ticket",
+   "transcription": "[t͡ʃip tɪkət]"
+  },
+  {
+   "id": 1136,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/loud-laughter",
+   "voice": null,
+   "title": "loud laughter",
+   "transcription": "[lawd læftɹ̩]"
+  },
+  {
+   "id": 1137,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/hot-tea",
+   "voice": null,
+   "title": "hot tea",
+   "transcription": "[hɑt ti]"
+  },
+  {
+   "id": 1138,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/clear-sky",
+   "voice": null,
+   "title": "clear sky",
+   "transcription": "[klɪɹ skaj]"
+  },
+  {
+   "id": 1139,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sweet-honey",
+   "voice": null,
+   "title": "sweet honey",
+   "transcription": "[swit hʌni]"
+  },
+  {
+   "id": 1140,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/long-dress",
+   "voice": null,
+   "title": "long dress",
+   "transcription": "[lɔŋ dɹɛs]"
+  },
+  {
+   "id": 1141,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/dark-beer",
+   "voice": null,
+   "title": "dark beer",
+   "transcription": "[dɑɹk bɪɹ]"
+  },
+  {
+   "id": 1142,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/yellow-flowers",
+   "voice": null,
+   "title": "yellow flowers",
+   "transcription": "[jɛlow flawɹ̩z]"
+  },
+  {
+   "id": 1143,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/spring-rain",
+   "voice": null,
+   "title": "spring rain",
+   "transcription": "[spɹɪŋ ɹejn]"
+  },
+  {
+   "id": 1144,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/heavy-bag",
+   "voice": null,
+   "title": "heavy bag",
+   "transcription": "[hɛvi bæɡ]"
+  },
+  {
+   "id": 1145,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/soft-carpet",
+   "voice": null,
+   "title": "soft carpet",
+   "transcription": "[sɑft kɑɹpət]"
+  },
+  {
+   "id": 1146,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fast-train",
+   "voice": null,
+   "title": "fast train",
+   "transcription": "[fæst tɹejn]"
+  },
+  {
+   "id": 1147,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fresh-bread",
+   "voice": null,
+   "title": "fresh bread",
+   "transcription": "[fɹɛʃ bɹɛd]"
+  },
+  {
+   "id": 1148,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/warm-weather",
+   "voice": null,
+   "title": "warm weather",
+   "transcription": "[wɔɹm wɛðɹ̩]"
+  },
+  {
+   "id": 1149,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/pink-roses",
+   "voice": null,
+   "title": "pink roses",
+   "transcription": "[pɪŋk ɹowzɪz]"
+  },
+  {
+   "id": 1150,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/delicious-dinner",
+   "voice": null,
+   "title": "delicious dinner",
+   "transcription": "[dɪlɪʃəs dɪnɹ̩]"
+  },
+  {
+   "id": 1151,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/quiet-voice",
+   "voice": null,
+   "title": "quiet voice",
+   "transcription": "[kwajət vojs]"
+  },
+  {
+   "id": 1152,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/green-apple",
+   "voice": null,
+   "title": "green apple",
+   "transcription": "[ɡɹin æpəl]"
+  },
+  {
+   "id": 1153,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/soft-blanket",
+   "voice": null,
+   "title": "soft blanket",
+   "transcription": "[sɑft blæŋkət]"
+  },
+  {
+   "id": 1154,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/white-snow",
+   "voice": null,
+   "title": "white snow",
+   "transcription": "[wajt snow]"
+  },
+  {
+   "id": 1155,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/bright-sunset",
+   "voice": null,
+   "title": "bright sunset",
+   "transcription": "[bɹajt sʌnsɛt]"
+  },
+  {
+   "id": 1156,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/empty-room",
+   "voice": null,
+   "title": "empty room",
+   "transcription": "[ɛmpti ɹum]"
+  },
+  {
+   "id": 1157,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/old-phone",
+   "voice": null,
+   "title": "old phone",
+   "transcription": "[owld fown]"
+  },
+  {
+   "id": 1158,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/blue-bike",
+   "voice": null,
+   "title": "blue bike",
+   "transcription": "[blu bajk]"
+  },
+  {
+   "id": 1159,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/wet-hair",
+   "voice": null,
+   "title": "wet hair",
+   "transcription": "[wɛt hɛɹ]"
+  },
+  {
+   "id": 1160,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/green-car",
+   "voice": null,
+   "title": "green car",
+   "transcription": "[ɡɹin kɑɹ]"
+  },
+  {
+   "id": 1161,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/short-letter",
+   "voice": null,
+   "title": "short letter",
+   "transcription": "[ʃɔɹt lɛtɹ̩]"
+  },
+  {
+   "id": 1162,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/clean-window",
+   "voice": null,
+   "title": "clean window",
+   "transcription": "[klin wɪndow]"
+  },
+  {
+   "id": 1163,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/easy-chair",
+   "voice": null,
+   "title": "easy chair",
+   "transcription": "[izi t͡ʃɛɹ]"
+  },
+  {
+   "id": 1164,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/dark-chocolate",
+   "voice": null,
+   "title": "dark chocolate",
+   "transcription": "[dɑɹk t͡ʃɔklət]"
+  },
+  {
+   "id": 1165,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/hot-day",
+   "voice": null,
+   "title": "hot day",
+   "transcription": "[hɑt dej]"
+  },
+  {
+   "id": 1166,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/gold-ring",
+   "voice": null,
+   "title": "gold ring",
+   "transcription": "[ɡowld ɹɪŋ]"
+  },
+  {
+   "id": 1167,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/cold-wind",
+   "voice": null,
+   "title": "cold wind",
+   "transcription": "[kowld wɪnd]"
+  },
+  {
+   "id": 1168,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/strong-coffee",
+   "voice": null,
+   "title": "strong coffee",
+   "transcription": "[stɹɔŋ kɑfi]"
+  },
+  {
+   "id": 1169,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fast-internet",
+   "voice": null,
+   "title": "fast internet",
+   "transcription": "[fæst ɪntɹ̩nɛt]"
+  },
+  {
+   "id": 1170,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/heavy-backpack",
+   "voice": null,
+   "title": "heavy backpack",
+   "transcription": "[hɛvi bækpæk]"
+  },
+  {
+   "id": 1171,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sweet-fruits",
+   "voice": null,
+   "title": "sweet fruits",
+   "transcription": "[swit fɹuts]"
+  },
+  {
+   "id": 1172,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/red-car",
+   "voice": null,
+   "title": "red car",
+   "transcription": "[ɹɛd kɑɹ]"
+  },
+  {
+   "id": 1173,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/narrow-street",
+   "voice": null,
+   "title": "narrow street",
+   "transcription": "[nɛɹow stɹit]"
+  },
+  {
+   "id": 1174,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/big-lake",
+   "voice": null,
+   "title": "big lake",
+   "transcription": "[bɪɡ lejk]"
+  },
+  {
+   "id": 1175,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/long-train",
+   "voice": null,
+   "title": "long train",
+   "transcription": "[lɔŋ tɹejn]"
+  },
+  {
+   "id": 1176,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/blue-ocean",
+   "voice": null,
+   "title": "blue ocean",
+   "transcription": "[blu owʃən]"
+  },
+  {
+   "id": 1177,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/bright-moon",
+   "voice": null,
+   "title": "bright moon",
+   "transcription": "[bɹajt mun]"
+  },
+  {
+   "id": 1178,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/white-bear",
+   "voice": null,
+   "title": "white bear",
+   "transcription": "[wajt bɛɹ]"
+  },
+  {
+   "id": 1179,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/little-bird",
+   "voice": null,
+   "title": "little bird",
+   "transcription": "[lɪtəl bɹ̩d]"
+  },
+  {
+   "id": 1180,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/strong-tea",
+   "voice": null,
+   "title": "strong tea",
+   "transcription": "[stɹɔŋ ti]"
+  },
+  {
+   "id": 1181,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/wide-road",
+   "voice": null,
+   "title": "wide road",
+   "transcription": "[wajd ɹowd]"
+  },
+  {
+   "id": 1182,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/old-bridge",
+   "voice": null,
+   "title": "old bridge",
+   "transcription": "[owld bɹɪd͡ʒ]"
+  },
+  {
+   "id": 1183,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/tall-building",
+   "voice": null,
+   "title": "tall building",
+   "transcription": "[tɔl bɪldɪŋ]"
+  },
+  {
+   "id": 1184,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/green-mountains",
+   "voice": null,
+   "title": "green mountains",
+   "transcription": "[ɡɹin mawntənz]"
+  },
+  {
+   "id": 1185,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/clean-table",
+   "voice": null,
+   "title": "clean table",
+   "transcription": "[klin tejbəl]"
+  },
+  {
+   "id": 1186,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sweet-ice-cream",
+   "voice": null,
+   "title": "sweet ice cream",
+   "transcription": "[swit ajs kɹim]"
+  },
+  {
+   "id": 1187,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/soft-toy",
+   "voice": null,
+   "title": "soft toy",
+   "transcription": "[sɑft toj]"
+  },
+  {
+   "id": 1188,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/blue-sky",
+   "voice": null,
+   "title": "blue sky",
+   "transcription": "[blu skaj]"
+  },
+  {
+   "id": 1189,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/quiet-park",
+   "voice": null,
+   "title": "quiet park",
+   "transcription": "[kwajət pɑɹk]"
+  },
+  {
+   "id": 1190,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/red-apples",
+   "voice": null,
+   "title": "red apples",
+   "transcription": "[ɹɛd æpəlz]"
+  },
+  {
+   "id": 1191,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/strong-walls",
+   "voice": null,
+   "title": "strong walls",
+   "transcription": "[stɹɔŋ wɔlz]"
+  },
+  {
+   "id": 1192,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/loud-laughter",
+   "voice": null,
+   "title": "loud laughter",
+   "transcription": "[lawd læftɹ̩]"
+  },
+  {
+   "id": 1193,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sunny-day",
+   "voice": null,
+   "title": "sunny day",
+   "transcription": "[sʌni dej]"
+  },
+  {
+   "id": 1194,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/spring-wind",
+   "voice": null,
+   "title": "spring wind",
+   "transcription": "[spɹɪŋ wɪnd]"
+  },
+  {
+   "id": 1195,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/long-line",
+   "voice": null,
+   "title": "long line",
+   "transcription": "[lɔŋ lajn]"
+  },
+  {
+   "id": 1196,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/black-gloves",
+   "voice": null,
+   "title": "black gloves",
+   "transcription": "[blæk ɡlʌvz]"
+  },
+  {
+   "id": 1197,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sweet-drink",
+   "voice": null,
+   "title": "sweet drink",
+   "transcription": "[swit dɹɪŋk]"
+  },
+  {
+   "id": 1198,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/hot-soup",
+   "voice": null,
+   "title": "hot soup",
+   "transcription": "[hɑt sup]"
+  },
+  {
+   "id": 1199,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fast-river",
+   "voice": null,
+   "title": "fast river",
+   "transcription": "[fæst ɹɪvɹ̩]"
+  },
+  {
+   "id": 1200,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/engineering-project",
+   "voice": null,
+   "title": "engineering project",
+   "transcription": "[ɛnd͡ʒənɪɹɪŋ pɹɑd͡ʒɛkt]"
+  },
+  {
+   "id": 1201,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/construction-plan",
+   "voice": null,
+   "title": "construction plan",
+   "transcription": "[kənstɹʌkʃən plæn]"
+  },
+  {
+   "id": 1202,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/medical-consultation",
+   "voice": null,
+   "title": "medical consultation",
+   "transcription": "[mɛdəkəl kɑnsəltejʃən]"
+  },
+  {
+   "id": 1203,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/teaching-lecture",
+   "voice": null,
+   "title": "teaching lecture",
+   "transcription": "[tit͡ʃɪŋ lɛkt͡ʃɹ̩]"
+  },
+  {
+   "id": 1204,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/accounting-report",
+   "voice": null,
+   "title": "accounting report",
+   "transcription": "[əkawntɪŋ ɹipɔɹt]"
+  },
+  {
+   "id": 1205,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/legal-advice",
+   "voice": null,
+   "title": "legal advice",
+   "transcription": "[liɡəl ædvajs]"
+  },
+  {
+   "id": 1206,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/doctor's-prescription",
+   "voice": null,
+   "title": "doctor's prescription",
+   "transcription": "[dɑktɔɹz pɹəskɹɪpʃən]"
+  },
+  {
+   "id": 1207,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/computer-code",
+   "voice": null,
+   "title": "computer code",
+   "transcription": "[kəmpjutɹ̩ kowd]"
+  },
+  {
+   "id": 1208,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/trade-agreement",
+   "voice": null,
+   "title": "trade agreement",
+   "transcription": "[tɹejd əɡɹimənt]"
+  },
+  {
+   "id": 1209,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/culinary-arts",
+   "voice": null,
+   "title": "culinary arts",
+   "transcription": "[kjulɪnɛɹi ɑɹts]"
+  },
+  {
+   "id": 1210,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/building-design",
+   "voice": null,
+   "title": "building design",
+   "transcription": "[bɪldɪŋ dɪzajn]"
+  },
+  {
+   "id": 1211,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/data-processing",
+   "voice": null,
+   "title": "data processing",
+   "transcription": "[dejtə pɹɑsɛsɪŋ]"
+  },
+  {
+   "id": 1212,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/scientific-research",
+   "voice": null,
+   "title": "scientific research",
+   "transcription": "[sajəntɪfɪk ɹisɹ̩t͡ʃ]"
+  },
+  {
+   "id": 1213,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/police-operation",
+   "voice": null,
+   "title": "police operation",
+   "transcription": "[pəlis ɑpɹ̩ejʃən]"
+  },
+  {
+   "id": 1214,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/car-repair",
+   "voice": null,
+   "title": "car repair",
+   "transcription": "[kɑɹ ɹɪpɛɹ]"
+  },
+  {
+   "id": 1215,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/quality-control",
+   "voice": null,
+   "title": "quality control",
+   "transcription": "[kwɑləti kəntɹowl]"
+  },
+  {
+   "id": 1216,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/editorial-edit",
+   "voice": null,
+   "title": "editorial edit",
+   "transcription": "[ɛdətɔɹiəl ɛdət]"
+  },
+  {
+   "id": 1217,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/artistic-creativity",
+   "voice": null,
+   "title": "artistic creativity",
+   "transcription": "[ɑɹtɪstɪk kɹiejtɪvəti]"
+  },
+  {
+   "id": 1218,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/film-script",
+   "voice": null,
+   "title": "film script",
+   "transcription": "[fɪlm skɹɪpt]"
+  },
+  {
+   "id": 1219,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/journalistic-report",
+   "voice": null,
+   "title": "journalistic report",
+   "transcription": "[d͡ʒɹ̩nəlɪstɪk ɹipɔɹt]"
+  },
+  {
+   "id": 1220,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/biologist",
+   "voice": null,
+   "title": "biologist",
+   "transcription": "[bajɑləd͡ʒəst]"
+  },
+  {
+   "id": 1221,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/real-estate-sales",
+   "voice": null,
+   "title": "real estate sales",
+   "transcription": "[ɹil ɪstejt sejlz]"
+  },
+  {
+   "id": 1222,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/legal-documentation",
+   "voice": null,
+   "title": "legal documentation",
+   "transcription": "[liɡəl dɑkjəmɛntejʃən]"
+  },
+  {
+   "id": 1223,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/transport-logistics",
+   "voice": null,
+   "title": "transport logistics",
+   "transcription": "[tɹænspɔɹt ləd͡ʒɪstɪks]"
+  },
+  {
+   "id": 1224,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/chemical-analysis",
+   "voice": null,
+   "title": "chemical analysis",
+   "transcription": "[kɛməkəl ənæləsəs]"
+  },
+  {
+   "id": 1225,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/banking-transaction",
+   "voice": null,
+   "title": "banking transaction",
+   "transcription": "[bæŋkɪŋ tɹænzækʃən]"
+  },
+  {
+   "id": 1226,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/primary-school-teacher",
+   "voice": null,
+   "title": "primary school teacher",
+   "transcription": "[pɹajmɛɹi skul tit͡ʃɹ̩]"
+  },
+  {
+   "id": 1227,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/electrical-installation-work",
+   "voice": null,
+   "title": "electrical installation work",
+   "transcription": "[ɪlɛktɹɪkəl ɪnstəlejʃən wɹ̩k]"
+  },
+  {
+   "id": 1228,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/interior-designer",
+   "voice": null,
+   "title": "interior designer",
+   "transcription": "[ɪntɪɹiɹ̩ dɪzajnɹ̩]"
+  },
+  {
+   "id": 1229,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/veterinary-care",
+   "voice": null,
+   "title": "veterinary care",
+   "transcription": "[vɛtɹənɛɹi kɛɹ]"
+  },
+  {
+   "id": 1230,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/lawyer's-case",
+   "voice": null,
+   "title": "lawyer's case",
+   "transcription": "[lɔjɹ̩z kejs]"
+  },
+  {
+   "id": 1231,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/household-appliance-repair",
+   "voice": null,
+   "title": "household appliance repair",
+   "transcription": "[hawshowld əplajəns ɹɪpɛɹ]"
+  },
+  {
+   "id": 1232,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/scientific-experiments",
+   "voice": null,
+   "title": "scientific experiments",
+   "transcription": "[sajəntɪfɪk ɪkspɛɹəmənts]"
+  },
+  {
+   "id": 1233,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/computer-repair",
+   "voice": null,
+   "title": "computer repair",
+   "transcription": "[kəmpjutɹ̩ ɹɪpɛɹ]"
+  },
+  {
+   "id": 1234,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/medical-diagnostics",
+   "voice": null,
+   "title": "medical diagnostics",
+   "transcription": "[mɛdəkəl dajəɡnɑstɪks]"
+  },
+  {
+   "id": 1235,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/translation-of-technical-texts",
+   "voice": null,
+   "title": "translation of technical texts",
+   "transcription": "[tɹænzlejʃən ʌv tɛknɪkəl tɛksts]"
+  },
+  {
+   "id": 1236,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/marketing-campaign",
+   "voice": null,
+   "title": "marketing campaign",
+   "transcription": "[mɑɹkətɪŋ kæmpejn]"
+  },
+  {
+   "id": 1237,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/language-teaching",
+   "voice": null,
+   "title": "language teaching",
+   "transcription": "[læŋɡwəd͡ʒ tit͡ʃɪŋ]"
+  },
+  {
+   "id": 1238,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/application-programming",
+   "voice": null,
+   "title": "application programming",
+   "transcription": "[æpləkejʃən pɹowɡɹæmɪŋ]"
+  },
+  {
+   "id": 1239,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/musical-composition",
+   "voice": null,
+   "title": "musical composition",
+   "transcription": "[mjuzɪkəl kɑmpəzɪʃən]"
+  },
+  {
+   "id": 1240,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/psychological-assistance",
+   "voice": null,
+   "title": "psychological assistance",
+   "transcription": "[sajkəlɑd͡ʒɪkəl əsɪstəns]"
+  },
+  {
+   "id": 1241,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/project-management",
+   "voice": null,
+   "title": "project management",
+   "transcription": "[pɹɑd͡ʒɛkt mænəd͡ʒmənt]"
+  },
+  {
+   "id": 1242,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/legal-advice",
+   "voice": null,
+   "title": "legal advice",
+   "transcription": "[liɡəl ædvajs]"
+  },
+  {
+   "id": 1243,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sports-coaching",
+   "voice": null,
+   "title": "sports coaching",
+   "transcription": "[spɔɹts kowt͡ʃɪŋ]"
+  },
+  {
+   "id": 1244,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/international-transportation",
+   "voice": null,
+   "title": "international transportation",
+   "transcription": "[ɪntɹ̩næʃənəl tɹænspɹ̩tejʃən]"
+  },
+  {
+   "id": 1245,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/architectural-design",
+   "voice": null,
+   "title": "architectural design",
+   "transcription": "[ɑɹkətɛkt͡ʃɹ̩əl dɪzajn]"
+  },
+  {
+   "id": 1246,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/statistical-analytics",
+   "voice": null,
+   "title": "statistical analytics",
+   "transcription": "[stətɪstɪkəl ænəlɪtɪks]"
+  },
+  {
+   "id": 1247,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/web-development",
+   "voice": null,
+   "title": "web development",
+   "transcription": "[wɛb dɪvɛləpmənt]"
+  },
+  {
+   "id": 1248,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/accounting-audit",
+   "voice": null,
+   "title": "accounting audit",
+   "transcription": "[əkawntɪŋ ɔdɪt]"
+  },
+  {
+   "id": 1249,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/computer-graphics",
+   "voice": null,
+   "title": "computer graphics",
+   "transcription": "[kəmpjutɹ̩ ɡɹæfɪks]"
+  },
+  {
+   "id": 1250,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/market-research",
+   "voice": null,
+   "title": "market research",
+   "transcription": "[mɑɹkət ɹisɹ̩t͡ʃ]"
+  },
+  {
+   "id": 1251,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/car-sales",
+   "voice": null,
+   "title": "car sales",
+   "transcription": "[kɑɹ sejlz]"
+  },
+  {
+   "id": 1252,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/driving-lessons",
+   "voice": null,
+   "title": "driving lessons",
+   "transcription": "[dɹajvɪŋ lɛsənz]"
+  },
+  {
+   "id": 1253,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/personnel-management",
+   "voice": null,
+   "title": "personnel management",
+   "transcription": "[pɹ̩sənɛl mænəd͡ʒmənt]"
+  },
+  {
+   "id": 1254,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/equipment-operation",
+   "voice": null,
+   "title": "equipment operation",
+   "transcription": "[ɪkwɪpmənt ɑpɹ̩ejʃən]"
+  },
+  {
+   "id": 1255,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/medical-equipment",
+   "voice": null,
+   "title": "medical equipment",
+   "transcription": "[mɛdəkəl ɪkwɪpmənt]"
+  },
+  {
+   "id": 1256,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/labor-protection",
+   "voice": null,
+   "title": "labor protection",
+   "transcription": "[lejbɹ̩ pɹətɛkʃən]"
+  },
+  {
+   "id": 1257,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/video-editing",
+   "voice": null,
+   "title": "video editing",
+   "transcription": "[vɪdiow ɛdətɪŋ]"
+  },
+  {
+   "id": 1258,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/staff-training",
+   "voice": null,
+   "title": "staff training",
+   "transcription": "[stæf tɹejnɪŋ]"
+  },
+  {
+   "id": 1259,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/agronomic-research",
+   "voice": null,
+   "title": "agronomic research",
+   "transcription": "[æɡɹɑnɑmɪk ɹisɹ̩t͡ʃ]"
+  },
+  {
+   "id": 1260,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/architectural-model",
+   "voice": null,
+   "title": "architectural model",
+   "transcription": "[ɑɹkətɛkt͡ʃɹ̩əl mɑdəl]"
+  },
+  {
+   "id": 1261,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/event-organization",
+   "voice": null,
+   "title": "event organization",
+   "transcription": "[ɪvɛnt ɔɹɡənəzejʃən]"
+  },
+  {
+   "id": 1262,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/dance-studio",
+   "voice": null,
+   "title": "dance studio",
+   "transcription": "[dæns studiow]"
+  },
+  {
+   "id": 1263,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/film-directing",
+   "voice": null,
+   "title": "film directing",
+   "transcription": "[fɪlm dɹ̩ɛktɪŋ]"
+  },
+  {
+   "id": 1264,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/creation-of-commercials",
+   "voice": null,
+   "title": "creation of commercials",
+   "transcription": "[kɹiejʃən ʌv kəmɹ̩ʃəlz]"
+  },
+  {
+   "id": 1265,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/music-teaching",
+   "voice": null,
+   "title": "music teaching",
+   "transcription": "[mjuzɪk tit͡ʃɪŋ]"
+  },
+  {
+   "id": 1266,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/furniture-restoration",
+   "voice": null,
+   "title": "furniture restoration",
+   "transcription": "[fɹ̩nɪt͡ʃɹ̩ ɹɛstɹ̩ejʃən]"
+  },
+  {
+   "id": 1267,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/plumbing-work",
+   "voice": null,
+   "title": "plumbing work",
+   "transcription": "[plʌmɪŋ wɹ̩k]"
+  },
+  {
+   "id": 1268,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/law-enforcement",
+   "voice": null,
+   "title": "law enforcement",
+   "transcription": "[lɔ ɛnfɔɹsmənt]"
+  },
+  {
+   "id": 1269,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/logistics-support",
+   "voice": null,
+   "title": "logistics support",
+   "transcription": "[ləd͡ʒɪstɪks səpɔɹt]"
+  },
+  {
+   "id": 1270,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/architectural-bureau",
+   "voice": null,
+   "title": "architectural bureau",
+   "transcription": "[ɑɹkətɛkt͡ʃɹ̩əl bjʊɹow]"
+  },
+  {
+   "id": 1271,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/pharmaceutical-plant",
+   "voice": null,
+   "title": "pharmaceutical plant",
+   "transcription": "[fɑɹməsutɪkəl plænt]"
+  },
+  {
+   "id": 1272,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/customer-service",
+   "voice": null,
+   "title": "customer service",
+   "transcription": "[kʌstəmɹ̩ sɹ̩vəs]"
+  },
+  {
+   "id": 1273,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/server-administration",
+   "voice": null,
+   "title": "server administration",
+   "transcription": "[sɹ̩vɹ̩ ædmɪnɪstɹejʃən]"
+  },
+  {
+   "id": 1274,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/website-creation",
+   "voice": null,
+   "title": "website creation",
+   "transcription": "[wɛbsajt kɹiejʃən]"
+  },
+  {
+   "id": 1275,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/clothing-production",
+   "voice": null,
+   "title": "clothing production",
+   "transcription": "[klowðɪŋ pɹədʌkʃən]"
+  },
+  {
+   "id": 1276,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/work-with-clients",
+   "voice": null,
+   "title": "work with clients",
+   "transcription": "[wɹ̩k wɪð klajənts]"
+  },
+  {
+   "id": 1277,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/warehouse-operations",
+   "voice": null,
+   "title": "warehouse operations",
+   "transcription": "[wɛɹhaws ɑpɹ̩ejʃənz]"
+  },
+  {
+   "id": 1278,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/excavation-work",
+   "voice": null,
+   "title": "excavation work",
+   "transcription": "[ɛkskəvejʃən wɹ̩k]"
+  },
+  {
+   "id": 1279,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/process-management",
+   "voice": null,
+   "title": "process management",
+   "transcription": "[pɹɑsɛs mænəd͡ʒmənt]"
+  },
+  {
+   "id": 1280,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/installation-of-air-conditioners",
+   "voice": null,
+   "title": "installation of air conditioners",
+   "transcription": "[ɪnstəlejʃən ʌv ɛɹ kəndɪʃənɹ̩z]"
+  },
+  {
+   "id": 1281,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fire-safety",
+   "voice": null,
+   "title": "fire safety",
+   "transcription": "[fajɹ̩ sejfti]"
+  },
+  {
+   "id": 1282,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/logistics-company",
+   "voice": null,
+   "title": "logistics company",
+   "transcription": "[ləd͡ʒɪstɪks kʌmpəni]"
+  },
+  {
+   "id": 1283,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/chemical-laboratory",
+   "voice": null,
+   "title": "chemical laboratory",
+   "transcription": "[kɛməkəl læbɹətɔɹi]"
+  },
+  {
+   "id": 1284,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/agricultural-technologies",
+   "voice": null,
+   "title": "agricultural technologies",
+   "transcription": "[æɡɹəkʌlt͡ʃɹ̩əl tɛknɑləd͡ʒiz]"
+  },
+  {
+   "id": 1285,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/medical-rehabilitation",
+   "voice": null,
+   "title": "medical rehabilitation",
+   "transcription": "[mɛdəkəl ɹihəbɪlɪtejʃən]"
+  },
+  {
+   "id": 1286,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/marketing-agency",
+   "voice": null,
+   "title": "marketing agency",
+   "transcription": "[mɑɹkətɪŋ ejd͡ʒənsi]"
+  },
+  {
+   "id": 1287,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/architectural-design",
+   "voice": null,
+   "title": "architectural design",
+   "transcription": "[ɑɹkətɛkt͡ʃɹ̩əl dɪzajn]"
+  },
+  {
+   "id": 1288,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/photographic-service",
+   "voice": null,
+   "title": "photographic service",
+   "transcription": "[fowtəɡɹæfɪk sɹ̩vəs]"
+  },
+  {
+   "id": 1289,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/veterinary-clinic",
+   "voice": null,
+   "title": "veterinary clinic",
+   "transcription": "[vɛtɹənɛɹi klɪnɪk]"
+  },
+  {
+   "id": 1290,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/metal-production",
+   "voice": null,
+   "title": "metal production",
+   "transcription": "[mɛtəl pɹədʌkʃən]"
+  },
+  {
+   "id": 1291,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/aerospace-manufacturing",
+   "voice": null,
+   "title": "aerospace manufacturing",
+   "transcription": "[ɛɹowspejs mænjəfækt͡ʃɹ̩ɪŋ]"
+  },
+  {
+   "id": 1292,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/working-with-materials",
+   "voice": null,
+   "title": "working with materials",
+   "transcription": "[wɹ̩kɪŋ wɪð mətɪɹiəlz]"
+  },
+  {
+   "id": 1293,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/development-of-new-technologies",
+   "voice": null,
+   "title": "development of new technologies",
+   "transcription": "[dɪvɛləpmənt ʌv nu tɛknɑləd͡ʒiz]"
+  },
+  {
+   "id": 1294,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/work-in-production",
+   "voice": null,
+   "title": "work in production",
+   "transcription": "[wɹ̩k ɪn pɹədʌkʃən]"
+  },
+  {
+   "id": 1295,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/transport-management",
+   "voice": null,
+   "title": "transport management",
+   "transcription": "[tɹænspɔɹt mænəd͡ʒmənt]"
+  },
+  {
+   "id": 1296,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/shipbuilding",
+   "voice": null,
+   "title": "shipbuilding",
+   "transcription": "[ʃɪpbɪldɪŋ]"
+  },
+  {
+   "id": 1297,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/mineral-extraction",
+   "voice": null,
+   "title": "mineral extraction",
+   "transcription": "[mɪnɹ̩əl ɪkstɹækʃən]"
+  },
+  {
+   "id": 1298,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/water-management",
+   "voice": null,
+   "title": "water management",
+   "transcription": "[wɔtɹ̩ mænəd͡ʒmənt]"
+  },
+  {
+   "id": 1299,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/architectural-design",
+   "voice": null,
+   "title": "architectural design",
+   "transcription": "[ɑɹkətɛkt͡ʃɹ̩əl dɪzajn]"
+  }
+ ]
 }
