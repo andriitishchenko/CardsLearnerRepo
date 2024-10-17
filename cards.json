@@ -1281,6 +1281,2406 @@
    "voice": null,
    "title": "¿Cuántos?",
    "transcription": "[¿kwantos?]"
+  },
+  {
+   "id": 1000,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/medical-card",
+   "voice": null,
+   "title": "tarjeta medica",
+   "transcription": "[taɾxeta medika]"
+  },
+  {
+   "id": 1001,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/dental-chair",
+   "voice": null,
+   "title": "sillón dental",
+   "transcription": "[siʝon dental]"
+  },
+  {
+   "id": 1002,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/medical-examination",
+   "voice": null,
+   "title": "examen medico",
+   "transcription": "[eksamen mediko]"
+  },
+  {
+   "id": 1003,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/laboratory-analysis",
+   "voice": null,
+   "title": "análisis de laboratorio",
+   "transcription": "[analisis de laboɾatoɾjo]"
+  },
+  {
+   "id": 1004,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/medical-care",
+   "voice": null,
+   "title": "atención médica",
+   "transcription": "[atension medika]"
+  },
+  {
+   "id": 1005,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/surgical-mask",
+   "voice": null,
+   "title": "mascarilla quirurgica",
+   "transcription": "[maskaɾiʝa kiɾuɾxika]"
+  },
+  {
+   "id": 1006,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sterile-instruments",
+   "voice": null,
+   "title": "instrumentos esterilizados",
+   "transcription": "[instɾumentos esteɾilisados]"
+  },
+  {
+   "id": 1007,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/hospital-ward",
+   "voice": null,
+   "title": "sala de hospital",
+   "transcription": "[sala de ospital]"
+  },
+  {
+   "id": 1008,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/ambulance",
+   "voice": null,
+   "title": "ambulancia",
+   "transcription": "[ambulansia]"
+  },
+  {
+   "id": 1009,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/hospital-bed",
+   "voice": null,
+   "title": "cama de hospital",
+   "transcription": "[kama de ospital]"
+  },
+  {
+   "id": 1010,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/restaurant-menu",
+   "voice": null,
+   "title": "menú del restaurante",
+   "transcription": "[menu del ɾestauɾante]"
+  },
+  {
+   "id": 1011,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fried-fish",
+   "voice": null,
+   "title": "pescado frito",
+   "transcription": "[peskado fɾito]"
+  },
+  {
+   "id": 1012,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/glass-of-wine",
+   "voice": null,
+   "title": "copa de vino",
+   "transcription": "[kopa de bino]"
+  },
+  {
+   "id": 1013,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/table-for-two",
+   "voice": null,
+   "title": "mesa para dos",
+   "transcription": "[mesa paɾa dos]"
+  },
+  {
+   "id": 1014,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fresh-vegetables",
+   "voice": null,
+   "title": "verduras frescas",
+   "transcription": "[beɾduɾas fɾeskas]"
+  },
+  {
+   "id": 1015,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/dessert-menu",
+   "voice": null,
+   "title": "menú de postres",
+   "transcription": "[menu de postɾes]"
+  },
+  {
+   "id": 1016,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/dining-table",
+   "voice": null,
+   "title": "mesa de comedor",
+   "transcription": "[mesa de komedoɾ]"
+  },
+  {
+   "id": 1017,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/ordering-food",
+   "voice": null,
+   "title": "ordenar comida",
+   "transcription": "[oɾdenaɾ komida]"
+  },
+  {
+   "id": 1018,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/restaurant-bill",
+   "voice": null,
+   "title": "factura de restaurante",
+   "transcription": "[faktuɾa de ɾestauɾante]"
+  },
+  {
+   "id": 1019,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/cup-of-coffee",
+   "voice": null,
+   "title": "taza de cafe",
+   "transcription": "[tasa de kafe]"
+  },
+  {
+   "id": 1020,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/foreign-passport",
+   "voice": null,
+   "title": "pasaporte extranjero",
+   "transcription": "[pasapoɾte ekstɾanxeɾo]"
+  },
+  {
+   "id": 1021,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/train-ticket",
+   "voice": null,
+   "title": "billete de tren",
+   "transcription": "[biʝete de tɾen]"
+  },
+  {
+   "id": 1022,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/tourist-map",
+   "voice": null,
+   "title": "mapa turistico",
+   "transcription": "[mapa tuɾistiko]"
+  },
+  {
+   "id": 1023,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/luggage-compartment",
+   "voice": null,
+   "title": "compartimiento de equipaje",
+   "transcription": "[kompaɾtimjento de ekipaxe]"
+  },
+  {
+   "id": 1024,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/grand-hotel",
+   "voice": null,
+   "title": "gran hotel",
+   "transcription": "[ɡɾan otel]"
+  },
+  {
+   "id": 1025,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/guide",
+   "voice": null,
+   "title": "guía",
+   "transcription": "[ɡia]"
+  },
+  {
+   "id": 1026,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sightseeing-bus",
+   "voice": null,
+   "title": "autobús turístico",
+   "transcription": "[autobus tuɾistiko]"
+  },
+  {
+   "id": 1027,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/rented-car",
+   "voice": null,
+   "title": "coche alquilado",
+   "transcription": "[kot͡ʃe alkilado]"
+  },
+  {
+   "id": 1028,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/boarding-gate",
+   "voice": null,
+   "title": "puerta de embarque",
+   "transcription": "[pweɾta de embaɾke]"
+  },
+  {
+   "id": 1029,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/customs-control",
+   "voice": null,
+   "title": "control aduanero",
+   "transcription": "[kontɾol adwaneɾo]"
+  },
+  {
+   "id": 1030,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/beach-umbrella",
+   "voice": null,
+   "title": "parasol",
+   "transcription": "[paɾasol]"
+  },
+  {
+   "id": 1031,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/resort-sea",
+   "voice": null,
+   "title": "mar turístico",
+   "transcription": "[maɾ tuɾistiko]"
+  },
+  {
+   "id": 1032,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sun-lounger-on-the-beach",
+   "voice": null,
+   "title": "tumbona en la playa",
+   "transcription": "[tumbona en la plaja]"
+  },
+  {
+   "id": 1033,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/tourist-tent",
+   "voice": null,
+   "title": "tienda turística",
+   "transcription": "[tjenda tuɾistika]"
+  },
+  {
+   "id": 1034,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/evening-sunset",
+   "voice": null,
+   "title": "atardecer de noche",
+   "transcription": "[ataɾdeseɾ de not͡ʃe]"
+  },
+  {
+   "id": 1035,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/mountain-lake",
+   "voice": null,
+   "title": "lago de montaña",
+   "transcription": "[laɡo de montaɲa]"
+  },
+  {
+   "id": 1036,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/hiking",
+   "voice": null,
+   "title": "senderismo",
+   "transcription": "[sendeɾismo]"
+  },
+  {
+   "id": 1037,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/massage-room",
+   "voice": null,
+   "title": "sala de masajes",
+   "transcription": "[sala de masaxes]"
+  },
+  {
+   "id": 1038,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/holiday-at-the-hotel",
+   "voice": null,
+   "title": "vacaciones en el hotel",
+   "transcription": "[bakasiones en el otel]"
+  },
+  {
+   "id": 1039,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/summer-vacation",
+   "voice": null,
+   "title": "vacaciones de verano",
+   "transcription": "[bakasiones de beɾano]"
+  },
+  {
+   "id": 1040,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/classroom",
+   "voice": null,
+   "title": "aula",
+   "transcription": "[aula]"
+  },
+  {
+   "id": 1041,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/written-assignment",
+   "voice": null,
+   "title": "tarea escrita",
+   "transcription": "[taɾea eskɾita]"
+  },
+  {
+   "id": 1042,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/student-scholarship",
+   "voice": null,
+   "title": "beca estudiantil",
+   "transcription": "[beka estudjantil]"
+  },
+  {
+   "id": 1043,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/school-board",
+   "voice": null,
+   "title": "junta escolar",
+   "transcription": "[xunta eskolaɾ]"
+  },
+  {
+   "id": 1044,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/library-shelf",
+   "voice": null,
+   "title": "estante de la biblioteca",
+   "transcription": "[estante de la bibljoteka]"
+  },
+  {
+   "id": 1045,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/examination-paper",
+   "voice": null,
+   "title": "examen",
+   "transcription": "[eksamen]"
+  },
+  {
+   "id": 1046,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/academic-lecture",
+   "voice": null,
+   "title": "conferencia académica",
+   "transcription": "[konfeɾensia akademika]"
+  },
+  {
+   "id": 1047,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/scientific-conference",
+   "voice": null,
+   "title": "conferencia científica",
+   "transcription": "[konfeɾensia sientifika]"
+  },
+  {
+   "id": 1048,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/student-dormitory",
+   "voice": null,
+   "title": "dormitorio de estudiantes",
+   "transcription": "[doɾmitoɾjo de estudjantes]"
+  },
+  {
+   "id": 1049,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/workbook",
+   "voice": null,
+   "title": "libro de trabajo",
+   "transcription": "[libɾo de tɾabaxo]"
+  },
+  {
+   "id": 1050,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/honest-man",
+   "voice": null,
+   "title": "hombre honesto",
+   "transcription": "[ombɾe onesto]"
+  },
+  {
+   "id": 1051,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/friendly-neighbor",
+   "voice": null,
+   "title": "vecino amigable",
+   "transcription": "[besino amiɡable]"
+  },
+  {
+   "id": 1052,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/patient-teacher",
+   "voice": null,
+   "title": "maestro paciente",
+   "transcription": "[maestɾo pasiente]"
+  },
+  {
+   "id": 1053,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/confident-speaker",
+   "voice": null,
+   "title": "orador confiado",
+   "transcription": "[oɾadoɾ konfjado]"
+  },
+  {
+   "id": 1054,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/generous-gift",
+   "voice": null,
+   "title": "regalo generoso",
+   "transcription": "[ɾeɡalo xeneɾoso]"
+  },
+  {
+   "id": 1055,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/smart-student",
+   "voice": null,
+   "title": "estudiante inteligente",
+   "transcription": "[estudjante intelixente]"
+  },
+  {
+   "id": 1056,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/cheerful-friend",
+   "voice": null,
+   "title": "amigo alegre",
+   "transcription": "[amiɡo aleɡɾe]"
+  },
+  {
+   "id": 1057,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/brave-traveler",
+   "voice": null,
+   "title": "valiente viajero",
+   "transcription": "[baljente bjaxeɾo]"
+  },
+  {
+   "id": 1058,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/attentive-listener",
+   "voice": null,
+   "title": "oyente atento",
+   "transcription": "[ojente atento]"
+  },
+  {
+   "id": 1059,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/creative-artist",
+   "voice": null,
+   "title": "artista creativo",
+   "transcription": "[aɾtista kɾeatibo]"
+  },
+  {
+   "id": 1060,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/simple-food",
+   "voice": null,
+   "title": "comida sencilla",
+   "transcription": "[komida sensiʝa]"
+  },
+  {
+   "id": 1061,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/quiet-restaurant",
+   "voice": null,
+   "title": "restaurante tranquilo",
+   "transcription": "[ɾestauɾante tɾankilo]"
+  },
+  {
+   "id": 1062,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/spacious-room",
+   "voice": null,
+   "title": "habitación espaciosa",
+   "transcription": "[abitasion espasiosa]"
+  },
+  {
+   "id": 1063,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/high-chair",
+   "voice": null,
+   "title": "silla alta",
+   "transcription": "[siʝa alta]"
+  },
+  {
+   "id": 1064,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fried-meat",
+   "voice": null,
+   "title": "carne frita",
+   "transcription": "[kaɾne fɾita]"
+  },
+  {
+   "id": 1065,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fruit-salad",
+   "voice": null,
+   "title": "ensalada de fruta",
+   "transcription": "[ensalada de fɾuta]"
+  },
+  {
+   "id": 1066,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/warm-breakfast",
+   "voice": null,
+   "title": "desayuno caliente",
+   "transcription": "[desajuno kaljente]"
+  },
+  {
+   "id": 1067,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/free-table",
+   "voice": null,
+   "title": "mesa libre",
+   "transcription": "[mesa libɾe]"
+  },
+  {
+   "id": 1068,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/hospitable-staff",
+   "voice": null,
+   "title": "personal hospitalario",
+   "transcription": "[peɾsonal ospitalaɾjo]"
+  },
+  {
+   "id": 1069,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fresh-juice",
+   "voice": null,
+   "title": "jugo fresco",
+   "transcription": "[xuɡo fɾesko]"
+  },
+  {
+   "id": 1070,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/city-​​map",
+   "voice": null,
+   "title": "mapa de la ciudad",
+   "transcription": "[mapa de la siudad]"
+  },
+  {
+   "id": 1071,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/new-hotel",
+   "voice": null,
+   "title": "nuevo hotel",
+   "transcription": "[nwebo otel]"
+  },
+  {
+   "id": 1072,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/museum-ticket",
+   "voice": null,
+   "title": "entrada al museo",
+   "transcription": "[entɾada al museo]"
+  },
+  {
+   "id": 1073,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/tourist-group",
+   "voice": null,
+   "title": "grupo turista",
+   "transcription": "[ɡɾupo tuɾista]"
+  },
+  {
+   "id": 1074,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/ticket-booking",
+   "voice": null,
+   "title": "reserva de billetes",
+   "transcription": "[ɾeseɾba de biʝetes]"
+  },
+  {
+   "id": 1075,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/going-outside",
+   "voice": null,
+   "title": "salir afuera",
+   "transcription": "[saliɾ afweɾa]"
+  },
+  {
+   "id": 1076,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/nightclub",
+   "voice": null,
+   "title": "club nocturno",
+   "transcription": "[klub noktuɾno]"
+  },
+  {
+   "id": 1077,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/beach-volleyball",
+   "voice": null,
+   "title": "voleibol de playa",
+   "transcription": "[boleibol de plaja]"
+  },
+  {
+   "id": 1078,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/evening-walk",
+   "voice": null,
+   "title": "paseo nocturno",
+   "transcription": "[paseo noktuɾno]"
+  },
+  {
+   "id": 1079,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/green-garden",
+   "voice": null,
+   "title": "jardín verde",
+   "transcription": "[xaɾdin beɾde]"
+  },
+  {
+   "id": 1080,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/amusement-park",
+   "voice": null,
+   "title": "parque de atracciones",
+   "transcription": "[paɾke de atɾaksiones]"
+  },
+  {
+   "id": 1081,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/summer-camp",
+   "voice": null,
+   "title": "campamento de verano",
+   "transcription": "[kampamento de beɾano]"
+  },
+  {
+   "id": 1082,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/playground",
+   "voice": null,
+   "title": "patio de juegos",
+   "transcription": "[patjo de xweɡos]"
+  },
+  {
+   "id": 1083,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/creative-task",
+   "voice": null,
+   "title": "tarea creativa",
+   "transcription": "[taɾea kɾeatiba]"
+  },
+  {
+   "id": 1084,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/math-problem",
+   "voice": null,
+   "title": "problema de matematicas",
+   "transcription": "[pɾoblema de matematikas]"
+  },
+  {
+   "id": 1085,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/scientific-work",
+   "voice": null,
+   "title": "trabajo científico",
+   "transcription": "[tɾabaxo sientifiko]"
+  },
+  {
+   "id": 1086,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/school-holidays",
+   "voice": null,
+   "title": "vacaciones escolares",
+   "transcription": "[bakasiones eskolaɾes]"
+  },
+  {
+   "id": 1087,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/lecture-hall",
+   "voice": null,
+   "title": "sala de conferencias",
+   "transcription": "[sala de konfeɾensias]"
+  },
+  {
+   "id": 1088,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/school-uniform",
+   "voice": null,
+   "title": "uniforme escolar",
+   "transcription": "[unifoɾme eskolaɾ]"
+  },
+  {
+   "id": 1089,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/neat-notebook",
+   "voice": null,
+   "title": "cuaderno limpio",
+   "transcription": "[kwadeɾno limpjo]"
+  },
+  {
+   "id": 1090,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/tolerance-towards-others",
+   "voice": null,
+   "title": "tolerancia hacia los demás",
+   "transcription": "[toleɾansia asia los demas]"
+  },
+  {
+   "id": 1091,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sincere-friend",
+   "voice": null,
+   "title": "amigo sincero",
+   "transcription": "[amiɡo sinseɾo]"
+  },
+  {
+   "id": 1092,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/active-participant",
+   "voice": null,
+   "title": "participante activo",
+   "transcription": "[paɾtisipante aktibo]"
+  },
+  {
+   "id": 1093,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/respect-for-others",
+   "voice": null,
+   "title": "respeto por los demás",
+   "transcription": "[ɾespeto poɾ los demas]"
+  },
+  {
+   "id": 1094,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/willingness-to-help",
+   "voice": null,
+   "title": "voluntad de ayudar",
+   "transcription": "[boluntad de ajudaɾ]"
+  },
+  {
+   "id": 1095,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/honest-behavior",
+   "voice": null,
+   "title": "comportamiento honesto",
+   "transcription": "[kompoɾtamjento onesto]"
+  },
+  {
+   "id": 1096,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/bold-decision",
+   "voice": null,
+   "title": "decisión audaz",
+   "transcription": "[desisjon audas]"
+  },
+  {
+   "id": 1097,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/calm-character",
+   "voice": null,
+   "title": "carácter tranquilo",
+   "transcription": "[kaɾakteɾ tɾankilo]"
+  },
+  {
+   "id": 1098,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/proactive-thinking",
+   "voice": null,
+   "title": "pensamiento proactivo",
+   "transcription": "[pensamjento pɾoaktibo]"
+  },
+  {
+   "id": 1099,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/friendly-smile",
+   "voice": null,
+   "title": "sonrisa amistosa",
+   "transcription": "[sonɾisa amistosa]"
+  },
+  {
+   "id": 1100,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/wooden-bench",
+   "voice": null,
+   "title": "banco de madera",
+   "transcription": "[banko de madeɾa]"
+  },
+  {
+   "id": 1101,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/rectangular-table",
+   "voice": null,
+   "title": "mesa rectangular",
+   "transcription": "[mesa ɾektanɡwlaɾ]"
+  },
+  {
+   "id": 1102,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/bright-light",
+   "voice": null,
+   "title": "luz brillante",
+   "transcription": "[lus bɾiʝante]"
+  },
+  {
+   "id": 1103,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/red-hair",
+   "voice": null,
+   "title": "pelo rojo",
+   "transcription": "[pelo ɾoxo]"
+  },
+  {
+   "id": 1104,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/clean-dishes",
+   "voice": null,
+   "title": "platos limpios",
+   "transcription": "[platos limpjos]"
+  },
+  {
+   "id": 1105,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/Blue-eyes",
+   "voice": null,
+   "title": "ojos azules",
+   "transcription": "[oxos asules]"
+  },
+  {
+   "id": 1106,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/cold-water",
+   "voice": null,
+   "title": "agua fría",
+   "transcription": "[aɡwa fɾja]"
+  },
+  {
+   "id": 1107,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/green-grass",
+   "voice": null,
+   "title": "hierba verde",
+   "transcription": "[ʝeɾba beɾde]"
+  },
+  {
+   "id": 1108,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/black-cat",
+   "voice": null,
+   "title": "gato negro",
+   "transcription": "[ɡato neɡɾo]"
+  },
+  {
+   "id": 1109,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/white-dog",
+   "voice": null,
+   "title": "perro blanco",
+   "transcription": "[pero blanko]"
+  },
+  {
+   "id": 1110,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/warm-sweater",
+   "voice": null,
+   "title": "suéter caliente",
+   "transcription": "[sweteɾ kaljente]"
+  },
+  {
+   "id": 1111,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/blue-ball",
+   "voice": null,
+   "title": "bola azul",
+   "transcription": "[bola asul]"
+  },
+  {
+   "id": 1112,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/delicious-food",
+   "voice": null,
+   "title": "comida deliciosa",
+   "transcription": "[komida delisiosa]"
+  },
+  {
+   "id": 1113,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/long-way",
+   "voice": null,
+   "title": "largo camino",
+   "transcription": "[laɾɡo kamino]"
+  },
+  {
+   "id": 1114,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/old-house",
+   "voice": null,
+   "title": "casa antigua",
+   "transcription": "[kasa antiɡwa]"
+  },
+  {
+   "id": 1115,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/red-dress",
+   "voice": null,
+   "title": "vestido rojo",
+   "transcription": "[bestido ɾoxo]"
+  },
+  {
+   "id": 1116,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/high-mountain",
+   "voice": null,
+   "title": "alta montaña",
+   "transcription": "[alta montaɲa]"
+  },
+  {
+   "id": 1117,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/deep-lake",
+   "voice": null,
+   "title": "lago profundo",
+   "transcription": "[laɡo pɾofundo]"
+  },
+  {
+   "id": 1118,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/wooden-chair",
+   "voice": null,
+   "title": "silla de madera",
+   "transcription": "[siʝa de madeɾa]"
+  },
+  {
+   "id": 1119,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/bright-day",
+   "voice": null,
+   "title": "día brillante",
+   "transcription": "[dja bɾiʝante]"
+  },
+  {
+   "id": 1120,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/happy-holiday",
+   "voice": null,
+   "title": "felices vacaciones",
+   "transcription": "[felises bakasiones]"
+  },
+  {
+   "id": 1121,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/quiet-night",
+   "voice": null,
+   "title": "noche tranquila",
+   "transcription": "[not͡ʃe tɾankila]"
+  },
+  {
+   "id": 1122,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/short-hair",
+   "voice": null,
+   "title": "pelo corto",
+   "transcription": "[pelo koɾto]"
+  },
+  {
+   "id": 1123,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/loud-sound",
+   "voice": null,
+   "title": "sonido fuerte",
+   "transcription": "[sonido fweɾte]"
+  },
+  {
+   "id": 1124,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/big-city",
+   "voice": null,
+   "title": "gran ciudad",
+   "transcription": "[ɡɾan siudad]"
+  },
+  {
+   "id": 1125,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/small-child",
+   "voice": null,
+   "title": "niño pequeño",
+   "transcription": "[niɲo pekeɲo]"
+  },
+  {
+   "id": 1126,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sweet-cake",
+   "voice": null,
+   "title": "pastel dulce",
+   "transcription": "[pastel dulse]"
+  },
+  {
+   "id": 1127,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fast-car",
+   "voice": null,
+   "title": "coche rápido",
+   "transcription": "[kot͡ʃe ɾapido]"
+  },
+  {
+   "id": 1128,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/green-leaves",
+   "voice": null,
+   "title": "hojas verdes",
+   "transcription": "[oxas beɾdes]"
+  },
+  {
+   "id": 1129,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/wide-bridge",
+   "voice": null,
+   "title": "puente ancho",
+   "transcription": "[pwente ant͡ʃo]"
+  },
+  {
+   "id": 1130,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/new-book",
+   "voice": null,
+   "title": "nuevo libro",
+   "transcription": "[nwebo libɾo]"
+  },
+  {
+   "id": 1131,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/thin-paper",
+   "voice": null,
+   "title": "papel fino",
+   "transcription": "[papel fino]"
+  },
+  {
+   "id": 1132,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/black-glasses",
+   "voice": null,
+   "title": "gafas negras",
+   "transcription": "[ɡafas neɡɾas]"
+  },
+  {
+   "id": 1133,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/soft-pillow",
+   "voice": null,
+   "title": "almohada suave",
+   "transcription": "[almoada swabe]"
+  },
+  {
+   "id": 1134,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/bright-lamp",
+   "voice": null,
+   "title": "lámpara brillante",
+   "transcription": "[lampaɾa bɾiʝante]"
+  },
+  {
+   "id": 1135,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/cheap-ticket",
+   "voice": null,
+   "title": "billete barato",
+   "transcription": "[biʝete baɾato]"
+  },
+  {
+   "id": 1136,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/loud-laughter",
+   "voice": null,
+   "title": "risa fuerte",
+   "transcription": "[ɾisa fweɾte]"
+  },
+  {
+   "id": 1137,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/hot-tea",
+   "voice": null,
+   "title": "té caliente",
+   "transcription": "[te kaljente]"
+  },
+  {
+   "id": 1138,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/clear-sky",
+   "voice": null,
+   "title": "cielo despejado",
+   "transcription": "[sielo despexado]"
+  },
+  {
+   "id": 1139,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sweet-honey",
+   "voice": null,
+   "title": "dulce miel",
+   "transcription": "[dulse mjel]"
+  },
+  {
+   "id": 1140,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/long-dress",
+   "voice": null,
+   "title": "vestido largo",
+   "transcription": "[bestido laɾɡo]"
+  },
+  {
+   "id": 1141,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/dark-beer",
+   "voice": null,
+   "title": "cerveza oscura",
+   "transcription": "[seɾbesa oskuɾa]"
+  },
+  {
+   "id": 1142,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/yellow-flowers",
+   "voice": null,
+   "title": "flores amarillas",
+   "transcription": "[floɾes amaɾiʝas]"
+  },
+  {
+   "id": 1143,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/spring-rain",
+   "voice": null,
+   "title": "lluvia de primavera",
+   "transcription": "[ʝubja de pɾimabeɾa]"
+  },
+  {
+   "id": 1144,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/heavy-bag",
+   "voice": null,
+   "title": "bolsa pesada",
+   "transcription": "[bolsa pesada]"
+  },
+  {
+   "id": 1145,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/soft-carpet",
+   "voice": null,
+   "title": "alfombra suave",
+   "transcription": "[alfombɾa swabe]"
+  },
+  {
+   "id": 1146,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fast-train",
+   "voice": null,
+   "title": "tren rapido",
+   "transcription": "[tɾen ɾapido]"
+  },
+  {
+   "id": 1147,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fresh-bread",
+   "voice": null,
+   "title": "pan fresco",
+   "transcription": "[pan fɾesko]"
+  },
+  {
+   "id": 1148,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/warm-weather",
+   "voice": null,
+   "title": "clima cálido",
+   "transcription": "[klima kalido]"
+  },
+  {
+   "id": 1149,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/pink-roses",
+   "voice": null,
+   "title": "rosas rosadas",
+   "transcription": "[ɾosas ɾosadas]"
+  },
+  {
+   "id": 1150,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/delicious-dinner",
+   "voice": null,
+   "title": "deliciosa cena",
+   "transcription": "[delisiosa sena]"
+  },
+  {
+   "id": 1151,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/quiet-voice",
+   "voice": null,
+   "title": "voz tranquila",
+   "transcription": "[bos tɾankila]"
+  },
+  {
+   "id": 1152,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/green-apple",
+   "voice": null,
+   "title": "manzana verde",
+   "transcription": "[mansana beɾde]"
+  },
+  {
+   "id": 1153,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/soft-blanket",
+   "voice": null,
+   "title": "manta suave",
+   "transcription": "[manta swabe]"
+  },
+  {
+   "id": 1154,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/white-snow",
+   "voice": null,
+   "title": "nieve blanca",
+   "transcription": "[njebe blanka]"
+  },
+  {
+   "id": 1155,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/bright-sunset",
+   "voice": null,
+   "title": "puesta de sol brillante",
+   "transcription": "[pwesta de sol bɾiʝante]"
+  },
+  {
+   "id": 1156,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/empty-room",
+   "voice": null,
+   "title": "habitación vacía",
+   "transcription": "[abitasion basia]"
+  },
+  {
+   "id": 1157,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/old-phone",
+   "voice": null,
+   "title": "telefono viejo",
+   "transcription": "[telefono bjexo]"
+  },
+  {
+   "id": 1158,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/blue-bike",
+   "voice": null,
+   "title": "bicicleta azul",
+   "transcription": "[bisikleta asul]"
+  },
+  {
+   "id": 1159,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/wet-hair",
+   "voice": null,
+   "title": "cabello mojado",
+   "transcription": "[kabeʝo moxado]"
+  },
+  {
+   "id": 1160,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/green-car",
+   "voice": null,
+   "title": "carro verde",
+   "transcription": "[karo beɾde]"
+  },
+  {
+   "id": 1161,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/short-letter",
+   "voice": null,
+   "title": "carta corta",
+   "transcription": "[kaɾta koɾta]"
+  },
+  {
+   "id": 1162,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/clean-window",
+   "voice": null,
+   "title": "ventana limpia",
+   "transcription": "[bentana limpja]"
+  },
+  {
+   "id": 1163,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/easy-chair",
+   "voice": null,
+   "title": "sillón",
+   "transcription": "[siʝon]"
+  },
+  {
+   "id": 1164,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/dark-chocolate",
+   "voice": null,
+   "title": "chocolate oscuro",
+   "transcription": "[t͡ʃokolate oskuɾo]"
+  },
+  {
+   "id": 1165,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/hot-day",
+   "voice": null,
+   "title": "dia caluroso",
+   "transcription": "[dja kaluɾoso]"
+  },
+  {
+   "id": 1166,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/gold-ring",
+   "voice": null,
+   "title": "anillo de oro",
+   "transcription": "[aniʝo de oɾo]"
+  },
+  {
+   "id": 1167,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/cold-wind",
+   "voice": null,
+   "title": "viento frio",
+   "transcription": "[bjento fɾjo]"
+  },
+  {
+   "id": 1168,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/strong-coffee",
+   "voice": null,
+   "title": "cafe fuerte",
+   "transcription": "[kafe fweɾte]"
+  },
+  {
+   "id": 1169,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fast-internet",
+   "voice": null,
+   "title": "internet rapido",
+   "transcription": "[inteɾnet ɾapido]"
+  },
+  {
+   "id": 1170,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/heavy-backpack",
+   "voice": null,
+   "title": "mochila pesada",
+   "transcription": "[mot͡ʃila pesada]"
+  },
+  {
+   "id": 1171,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sweet-fruits",
+   "voice": null,
+   "title": "frutas dulces",
+   "transcription": "[fɾutas dulses]"
+  },
+  {
+   "id": 1172,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/red-car",
+   "voice": null,
+   "title": "carro rojo",
+   "transcription": "[karo ɾoxo]"
+  },
+  {
+   "id": 1173,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/narrow-street",
+   "voice": null,
+   "title": "calle estrecha",
+   "transcription": "[kaʝe estɾet͡ʃa]"
+  },
+  {
+   "id": 1174,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/big-lake",
+   "voice": null,
+   "title": "gran lago",
+   "transcription": "[ɡɾan laɡo]"
+  },
+  {
+   "id": 1175,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/long-train",
+   "voice": null,
+   "title": "tren largo",
+   "transcription": "[tɾen laɾɡo]"
+  },
+  {
+   "id": 1176,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/blue-ocean",
+   "voice": null,
+   "title": "océano azul",
+   "transcription": "[oseano asul]"
+  },
+  {
+   "id": 1177,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/bright-moon",
+   "voice": null,
+   "title": "luna brillante",
+   "transcription": "[luna bɾiʝante]"
+  },
+  {
+   "id": 1178,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/white-bear",
+   "voice": null,
+   "title": "oso blanco",
+   "transcription": "[oso blanko]"
+  },
+  {
+   "id": 1179,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/little-bird",
+   "voice": null,
+   "title": "pajarito",
+   "transcription": "[paxaɾito]"
+  },
+  {
+   "id": 1180,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/strong-tea",
+   "voice": null,
+   "title": "té fuerte",
+   "transcription": "[te fweɾte]"
+  },
+  {
+   "id": 1181,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/wide-road",
+   "voice": null,
+   "title": "camino ancho",
+   "transcription": "[kamino ant͡ʃo]"
+  },
+  {
+   "id": 1182,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/old-bridge",
+   "voice": null,
+   "title": "puente viejo",
+   "transcription": "[pwente bjexo]"
+  },
+  {
+   "id": 1183,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/tall-building",
+   "voice": null,
+   "title": "edificio alto",
+   "transcription": "[edifisio alto]"
+  },
+  {
+   "id": 1184,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/green-mountains",
+   "voice": null,
+   "title": "montañas verdes",
+   "transcription": "[montaɲas beɾdes]"
+  },
+  {
+   "id": 1185,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/clean-table",
+   "voice": null,
+   "title": "mesa limpia",
+   "transcription": "[mesa limpja]"
+  },
+  {
+   "id": 1186,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sweet-ice-cream",
+   "voice": null,
+   "title": "helado dulce",
+   "transcription": "[elado dulse]"
+  },
+  {
+   "id": 1187,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/soft-toy",
+   "voice": null,
+   "title": "juguete suave",
+   "transcription": "[xuɡete swabe]"
+  },
+  {
+   "id": 1188,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/blue-sky",
+   "voice": null,
+   "title": "cielo azul",
+   "transcription": "[sielo asul]"
+  },
+  {
+   "id": 1189,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/quiet-park",
+   "voice": null,
+   "title": "parque tranquilo",
+   "transcription": "[paɾke tɾankilo]"
+  },
+  {
+   "id": 1190,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/red-apples",
+   "voice": null,
+   "title": "manzanas rojas",
+   "transcription": "[mansanas ɾoxas]"
+  },
+  {
+   "id": 1191,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/strong-walls",
+   "voice": null,
+   "title": "paredes fuertes",
+   "transcription": "[paɾedes fweɾtes]"
+  },
+  {
+   "id": 1192,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/loud-laughter",
+   "voice": null,
+   "title": "risa fuerte",
+   "transcription": "[ɾisa fweɾte]"
+  },
+  {
+   "id": 1193,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sunny-day",
+   "voice": null,
+   "title": "dia soleado",
+   "transcription": "[dja soleado]"
+  },
+  {
+   "id": 1194,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/spring-wind",
+   "voice": null,
+   "title": "viento de primavera",
+   "transcription": "[bjento de pɾimabeɾa]"
+  },
+  {
+   "id": 1195,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/long-line",
+   "voice": null,
+   "title": "larga fila",
+   "transcription": "[laɾɡa fila]"
+  },
+  {
+   "id": 1196,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/black-gloves",
+   "voice": null,
+   "title": "guantes negros",
+   "transcription": "[ɡwantes neɡɾos]"
+  },
+  {
+   "id": 1197,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sweet-drink",
+   "voice": null,
+   "title": "bebida dulce",
+   "transcription": "[bebida dulse]"
+  },
+  {
+   "id": 1198,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/hot-soup",
+   "voice": null,
+   "title": "sopa caliente",
+   "transcription": "[sopa kaljente]"
+  },
+  {
+   "id": 1199,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fast-river",
+   "voice": null,
+   "title": "río rápido",
+   "transcription": "[ɾjo ɾapido]"
+  },
+  {
+   "id": 1200,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/engineering-project",
+   "voice": null,
+   "title": "proyecto de ingenieria",
+   "transcription": "[pɾojekto de inxenjeɾja]"
+  },
+  {
+   "id": 1201,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/construction-plan",
+   "voice": null,
+   "title": "plano de construccion",
+   "transcription": "[plano de konstɾuksion]"
+  },
+  {
+   "id": 1202,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/medical-consultation",
+   "voice": null,
+   "title": "consulta medica",
+   "transcription": "[konsulta medika]"
+  },
+  {
+   "id": 1203,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/teaching-lecture",
+   "voice": null,
+   "title": "conferencia de enseñanza",
+   "transcription": "[konfeɾensia de enseɲansa]"
+  },
+  {
+   "id": 1204,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/accounting-report",
+   "voice": null,
+   "title": "informe contable",
+   "transcription": "[infoɾme kontable]"
+  },
+  {
+   "id": 1205,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/legal-advice",
+   "voice": null,
+   "title": "asesoramiento legal",
+   "transcription": "[asesoɾamjento leɡal]"
+  },
+  {
+   "id": 1206,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/doctor's-prescription",
+   "voice": null,
+   "title": "prescripción médica",
+   "transcription": "[pɾeskɾipsion medika]"
+  },
+  {
+   "id": 1207,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/computer-code",
+   "voice": null,
+   "title": "código de computadora",
+   "transcription": "[kodiɡo de komputadoɾa]"
+  },
+  {
+   "id": 1208,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/trade-agreement",
+   "voice": null,
+   "title": "acuerdo comercial",
+   "transcription": "[akweɾdo komeɾsial]"
+  },
+  {
+   "id": 1209,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/culinary-arts",
+   "voice": null,
+   "title": "artes culinarias",
+   "transcription": "[aɾtes kulinaɾjas]"
+  },
+  {
+   "id": 1210,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/building-design",
+   "voice": null,
+   "title": "diseño de edificio",
+   "transcription": "[diseɲo de edifisio]"
+  },
+  {
+   "id": 1211,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/data-processing",
+   "voice": null,
+   "title": "proceso de datos",
+   "transcription": "[pɾoseso de datos]"
+  },
+  {
+   "id": 1212,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/scientific-research",
+   "voice": null,
+   "title": "investigación científica",
+   "transcription": "[inbestiɡasion sientifika]"
+  },
+  {
+   "id": 1213,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/police-operation",
+   "voice": null,
+   "title": "operación policial",
+   "transcription": "[opeɾasion polisial]"
+  },
+  {
+   "id": 1214,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/car-repair",
+   "voice": null,
+   "title": "reparacion de autos",
+   "transcription": "[ɾepaɾasion de autos]"
+  },
+  {
+   "id": 1215,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/quality-control",
+   "voice": null,
+   "title": "control de calidad",
+   "transcription": "[kontɾol de kalidad]"
+  },
+  {
+   "id": 1216,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/editorial-edit",
+   "voice": null,
+   "title": "edición editorial",
+   "transcription": "[edision editoɾjal]"
+  },
+  {
+   "id": 1217,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/artistic-creativity",
+   "voice": null,
+   "title": "creatividad artística",
+   "transcription": "[kɾeatibidad aɾtistika]"
+  },
+  {
+   "id": 1218,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/film-script",
+   "voice": null,
+   "title": "guión de película",
+   "transcription": "[ɡion de pelikula]"
+  },
+  {
+   "id": 1219,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/journalistic-report",
+   "voice": null,
+   "title": "reportaje periodístico",
+   "transcription": "[ɾepoɾtaxe peɾjodistiko]"
+  },
+  {
+   "id": 1220,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/biologist",
+   "voice": null,
+   "title": "biólogo",
+   "transcription": "[bjoloɡo]"
+  },
+  {
+   "id": 1221,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/real-estate-sales",
+   "voice": null,
+   "title": "ventas de bienes raices",
+   "transcription": "[bentas de bjenes ɾaises]"
+  },
+  {
+   "id": 1222,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/legal-documentation",
+   "voice": null,
+   "title": "documentación legal",
+   "transcription": "[dokumentasion leɡal]"
+  },
+  {
+   "id": 1223,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/transport-logistics",
+   "voice": null,
+   "title": "logística de transporte",
+   "transcription": "[loxistika de tɾanspoɾte]"
+  },
+  {
+   "id": 1224,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/chemical-analysis",
+   "voice": null,
+   "title": "análisis químico",
+   "transcription": "[analisis kimiko]"
+  },
+  {
+   "id": 1225,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/banking-transaction",
+   "voice": null,
+   "title": "transacción bancaria",
+   "transcription": "[tɾansaksion bankaɾja]"
+  },
+  {
+   "id": 1226,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/primary-school-teacher",
+   "voice": null,
+   "title": "maestro de escuela primaria",
+   "transcription": "[maestɾo de eskwela pɾimaɾja]"
+  },
+  {
+   "id": 1227,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/electrical-installation-work",
+   "voice": null,
+   "title": "trabajos de instalacion electrica",
+   "transcription": "[tɾabaxos de instalasion elektɾika]"
+  },
+  {
+   "id": 1228,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/interior-designer",
+   "voice": null,
+   "title": "decorador de interiores",
+   "transcription": "[dekoɾadoɾ de inteɾjoɾes]"
+  },
+  {
+   "id": 1229,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/veterinary-care",
+   "voice": null,
+   "title": "atención veterinaria",
+   "transcription": "[atension beteɾinaɾja]"
+  },
+  {
+   "id": 1230,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/lawyer's-case",
+   "voice": null,
+   "title": "caso del abogado",
+   "transcription": "[kaso del aboɡado]"
+  },
+  {
+   "id": 1231,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/household-appliance-repair",
+   "voice": null,
+   "title": "reparación de electrodomésticos",
+   "transcription": "[ɾepaɾasion de elektɾodomestikos]"
+  },
+  {
+   "id": 1232,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/scientific-experiments",
+   "voice": null,
+   "title": "experimentos científicos",
+   "transcription": "[ekspeɾimentos sientifikos]"
+  },
+  {
+   "id": 1233,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/computer-repair",
+   "voice": null,
+   "title": "reparacion de computadoras",
+   "transcription": "[ɾepaɾasion de komputadoɾas]"
+  },
+  {
+   "id": 1234,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/medical-diagnostics",
+   "voice": null,
+   "title": "diagnostico medico",
+   "transcription": "[djaɡnostiko mediko]"
+  },
+  {
+   "id": 1235,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/translation-of-technical-texts",
+   "voice": null,
+   "title": "traducción de textos técnicos",
+   "transcription": "[tɾaduksion de tekstos teknikos]"
+  },
+  {
+   "id": 1236,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/marketing-campaign",
+   "voice": null,
+   "title": "campaña de marketing",
+   "transcription": "[kampaɲa de maɾketinɡ]"
+  },
+  {
+   "id": 1237,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/language-teaching",
+   "voice": null,
+   "title": "enseñanza de idiomas",
+   "transcription": "[enseɲansa de idjomas]"
+  },
+  {
+   "id": 1238,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/application-programming",
+   "voice": null,
+   "title": "programación de aplicaciones",
+   "transcription": "[pɾoɡɾamasion de aplikasiones]"
+  },
+  {
+   "id": 1239,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/musical-composition",
+   "voice": null,
+   "title": "composicion musical",
+   "transcription": "[komposision musikal]"
+  },
+  {
+   "id": 1240,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/psychological-assistance",
+   "voice": null,
+   "title": "asistencia psicologica",
+   "transcription": "[asistensia psikoloxika]"
+  },
+  {
+   "id": 1241,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/project-management",
+   "voice": null,
+   "title": "gestión de proyectos",
+   "transcription": "[xestjon de pɾojektos]"
+  },
+  {
+   "id": 1242,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/legal-advice",
+   "voice": null,
+   "title": "asesoramiento legal",
+   "transcription": "[asesoɾamjento leɡal]"
+  },
+  {
+   "id": 1243,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/sports-coaching",
+   "voice": null,
+   "title": "entrenamiento deportivo",
+   "transcription": "[entɾenamjento depoɾtibo]"
+  },
+  {
+   "id": 1244,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/international-transportation",
+   "voice": null,
+   "title": "transporte internacional",
+   "transcription": "[tɾanspoɾte inteɾnasional]"
+  },
+  {
+   "id": 1245,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/architectural-design",
+   "voice": null,
+   "title": "diseño arquitectónico",
+   "transcription": "[diseɲo aɾkitektoniko]"
+  },
+  {
+   "id": 1246,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/statistical-analytics",
+   "voice": null,
+   "title": "análisis estadístico",
+   "transcription": "[analisis estadistiko]"
+  },
+  {
+   "id": 1247,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/web-development",
+   "voice": null,
+   "title": "desarrollo web",
+   "transcription": "[desaroʝo web]"
+  },
+  {
+   "id": 1248,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/accounting-audit",
+   "voice": null,
+   "title": "auditoría contable",
+   "transcription": "[auditoɾja kontable]"
+  },
+  {
+   "id": 1249,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/computer-graphics",
+   "voice": null,
+   "title": "gráficos por computadora",
+   "transcription": "[ɡɾafikos poɾ komputadoɾa]"
+  },
+  {
+   "id": 1250,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/market-research",
+   "voice": null,
+   "title": "investigación de mercado",
+   "transcription": "[inbestiɡasion de meɾkado]"
+  },
+  {
+   "id": 1251,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/car-sales",
+   "voice": null,
+   "title": "ventas de autos",
+   "transcription": "[bentas de autos]"
+  },
+  {
+   "id": 1252,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/driving-lessons",
+   "voice": null,
+   "title": "lecciones de manejo",
+   "transcription": "[leksiones de manexo]"
+  },
+  {
+   "id": 1253,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/personnel-management",
+   "voice": null,
+   "title": "gestión de personal",
+   "transcription": "[xestjon de peɾsonal]"
+  },
+  {
+   "id": 1254,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/equipment-operation",
+   "voice": null,
+   "title": "operación del equipo",
+   "transcription": "[opeɾasion del ekipo]"
+  },
+  {
+   "id": 1255,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/medical-equipment",
+   "voice": null,
+   "title": "equipo medico",
+   "transcription": "[ekipo mediko]"
+  },
+  {
+   "id": 1256,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/labor-protection",
+   "voice": null,
+   "title": "protección laboral",
+   "transcription": "[pɾoteksion laboɾal]"
+  },
+  {
+   "id": 1257,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/video-editing",
+   "voice": null,
+   "title": "edición de vídeo",
+   "transcription": "[edision de bideo]"
+  },
+  {
+   "id": 1258,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/staff-training",
+   "voice": null,
+   "title": "formación del personal",
+   "transcription": "[foɾmasion del peɾsonal]"
+  },
+  {
+   "id": 1259,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/agronomic-research",
+   "voice": null,
+   "title": "investigación agronómica",
+   "transcription": "[inbestiɡasion aɡɾonomika]"
+  },
+  {
+   "id": 1260,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/architectural-model",
+   "voice": null,
+   "title": "modelo arquitectónico",
+   "transcription": "[modelo aɾkitektoniko]"
+  },
+  {
+   "id": 1261,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/event-organization",
+   "voice": null,
+   "title": "organización de eventos",
+   "transcription": "[oɾɡanisasion de ebentos]"
+  },
+  {
+   "id": 1262,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/dance-studio",
+   "voice": null,
+   "title": "estudio de baile",
+   "transcription": "[estudjo de baile]"
+  },
+  {
+   "id": 1263,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/film-directing",
+   "voice": null,
+   "title": "dirección de cine",
+   "transcription": "[diɾeksion de sine]"
+  },
+  {
+   "id": 1264,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/creation-of-commercials",
+   "voice": null,
+   "title": "creación de comerciales",
+   "transcription": "[kɾeasion de komeɾsiales]"
+  },
+  {
+   "id": 1265,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/music-teaching",
+   "voice": null,
+   "title": "enseñanza de la música",
+   "transcription": "[enseɲansa de la musika]"
+  },
+  {
+   "id": 1266,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/furniture-restoration",
+   "voice": null,
+   "title": "restauración de muebles",
+   "transcription": "[ɾestauɾasion de mwebles]"
+  },
+  {
+   "id": 1267,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/plumbing-work",
+   "voice": null,
+   "title": "trabajo de plomería",
+   "transcription": "[tɾabaxo de plomeɾja]"
+  },
+  {
+   "id": 1268,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/law-enforcement",
+   "voice": null,
+   "title": "aplicación de la ley",
+   "transcription": "[aplikasion de la lei]"
+  },
+  {
+   "id": 1269,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/logistics-support",
+   "voice": null,
+   "title": "apoyo logístico",
+   "transcription": "[apojo loxistiko]"
+  },
+  {
+   "id": 1270,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/architectural-bureau",
+   "voice": null,
+   "title": "oficina de arquitectura",
+   "transcription": "[ofisina de aɾkitektuɾa]"
+  },
+  {
+   "id": 1271,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/pharmaceutical-plant",
+   "voice": null,
+   "title": "planta farmaceutica",
+   "transcription": "[planta faɾmaseutika]"
+  },
+  {
+   "id": 1272,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/customer-service",
+   "voice": null,
+   "title": "servicio al cliente",
+   "transcription": "[seɾbisio al kljente]"
+  },
+  {
+   "id": 1273,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/server-administration",
+   "voice": null,
+   "title": "administración del servidor",
+   "transcription": "[administɾasion del seɾbidoɾ]"
+  },
+  {
+   "id": 1274,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/website-creation",
+   "voice": null,
+   "title": "creación de sitio web",
+   "transcription": "[kɾeasion de sitjo web]"
+  },
+  {
+   "id": 1275,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/clothing-production",
+   "voice": null,
+   "title": "producción de ropa",
+   "transcription": "[pɾoduksion de ɾopa]"
+  },
+  {
+   "id": 1276,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/work-with-clients",
+   "voice": null,
+   "title": "trabajar con clientes",
+   "transcription": "[tɾabaxaɾ kon kljentes]"
+  },
+  {
+   "id": 1277,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/warehouse-operations",
+   "voice": null,
+   "title": "operaciones de almacén",
+   "transcription": "[opeɾasiones de almasen]"
+  },
+  {
+   "id": 1278,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/excavation-work",
+   "voice": null,
+   "title": "trabajos de excavación",
+   "transcription": "[tɾabaxos de ekskabasion]"
+  },
+  {
+   "id": 1279,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/process-management",
+   "voice": null,
+   "title": "gestión de procesos",
+   "transcription": "[xestjon de pɾosesos]"
+  },
+  {
+   "id": 1280,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/installation-of-air-conditioners",
+   "voice": null,
+   "title": "instalacion de aires acondicionados",
+   "transcription": "[instalasion de aiɾes akondisionados]"
+  },
+  {
+   "id": 1281,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/fire-safety",
+   "voice": null,
+   "title": "seguridad contra incendios",
+   "transcription": "[seɡwɾidad kontɾa insendjos]"
+  },
+  {
+   "id": 1282,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/logistics-company",
+   "voice": null,
+   "title": "empresa de logistica",
+   "transcription": "[empɾesa de loxistika]"
+  },
+  {
+   "id": 1283,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/chemical-laboratory",
+   "voice": null,
+   "title": "laboratorio químico",
+   "transcription": "[laboɾatoɾjo kimiko]"
+  },
+  {
+   "id": 1284,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/agricultural-technologies",
+   "voice": null,
+   "title": "tecnologías agrícolas",
+   "transcription": "[teknoloxias aɡɾikolas]"
+  },
+  {
+   "id": 1285,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/medical-rehabilitation",
+   "voice": null,
+   "title": "rehabilitación medica",
+   "transcription": "[ɾeabilitasion medika]"
+  },
+  {
+   "id": 1286,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/marketing-agency",
+   "voice": null,
+   "title": "agencia de marketing",
+   "transcription": "[axensia de maɾketinɡ]"
+  },
+  {
+   "id": 1287,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/architectural-design",
+   "voice": null,
+   "title": "diseño arquitectónico",
+   "transcription": "[diseɲo aɾkitektoniko]"
+  },
+  {
+   "id": 1288,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/photographic-service",
+   "voice": null,
+   "title": "servicio fotográfico",
+   "transcription": "[seɾbisio fotoɡɾafiko]"
+  },
+  {
+   "id": 1289,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/veterinary-clinic",
+   "voice": null,
+   "title": "clínica veterinaria",
+   "transcription": "[klinika beteɾinaɾja]"
+  },
+  {
+   "id": 1290,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/metal-production",
+   "voice": null,
+   "title": "producción de metales",
+   "transcription": "[pɾoduksion de metales]"
+  },
+  {
+   "id": 1291,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/aerospace-manufacturing",
+   "voice": null,
+   "title": "fabricación aeroespacial",
+   "transcription": "[fabɾikasion aeɾoespasial]"
+  },
+  {
+   "id": 1292,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/working-with-materials",
+   "voice": null,
+   "title": "trabajando con materiales",
+   "transcription": "[tɾabaxando kon mateɾjales]"
+  },
+  {
+   "id": 1293,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/development-of-new-technologies",
+   "voice": null,
+   "title": "desarrollo de nuevas tecnologías",
+   "transcription": "[desaroʝo de nwebas teknoloxias]"
+  },
+  {
+   "id": 1294,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/work-in-production",
+   "voice": null,
+   "title": "trabajar en producción",
+   "transcription": "[tɾabaxaɾ en pɾoduksion]"
+  },
+  {
+   "id": 1295,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/transport-management",
+   "voice": null,
+   "title": "gestión del transporte",
+   "transcription": "[xestjon del tɾanspoɾte]"
+  },
+  {
+   "id": 1296,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/shipbuilding",
+   "voice": null,
+   "title": "construcción naval",
+   "transcription": "[konstɾuksion nabal]"
+  },
+  {
+   "id": 1297,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/mineral-extraction",
+   "voice": null,
+   "title": "extracción de minerales",
+   "transcription": "[ekstɾaksion de mineɾales]"
+  },
+  {
+   "id": 1298,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/water-management",
+   "voice": null,
+   "title": "gestión del agua",
+   "transcription": "[xestjon del aɡwa]"
+  },
+  {
+   "id": 1299,
+   "categoryId": 100,
+   "picture": "https://loremflickr.com/640/480/architectural-design",
+   "voice": null,
+   "title": "diseño arquitectónico",
+   "transcription": "[diseɲo aɾkitektoniko]"
   }
  ]
 }
