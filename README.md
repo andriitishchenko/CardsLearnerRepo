@@ -1,5 +1,8 @@
+Facebook https://www.facebook.com/LearnWithCard
+
+App Store https://apps.apple.com/us/app/learn-with-cards/id6736633004
+
 # CardsLearnerRepo
-resources for "Learn with Cards" app
 
 ## English
 
