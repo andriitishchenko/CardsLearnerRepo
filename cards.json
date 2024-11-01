@@ -79,7 +79,7 @@
    "categoryId": 1,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/10.png",
    "voice": null,
-   "title": "Двоюрідна Сестра",
+   "title": "Двоюрідна сестра",
    "transcription": "[dvɔurʲidnɑ sɛstrɑ]"
   },
   {
@@ -95,7 +95,7 @@
    "categoryId": 2,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/12.png",
    "voice": null,
-   "title": "Кубок",
+   "title": "Чашка",
    "transcription": "[kubɔk]"
   },
   {
@@ -127,8 +127,8 @@
    "categoryId": 2,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/16.png",
    "voice": null,
-   "title": "Сковорода",
-   "transcription": "[skovoroda]"
+   "title": "Кастрюля",
+   "transcription": "[pɑn]"
   },
   {
    "id": 17,
@@ -223,7 +223,7 @@
    "categoryId": 3,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/28.png",
    "voice": null,
-   "title": "Поїзд",
+   "title": "Потяг",
    "transcription": "[pɔjizd]"
   },
   {
@@ -455,7 +455,7 @@
    "categoryId": 6,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/57.png",
    "voice": null,
-   "title": "М'Ясо",
+   "title": "М'ясо",
    "transcription": "[m'ɑsɔ]"
   },
   {
@@ -503,7 +503,7 @@
    "categoryId": 7,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/63.png",
    "voice": null,
-   "title": "Піджак",
+   "title": "Куртка",
    "transcription": "[pidʐɑk]"
   },
   {
@@ -511,7 +511,7 @@
    "categoryId": 7,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/64.png",
    "voice": null,
-   "title": "Плаття",
+   "title": "Сукня",
    "transcription": "[plɑttʲɑ]"
   },
   {
@@ -583,7 +583,7 @@
    "categoryId": 8,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/73.png",
    "voice": null,
-   "title": "Перо",
+   "title": "Ручка",
    "transcription": "[pɛrɔ]"
   },
   {
@@ -599,7 +599,7 @@
    "categoryId": 8,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/75.png",
    "voice": null,
-   "title": "Ноутбук",
+   "title": "Блокнот",
    "transcription": "[nɔutbuk]"
   },
   {
@@ -607,7 +607,7 @@
    "categoryId": 8,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/76.png",
    "voice": null,
-   "title": "Письмовий Стіл",
+   "title": "Письмовий стіл",
    "transcription": "[pɪsʲmɔvɪj stʲil]"
   },
   {
@@ -727,7 +727,7 @@
    "categoryId": 10,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/91.png",
    "voice": null,
-   "title": "Комп'Ютер",
+   "title": "Комп'ютер",
    "transcription": "[kɔmp'utɛr]"
   },
   {
@@ -991,7 +991,7 @@
    "categoryId": 13,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/124.png",
    "voice": null,
-   "title": "Смішно",
+   "title": "Смішний",
    "transcription": "[smiʂnɔ]"
   },
   {
@@ -1015,7 +1015,7 @@
    "categoryId": 13,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/127.png",
    "voice": null,
-   "title": "Сором'Язливий",
+   "title": "Сором'язливий",
    "transcription": "[sɔrɔm'ɑzlɪvɪj]"
   },
   {
@@ -1023,7 +1023,7 @@
    "categoryId": 13,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/128.png",
    "voice": null,
-   "title": "Серйозно",
+   "title": "Серйозний",
    "transcription": "[sɛrjɔznɔ]"
   },
   {
@@ -1063,7 +1063,7 @@
    "categoryId": 14,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/133.png",
    "voice": null,
-   "title": "Швидко",
+   "title": "Швидкий",
    "transcription": "[ʂvɪdkɔ]"
   },
   {
@@ -1071,7 +1071,7 @@
    "categoryId": 14,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/134.png",
    "voice": null,
-   "title": "Повільно",
+   "title": "Повільний",
    "transcription": "[pɔvilʲnɔ]"
   },
   {
@@ -1079,7 +1079,7 @@
    "categoryId": 14,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/135.png",
    "voice": null,
-   "title": "Гаряче",
+   "title": "Гарячий",
    "transcription": "[ɦɑrʲɑʈ͡ʂɛ]"
   },
   {
@@ -1095,7 +1095,7 @@
    "categoryId": 14,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/137.png",
    "voice": null,
-   "title": "Добре",
+   "title": "Добрий",
    "transcription": "[dɔbrɛ]"
   },
   {
@@ -1103,7 +1103,7 @@
    "categoryId": 14,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/138.png",
    "voice": null,
-   "title": "Погано",
+   "title": "Поганий",
    "transcription": "[pɔɦɑnɔ]"
   },
   {
@@ -1183,7 +1183,7 @@
    "categoryId": 15,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/148.png",
    "voice": null,
-   "title": "Я",
+   "title": "Мені",
    "transcription": "[jɑ]"
   },
   {
@@ -1255,7 +1255,7 @@
    "categoryId": 16,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/157.png",
    "voice": null,
-   "title": "Які?",
+   "title": "Котрий?",
    "transcription": "[jɑki?]"
   },
   {
