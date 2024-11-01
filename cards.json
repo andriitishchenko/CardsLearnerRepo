@@ -79,7 +79,7 @@
    "categoryId": 1,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/10.png",
    "voice": null,
-   "title": "Двоюродный Брат",
+   "title": "Двоюродный брат",
    "transcription": "[dvourodnɨj brat]"
   },
   {
@@ -127,8 +127,8 @@
    "categoryId": 2,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/16.png",
    "voice": null,
-   "title": "Сковорода",
-   "transcription": "[skovoroda]"
+   "title": "Кастрюля",
+   "transcription": "[kastrʲulʲa]"
   },
   {
    "id": 17,
@@ -151,7 +151,7 @@
    "categoryId": 2,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/19.png",
    "voice": null,
-   "title": "Микроволновая Печь",
+   "title": "Микроволновка",
    "transcription": "[mʲikrovolnovaa pʲet͡ɕʲ]"
   },
   {
@@ -223,7 +223,7 @@
    "categoryId": 3,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/28.png",
    "voice": null,
-   "title": "Тренироваться",
+   "title": "Поезд",
    "transcription": "[trʲenirovatʲsʲa]"
   },
   {
@@ -511,7 +511,7 @@
    "categoryId": 7,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/64.png",
    "voice": null,
-   "title": "Одеваться",
+   "title": "Платье",
    "transcription": "[odʲevatʲsʲa]"
   },
   {
@@ -607,7 +607,7 @@
    "categoryId": 8,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/76.png",
    "voice": null,
-   "title": "Рабочий Стол",
+   "title": "Письменный стол",
    "transcription": "[rabot͡ɕʲij stol]"
   },
   {
@@ -639,7 +639,7 @@
    "categoryId": 8,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/80.png",
    "voice": null,
-   "title": "Правитель",
+   "title": "Линейка",
    "transcription": "[pravʲitʲelʲ]"
   },
   {
@@ -647,7 +647,7 @@
    "categoryId": 9,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/81.png",
    "voice": null,
-   "title": "Футбольный",
+   "title": "Футбол",
    "transcription": "[futbolʲnɨj]"
   },
   {
@@ -743,7 +743,7 @@
    "categoryId": 10,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/93.png",
    "voice": null,
-   "title": "Таблетка",
+   "title": "Планшет",
    "transcription": "[tablʲetka]"
   },
   {
@@ -855,7 +855,7 @@
    "categoryId": 11,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/107.png",
    "voice": null,
-   "title": "Возбуждение",
+   "title": "Волнение",
    "transcription": "[vozbuʒdʲenie]"
   },
   {
@@ -991,7 +991,7 @@
    "categoryId": 13,
    "picture": "https://andriitishchenko.github.io/CardsLearnerRepo/images/124.png",
    "voice": null,
-   "title": "Забавный",
+   "title": "Смешной",
    "transcription": "[zabavnɨj]"
   },
   {
